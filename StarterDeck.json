@@ -1,0 +1,556 @@
+[
+  {
+    "title": "Blue Starter Deck",
+    "id": "f0e65fc4-2c7b-4c78-ba32-fd85e6c2ba3a",
+    "game": "CookieRunBraverseV1",
+    "format": [
+      "Classic"
+    ],
+    "cardCount": 60,
+    "createdAt": "2025-12-20T00:25:19.699Z",
+    "lastModifiedAt": "2025-12-20T00:25:31.898Z",
+    "deckList": {
+      "categoriesOrder": [
+        "Cookie",
+        "Item",
+        "Stage"
+      ],
+      "Sideboard": [],
+      "Cookie": [
+        {
+          "count": 4,
+          "id": "ST4-001"
+        },
+        {
+          "count": 4,
+          "id": "ST4-002"
+        },
+        {
+          "count": 4,
+          "id": "ST4-003"
+        },
+        {
+          "count": 2,
+          "id": "ST4-004"
+        },
+        {
+          "count": 4,
+          "id": "ST4-005"
+        },
+        {
+          "count": 4,
+          "id": "ST4-006"
+        },
+        {
+          "count": 2,
+          "id": "ST4-007"
+        },
+        {
+          "count": 2,
+          "id": "ST4-008"
+        },
+        {
+          "count": 4,
+          "id": "ST4-009"
+        },
+        {
+          "count": 2,
+          "id": "ST4-010"
+        },
+        {
+          "count": 4,
+          "id": "ST4-011"
+        },
+        {
+          "count": 2,
+          "id": "ST4-012"
+        },
+        {
+          "count": 2,
+          "id": "ST4-013"
+        },
+        {
+          "count": 4,
+          "id": "ST4-014"
+        },
+        {
+          "count": 2,
+          "id": "ST4-015"
+        }
+      ],
+      "Item": [
+        {
+          "count": 2,
+          "id": "ST4-016"
+        },
+        {
+          "count": 2,
+          "id": "ST4-017"
+        },
+        {
+          "count": 2,
+          "id": "ST4-018"
+        },
+        {
+          "count": 2,
+          "id": "ST4-019"
+        },
+        {
+          "count": 2,
+          "id": "ST4-020"
+        },
+        {
+          "count": 2,
+          "id": "ST4-021"
+        }
+      ],
+      "Stage": [
+        {
+          "count": 2,
+          "id": "ST4-022"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Green Starter Deck",
+    "id": "e917f40f-7992-4186-bdfb-5640c8f46964",
+    "game": "CookieRunBraverseV1",
+    "format": [
+      "Classic"
+    ],
+    "cardCount": 60,
+    "createdAt": "2025-12-20T00:23:30.639Z",
+    "lastModifiedAt": "2025-12-20T00:24:38.017Z",
+    "deckList": {
+      "categoriesOrder": [
+        "Cookie",
+        "Item",
+        "Stage"
+      ],
+      "Sideboard": [],
+      "Cookie": [
+        {
+          "count": 2,
+          "id": "ST3-001"
+        },
+        {
+          "count": 4,
+          "id": "ST3-003"
+        },
+        {
+          "count": 2,
+          "id": "ST3-004"
+        },
+        {
+          "count": 2,
+          "id": "ST3-005"
+        },
+        {
+          "count": 4,
+          "id": "ST3-006"
+        },
+        {
+          "count": 4,
+          "id": "ST3-007"
+        },
+        {
+          "count": 4,
+          "id": "ST3-008"
+        },
+        {
+          "count": 2,
+          "id": "ST3-009"
+        },
+        {
+          "count": 2,
+          "id": "ST3-010"
+        },
+        {
+          "count": 4,
+          "id": "ST3-011"
+        },
+        {
+          "count": 4,
+          "id": "ST3-012"
+        },
+        {
+          "count": 4,
+          "id": "ST3-013"
+        },
+        {
+          "count": 4,
+          "id": "ST3-014"
+        },
+        {
+          "count": 2,
+          "id": "ST3-015"
+        },
+        {
+          "count": 2,
+          "id": "ST3-002"
+        }
+      ],
+      "Item": [
+        {
+          "count": 2,
+          "id": "ST3-016"
+        },
+        {
+          "count": 2,
+          "id": "ST3-017"
+        },
+        {
+          "count": 2,
+          "id": "ST3-018"
+        },
+        {
+          "count": 2,
+          "id": "ST3-019"
+        },
+        {
+          "count": 2,
+          "id": "ST3-020"
+        },
+        {
+          "count": 2,
+          "id": "ST3-021"
+        }
+      ],
+      "Stage": [
+        {
+          "count": 2,
+          "id": "ST3-022"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Purple Starter Deck",
+    "id": "fca0219e-712b-4e63-b31e-2aa5066ff581",
+    "game": "CookieRunBraverseV1",
+    "format": [
+      "Classic"
+    ],
+    "cardCount": 60,
+    "createdAt": "2025-12-20T00:25:43.250Z",
+    "lastModifiedAt": "2025-12-20T00:26:10.003Z",
+    "deckList": {
+      "categoriesOrder": [
+        "Cookie",
+        "Item",
+        "Stage"
+      ],
+      "Sideboard": [],
+      "Cookie": [
+        {
+          "count": 2,
+          "id": "ST5-001"
+        },
+        {
+          "count": 4,
+          "id": "ST5-002"
+        },
+        {
+          "count": 4,
+          "id": "ST5-003"
+        },
+        {
+          "count": 2,
+          "id": "ST5-004"
+        },
+        {
+          "count": 4,
+          "id": "ST5-005"
+        },
+        {
+          "count": 2,
+          "id": "ST5-006"
+        },
+        {
+          "count": 2,
+          "id": "ST5-007"
+        },
+        {
+          "count": 4,
+          "id": "ST5-008"
+        },
+        {
+          "count": 4,
+          "id": "ST5-009"
+        },
+        {
+          "count": 2,
+          "id": "ST5-010"
+        },
+        {
+          "count": 4,
+          "id": "ST5-011"
+        },
+        {
+          "count": 4,
+          "id": "ST5-012"
+        },
+        {
+          "count": 2,
+          "id": "ST5-013"
+        },
+        {
+          "count": 4,
+          "id": "ST5-014"
+        },
+        {
+          "count": 2,
+          "id": "ST5-015"
+        }
+      ],
+      "Item": [
+        {
+          "count": 2,
+          "id": "ST5-016"
+        },
+        {
+          "count": 2,
+          "id": "ST5-017"
+        },
+        {
+          "count": 2,
+          "id": "ST5-018"
+        },
+        {
+          "count": 2,
+          "id": "ST5-019"
+        },
+        {
+          "count": 2,
+          "id": "ST5-020"
+        },
+        {
+          "count": 2,
+          "id": "ST5-021"
+        }
+      ],
+      "Stage": [
+        {
+          "count": 2,
+          "id": "ST5-022"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Red Starter Deck",
+    "id": "af1347ec-7fd1-49c8-8964-d37b8f103249",
+    "game": "CookieRunBraverseV1",
+    "format": [
+      "Classic"
+    ],
+    "cardCount": 60,
+    "createdAt": "2025-12-19T16:16:45.977Z",
+    "lastModifiedAt": "2025-12-19T16:18:33.660Z",
+    "deckList": {
+      "categoriesOrder": [
+        "Cookie",
+        "Item",
+        "Stage"
+      ],
+      "Sideboard": [],
+      "Cookie": [
+        {
+          "count": 4,
+          "id": "ST1-001"
+        },
+        {
+          "count": 2,
+          "id": "ST1-002"
+        },
+        {
+          "count": 2,
+          "id": "ST1-003"
+        },
+        {
+          "count": 4,
+          "id": "ST1-004"
+        },
+        {
+          "count": 4,
+          "id": "ST1-005"
+        },
+        {
+          "count": 4,
+          "id": "ST1-006"
+        },
+        {
+          "count": 2,
+          "id": "ST1-007"
+        },
+        {
+          "count": 2,
+          "id": "ST1-008"
+        },
+        {
+          "count": 2,
+          "id": "ST1-009"
+        },
+        {
+          "count": 2,
+          "id": "ST1-010"
+        },
+        {
+          "count": 4,
+          "id": "ST1-011"
+        },
+        {
+          "count": 4,
+          "id": "ST1-012"
+        },
+        {
+          "count": 4,
+          "id": "ST1-013"
+        },
+        {
+          "count": 4,
+          "id": "ST1-015"
+        },
+        {
+          "count": 2,
+          "id": "ST1-014"
+        }
+      ],
+      "Item": [
+        {
+          "count": 2,
+          "id": "ST1-016"
+        },
+        {
+          "count": 2,
+          "id": "ST1-017"
+        },
+        {
+          "count": 2,
+          "id": "ST1-019"
+        },
+        {
+          "count": 2,
+          "id": "ST1-020"
+        },
+        {
+          "count": 2,
+          "id": "ST1-021"
+        },
+        {
+          "count": 2,
+          "id": "ST1-018"
+        }
+      ],
+      "Stage": [
+        {
+          "count": 2,
+          "id": "ST1-022"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Yellow Starter Deck",
+    "id": "9df19072-5a6b-4c9e-9c9e-189d7634aedc",
+    "game": "CookieRunBraverseV1",
+    "format": [
+      "Classic"
+    ],
+    "cardCount": 60,
+    "createdAt": "2025-12-20T00:22:31.974Z",
+    "lastModifiedAt": "2025-12-20T00:22:41.134Z",
+    "deckList": {
+      "categoriesOrder": [
+        "Cookie",
+        "Item"
+      ],
+      "Sideboard": [],
+      "Cookie": [
+        {
+          "count": 2,
+          "id": "ST2-001"
+        },
+        {
+          "count": 4,
+          "id": "ST2-002"
+        },
+        {
+          "count": 2,
+          "id": "ST2-003"
+        },
+        {
+          "count": 2,
+          "id": "ST2-004"
+        },
+        {
+          "count": 4,
+          "id": "ST2-005"
+        },
+        {
+          "count": 4,
+          "id": "ST2-006"
+        },
+        {
+          "count": 4,
+          "id": "ST2-007"
+        },
+        {
+          "count": 2,
+          "id": "ST2-008"
+        },
+        {
+          "count": 4,
+          "id": "ST2-009"
+        },
+        {
+          "count": 4,
+          "id": "ST2-010"
+        },
+        {
+          "count": 4,
+          "id": "ST2-011"
+        },
+        {
+          "count": 4,
+          "id": "ST2-012"
+        },
+        {
+          "count": 4,
+          "id": "ST2-013"
+        },
+        {
+          "count": 4,
+          "id": "ST2-014"
+        },
+        {
+          "count": 2,
+          "id": "ST2-015"
+        }
+      ],
+      "Item": [
+        {
+          "count": 2,
+          "id": "ST2-016"
+        },
+        {
+          "count": 2,
+          "id": "ST2-018"
+        },
+        {
+          "count": 2,
+          "id": "ST2-019"
+        },
+        {
+          "count": 2,
+          "id": "ST2-020"
+        },
+        {
+          "count": 2,
+          "id": "ST2-021"
+        }
+      ]
+    }
+  }
+]
