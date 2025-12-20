@@ -1,0 +1,113 @@
+{
+  "title": "Purple Starter Deck",
+  "id": "fca0219e-712b-4e63-b31e-2aa5066ff581",
+  "game": "CookieRunBraverseV1",
+  "format": [
+    "Classic"
+  ],
+  "cardCount": 60,
+  "createdAt": "2025-12-20T00:25:43.250Z",
+  "lastModifiedAt": "2025-12-20T00:26:10.003Z",
+  "deckList": {
+    "categoriesOrder": [
+      "Cookie",
+      "Item",
+      "Stage"
+    ],
+    "Sideboard": [],
+    "Cookie": [
+      {
+        "count": 2,
+        "id": "ST5-001"
+      },
+      {
+        "count": 4,
+        "id": "ST5-002"
+      },
+      {
+        "count": 4,
+        "id": "ST5-003"
+      },
+      {
+        "count": 2,
+        "id": "ST5-004"
+      },
+      {
+        "count": 4,
+        "id": "ST5-005"
+      },
+      {
+        "count": 2,
+        "id": "ST5-006"
+      },
+      {
+        "count": 2,
+        "id": "ST5-007"
+      },
+      {
+        "count": 4,
+        "id": "ST5-008"
+      },
+      {
+        "count": 4,
+        "id": "ST5-009"
+      },
+      {
+        "count": 2,
+        "id": "ST5-010"
+      },
+      {
+        "count": 4,
+        "id": "ST5-011"
+      },
+      {
+        "count": 4,
+        "id": "ST5-012"
+      },
+      {
+        "count": 2,
+        "id": "ST5-013"
+      },
+      {
+        "count": 4,
+        "id": "ST5-014"
+      },
+      {
+        "count": 2,
+        "id": "ST5-015"
+      }
+    ],
+    "Item": [
+      {
+        "count": 2,
+        "id": "ST5-016"
+      },
+      {
+        "count": 2,
+        "id": "ST5-017"
+      },
+      {
+        "count": 2,
+        "id": "ST5-018"
+      },
+      {
+        "count": 2,
+        "id": "ST5-019"
+      },
+      {
+        "count": 2,
+        "id": "ST5-020"
+      },
+      {
+        "count": 2,
+        "id": "ST5-021"
+      }
+    ],
+    "Stage": [
+      {
+        "count": 2,
+        "id": "ST5-022"
+      }
+    ]
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "title": "Green Starter Deck",
+  "id": "e917f40f-7992-4186-bdfb-5640c8f46964",
+  "game": "CookieRunBraverseV1",
+  "format": [
+    "Classic"
+  ],
+  "cardCount": 60,
+  "createdAt": "2025-12-20T00:23:30.639Z",
+  "lastModifiedAt": "2025-12-20T00:24:38.017Z",
+  "deckList": {
+    "categoriesOrder": [
+      "Cookie",
+      "Item",
+      "Stage"
+    ],
+    "Sideboard": [],
+    "Cookie": [
+      {
+        "count": 2,
+        "id": "ST3-001"
+      },
+      {
+        "count": 4,
+        "id": "ST3-003"
+      },
+      {
+        "count": 2,
+        "id": "ST3-004"
+      },
+      {
+        "count": 2,
+        "id": "ST3-005"
+      },
+      {
+        "count": 4,
+        "id": "ST3-006"
+      },
+      {
+        "count": 4,
+        "id": "ST3-007"
+      },
+      {
+        "count": 4,
+        "id": "ST3-008"
+      },
+      {
+        "count": 2,
+        "id": "ST3-009"
+      },
+      {
+        "count": 2,
+        "id": "ST3-010"
+      },
+      {
+        "count": 4,
+        "id": "ST3-011"
+      },
+      {
+        "count": 4,
+        "id": "ST3-012"
+      },
+      {
+        "count": 4,
+        "id": "ST3-013"
+      },
+      {
+        "count": 4,
+        "id": "ST3-014"
+      },
+      {
+        "count": 2,
+        "id": "ST3-015"
+      },
+      {
+        "count": 2,
+        "id": "ST3-002"
+      }
+    ],
+    "Item": [
+      {
+        "count": 2,
+        "id": "ST3-016"
+      },
+      {
+        "count": 2,
+        "id": "ST3-017"
+      },
+      {
+        "count": 2,
+        "id": "ST3-018"
+      },
+      {
+        "count": 2,
+        "id": "ST3-019"
+      },
+      {
+        "count": 2,
+        "id": "ST3-020"
+      },
+      {
+        "count": 2,
+        "id": "ST3-021"
+      }
+    ],
+    "Stage": [
+      {
+        "count": 2,
+        "id": "ST3-022"
+      }
+    ]
+  }
+}

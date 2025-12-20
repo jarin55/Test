@@ -1,0 +1,102 @@
+{
+  "title": "Yellow Starter Deck",
+  "id": "9df19072-5a6b-4c9e-9c9e-189d7634aedc",
+  "game": "CookieRunBraverseV1",
+  "format": [
+    "Classic"
+  ],
+  "cardCount": 60,
+  "createdAt": "2025-12-20T00:22:31.974Z",
+  "lastModifiedAt": "2025-12-20T00:22:41.134Z",
+  "deckList": {
+    "categoriesOrder": [
+      "Cookie",
+      "Item"
+    ],
+    "Sideboard": [],
+    "Cookie": [
+      {
+        "count": 2,
+        "id": "ST2-001"
+      },
+      {
+        "count": 4,
+        "id": "ST2-002"
+      },
+      {
+        "count": 2,
+        "id": "ST2-003"
+      },
+      {
+        "count": 2,
+        "id": "ST2-004"
+      },
+      {
+        "count": 4,
+        "id": "ST2-005"
+      },
+      {
+        "count": 4,
+        "id": "ST2-006"
+      },
+      {
+        "count": 4,
+        "id": "ST2-007"
+      },
+      {
+        "count": 2,
+        "id": "ST2-008"
+      },
+      {
+        "count": 4,
+        "id": "ST2-009"
+      },
+      {
+        "count": 4,
+        "id": "ST2-010"
+      },
+      {
+        "count": 4,
+        "id": "ST2-011"
+      },
+      {
+        "count": 4,
+        "id": "ST2-012"
+      },
+      {
+        "count": 4,
+        "id": "ST2-013"
+      },
+      {
+        "count": 4,
+        "id": "ST2-014"
+      },
+      {
+        "count": 2,
+        "id": "ST2-015"
+      }
+    ],
+    "Item": [
+      {
+        "count": 2,
+        "id": "ST2-016"
+      },
+      {
+        "count": 2,
+        "id": "ST2-018"
+      },
+      {
+        "count": 2,
+        "id": "ST2-019"
+      },
+      {
+        "count": 2,
+        "id": "ST2-020"
+      },
+      {
+        "count": 2,
+        "id": "ST2-021"
+      }
+    ]
+  }
+}

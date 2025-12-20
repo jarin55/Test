@@ -1,0 +1,113 @@
+{
+  "title": "Red Starter Deck",
+  "id": "af1347ec-7fd1-49c8-8964-d37b8f103249",
+  "game": "CookieRunBraverseV1",
+  "format": [
+    "Classic"
+  ],
+  "cardCount": 60,
+  "createdAt": "2025-12-19T16:16:45.977Z",
+  "lastModifiedAt": "2025-12-19T16:18:33.660Z",
+  "deckList": {
+    "categoriesOrder": [
+      "Cookie",
+      "Item",
+      "Stage"
+    ],
+    "Sideboard": [],
+    "Cookie": [
+      {
+        "count": 4,
+        "id": "ST1-001"
+      },
+      {
+        "count": 2,
+        "id": "ST1-002"
+      },
+      {
+        "count": 2,
+        "id": "ST1-003"
+      },
+      {
+        "count": 4,
+        "id": "ST1-004"
+      },
+      {
+        "count": 4,
+        "id": "ST1-005"
+      },
+      {
+        "count": 4,
+        "id": "ST1-006"
+      },
+      {
+        "count": 2,
+        "id": "ST1-007"
+      },
+      {
+        "count": 2,
+        "id": "ST1-008"
+      },
+      {
+        "count": 2,
+        "id": "ST1-009"
+      },
+      {
+        "count": 2,
+        "id": "ST1-010"
+      },
+      {
+        "count": 4,
+        "id": "ST1-011"
+      },
+      {
+        "count": 4,
+        "id": "ST1-012"
+      },
+      {
+        "count": 4,
+        "id": "ST1-013"
+      },
+      {
+        "count": 4,
+        "id": "ST1-015"
+      },
+      {
+        "count": 2,
+        "id": "ST1-014"
+      }
+    ],
+    "Item": [
+      {
+        "count": 2,
+        "id": "ST1-016"
+      },
+      {
+        "count": 2,
+        "id": "ST1-017"
+      },
+      {
+        "count": 2,
+        "id": "ST1-019"
+      },
+      {
+        "count": 2,
+        "id": "ST1-020"
+      },
+      {
+        "count": 2,
+        "id": "ST1-021"
+      },
+      {
+        "count": 2,
+        "id": "ST1-018"
+      }
+    ],
+    "Stage": [
+      {
+        "count": 2,
+        "id": "ST1-022"
+      }
+    ]
+  }
+}
