@@ -9,10 +9,10 @@
   },
   "customHelp": "",
   "cardRotation": "90",
-    "cards": {
-        "dataUrl": "https://jarin55.github.io/Test/CardList_FINAL_v2.json",
-        "cardBack": "https://cookierunbraverse.com/images/card/card-back.png"
-    },
+  "cards": {
+    "dataUrl": "https://jarin55.github.io/Test/CardList_FINAL_v2.json",
+    "cardBack": "https://cookierunbraverse.com/images/card/card-back.png"
+  },
   "deckBuilding": {
     "mainFilters": [
       "Type",
@@ -307,7 +307,7 @@
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
-            "isHorizontalAllowed": false,
+            "isHorizontalAllowed": true,
             "displayedTitle": "",
             "noQuickActions": false,
             "enterTapped": false,
@@ -315,7 +315,6 @@
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
-            }
           }
         }
       }
