@@ -22,7 +22,9 @@
       {
         "title": "Classic",
         "gameplay": "Classic",
-        "customCategories": []
+        "customCategories": [
+          "Extra deck"
+        ]
       }
     ]
   },
@@ -52,7 +54,8 @@
           "Mana",
           "BreakArea",
           "StageArea",
-          "BattleArea"
+          "BattleArea",
+          "Extra_Deck"
         ],
         "layout": {
           "direction": "row",
@@ -289,7 +292,7 @@
           "Extra-deck": {
             "title": "Extra-deck",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "DECK",
             "isHorizontalAllowed": false,
             "isGroupForbidden": true,
