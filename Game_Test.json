@@ -53,11 +53,21 @@
           "BreakArea",
           "StageArea",
           "BattleArea"
+          "Extra-Deck"
         ],
         "layout": {
           "direction": "row",
           "isSymetricalForOpponents": true,
           "content": [
+            {
+              "Extra-deck": {
+              "title": "Extra-deck",
+              "isHidden": "yes",
+              "height": "MEDIUM",
+              "alignment": "DECK",
+              "displayedTitle": "Extra deck",
+              }
+            }
             {
               "section": "BreakArea",
               "style": {
