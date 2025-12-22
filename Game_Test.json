@@ -107,7 +107,8 @@
             "Cookie": "BattleArea",
             "Item": "Stack",
             "Trap": "Stack",
-            "Stage": "StageArea"
+            "Stage": "StageArea",
+            "Extra": "ExtraDeck"
         },
         "autoPlayFromStack": {},
         "sectionsDict": {
