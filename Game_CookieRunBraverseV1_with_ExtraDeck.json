@@ -10,7 +10,7 @@
   "customHelp": "",
   "cardRotation": "90",
   "cards": {
-    "dataUrl": "https://jarin55.github.io/TCG-Arena-CRB/CardListV2.json",
+    "dataUrl": "https://jarin55.github.io/Test/CardList_FINAL.json",
     "cardBack": "https://cookierunbraverse.com/images/card/card-back.png"
   },
   "deckBuilding": {
