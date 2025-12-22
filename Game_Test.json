@@ -107,7 +107,7 @@
           ]
         },
         "categoriesAlreadyOnBoard": [
-            "Extra"
+          "Extra"
         ],
         "autoPlayFromHand": {
           "Cookie": "BattleArea",
@@ -307,11 +307,10 @@
             "isHidden": "no",
             "height": "SMALL",
             "alignment": "DECK",
-            "drawPerTurn": 0,
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
-            "displayedTitle": "Extra",
+            "displayedTitle": "",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
