@@ -7,7 +7,7 @@
     ],
     "decksUrl": "https://jarin55.github.io/Test/StarterDeck.json"
   },
-  "customHelp": "",
+  "customHelp": "Drag your cards from Deck to HP manually",
   "cardRotation": "90",
   "cards": {
     "dataUrl": "https://jarin55.github.io/Test/CardList_FINAL_v2.json",
@@ -53,29 +53,60 @@
           "Mana",
           "BreakArea",
           "StageArea",
-          "BattleArea",
-          "Extra"
+          "Cookie1",
+          "Extra",
+          "Cookie2",
+          "HP1",
+          "HP2"
         ],
         "layout": {
-          "direction": "row",
+          "direction": "column",
           "isSymetricalForOpponents": true,
           "content": [
             {
-              "section": "BreakArea",
-              "style": {
-                "width": "30vh"
-              }
-            },
-            {
-              "direction": "column",
+              "direction": "row",
               "style": false,
               "content": [
                 {
-                  "section": "BattleArea",
+                  "section": "Cookie1",
                   "style": false
                 },
                 {
-                  "section": "Mana",
+                  "section": "Cookie2",
+                  "style": false
+                },
+                {
+                  "section": "StageArea",
+                  "style": false
+                },
+                {
+                  "direction": "column",
+                  "style": false,
+                  "content": [
+                    {
+                      "section": "BreakArea",
+                      "style": false
+                    }
+                  ],
+                  "isSymetricalForOpponents": false
+                }
+              ],
+              "isSymetricalForOpponents": false
+            },
+            {
+              "direction": "row",
+              "style": false,
+              "content": [
+                {
+                  "section": "HP1",
+                  "style": false
+                },
+                {
+                  "section": "HP2",
+                  "style": false
+                },
+                {
+                  "section": "Extra",
                   "style": false
                 },
                 {
@@ -88,21 +119,8 @@
               "isSymetricalForOpponents": false
             },
             {
-              "direction": "column",
-              "style": {
-                "width": "30vh"
-              },
-              "content": [
-                {
-                  "section": "StageArea",
-                  "style": false
-                },
-                {
-                  "section": "Extra",
-                  "style": false
-                }
-              ],
-              "isSymetricalForOpponents": false
+              "section": "Mana",
+              "style": false
             }
           ]
         },
@@ -110,7 +128,7 @@
           "Extra"
         ],
         "autoPlayFromHand": {
-          "Cookie": "BattleArea",
+          "Cookie": "Cookie1",
           "Item": "Stack",
           "Trap": "Stack",
           "Stage": "StageArea",
@@ -133,22 +151,6 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false,
             "noQuickActions": false
-          },
-          "BattleArea": {
-            "title": "BattleArea",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
           },
           "StageArea": {
             "title": "StageArea",
@@ -187,6 +189,70 @@
             "isHidden": "no",
             "height": "SMALL",
             "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Cookie1": {
+            "title": "Cookie1",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Cookie2": {
+            "title": "Cookie2",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "HP1": {
+            "title": "HP1",
+            "isHidden": "yes",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "HP2": {
+            "title": "HP2",
+            "isHidden": "yes",
+            "height": "SMALL",
+            "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
