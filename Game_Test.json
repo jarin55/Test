@@ -9,15 +9,15 @@
   },
   "customHelp": "",
   "cardRotation": "90",
-  "cards": {
-    "dataUrl": "https://jarin55.github.io/Test/CardList_FINAL_v2.json",
-    "cardBack": "https://cookierunbraverse.com/images/card/card-back.png"
-  },
+    "cards": {
+        "dataUrl": "https://jarin55.github.io/Test/CardList_FINAL_v2.json",
+        "cardBack": "https://cookierunbraverse.com/images/card/card-back.png"
+    },
   "deckBuilding": {
     "mainFilters": [
       "Type",
-        "Name",
-        "Color"
+      "Name",
+      "Color"
     ],
     "formats": [
       {
@@ -45,7 +45,7 @@
       "defaultNotes": "",
       "tokens": [],
       "countersStartingValues": [
-        "1"
+        "0"
       ],
       "hideFacedDownCards": true,
       "sections": {
@@ -54,7 +54,7 @@
           "BreakArea",
           "StageArea",
           "BattleArea",
-          "Extra_Deck"
+          "ExtraDeck"
         ],
         "layout": {
           "direction": "row",
@@ -88,27 +88,31 @@
               "isSymetricalForOpponents": false
             },
             {
-              "section": "StageArea",
-                "style": {
-                    "width": "30vh"
-                },
-                {
-              "section": "ExtraDeck",
+              "direction": "column",
               "style": {
                 "width": "30vh"
+              },
+              "content": [
+                {
+                  "section": "StageArea",
+                  "style": false
+                },
+                {
+                  "section": "ExtraDeck",
+                  "style": false
+                }
+              ],
+              "isSymetricalForOpponents": false
             }
           ]
         },
-        "categoriesAlreadyOnBoard": [
-            "Extra"
-        ],
+        "categoriesAlreadyOnBoard": [],
         "autoPlayFromHand": {
-            "Extra" : "ExtraDeck"
-            "Cookie": "BattleArea",
-            "Item": "Stack",
-            "Trap": "Stack",
-            "Stage": "StageArea",
-            "Extra": "ExtraDeck"
+          "Cookie": "BattleArea",
+          "Item": "Stack",
+          "Trap": "Stack",
+          "Stage": "StageArea",
+          "Extra": "ExtraDeck"
         },
         "autoPlayFromStack": {},
         "sectionsDict": {
@@ -293,22 +297,6 @@
             "enterTapped": false,
             "enterSpun": false,
             "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "Extra-deck": {
-            "title": "Extra-deck",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "DECK",
-            "isHorizontalAllowed": false,
-            "isGroupForbidden": true,
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "displayedTitle": "Extra Deck",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           }
