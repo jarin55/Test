@@ -54,7 +54,7 @@
           "BreakArea",
           "StageArea",
           "BattleArea",
-          "ExtraDeck"
+          "Extra"
         ],
         "layout": {
           "direction": "row",
