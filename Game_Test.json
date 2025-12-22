@@ -106,7 +106,9 @@
             }
           ]
         },
-        "categoriesAlreadyOnBoard": [],
+        "categoriesAlreadyOnBoard": [
+            "Extra"
+        ],
         "autoPlayFromHand": {
           "Cookie": "BattleArea",
           "Item": "Stack",
