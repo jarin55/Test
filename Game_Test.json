@@ -307,7 +307,7 @@
             "isHidden": "no",
             "height": "SMALL",
             "alignment": "DECK",
-            "drawPerTurn": 1,
+            "drawPerTurn": 0,
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
@@ -318,6 +318,7 @@
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
+            }
           }
         }
       }
