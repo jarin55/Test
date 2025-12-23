@@ -67,7 +67,7 @@
             {
               "direction": "row",
               "style": {
-                "width": "130vh",
+                "width": "250vh",
                 "marginRight": "auto",
                 "marginLeft": "auto"
               },
@@ -101,7 +101,7 @@
             {
               "direction": "row",
               "style": {
-                "width": "130vh",
+                "width": "250vh",
                 "marginRight": "auto",
                 "marginLeft": "auto"
               },
