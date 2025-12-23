@@ -66,11 +66,7 @@
           "content": [
             {
               "direction": "row",
-              "style": {
-                "width": "250vh",
-                "marginRight": "auto",
-                "marginLeft": "auto"
-              },
+              "style": false,
               "content": [
                 {
                   "section": "BreakArea",
@@ -100,11 +96,7 @@
             },
             {
               "direction": "row",
-              "style": {
-                "width": "250vh",
-                "marginRight": "auto",
-                "marginLeft": "auto"
-              },
+              "style": false,
               "content": [
                 {
                   "section": "Pile",
