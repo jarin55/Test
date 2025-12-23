@@ -99,9 +99,7 @@
               "content": [
                 {
                   "section": "",
-                  "style": {
-                    "width": "140vh"
-                  }
+                  "style": false
                 },
                 {
                   "section": "HP1",
