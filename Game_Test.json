@@ -57,7 +57,8 @@
           "Extra",
           "Cookie2",
           "HP1",
-          "HP2"
+          "HP2",
+          "Pile"
         ],
         "layout": {
           "direction": "column",
@@ -106,7 +107,7 @@
               },
               "content": [
                 {
-                  "section": "",
+                  "section": "Pile",
                   "style": false
                 },
                 {
@@ -118,15 +119,8 @@
                   "style": false
                 },
                 {
-                  "direction": "column",
-                  "style": false,
-                  "content": [
-                    {
-                      "section": "Extra",
-                      "style": false
-                    }
-                  ],
-                  "isSymetricalForOpponents": false
+                  "section": "Extra",
+                  "style": false
                 }
               ],
               "isSymetricalForOpponents": false
@@ -268,6 +262,22 @@
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Pile": {
+            "title": "Pile",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
             "isHorizontalAllowed": true,
             "displayedTitle": "",
             "noQuickActions": false,
