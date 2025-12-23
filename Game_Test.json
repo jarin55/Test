@@ -65,7 +65,11 @@
           "content": [
             {
               "direction": "row",
-              "style": false,
+              "style": {
+                "width": "93vh",
+                "marginRight": "auto",
+                "marginLeft": "auto"
+              },
               "content": [
                 {
                   "section": "BreakArea",
@@ -95,7 +99,11 @@
             },
             {
               "direction": "row",
-              "style": false,
+              "style": {
+                "width": "93vh",
+                "marginRight": "auto",
+                "marginLeft": "auto"
+              },
               "content": [
                 {
                   "section": "",
