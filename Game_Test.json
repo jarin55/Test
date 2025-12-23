@@ -68,6 +68,10 @@
               "style": false,
               "content": [
                 {
+                  "section": "Break",
+                  "style": false
+                },
+                {
                   "section": "Cookie1",
                   "style": false
                 },
@@ -76,15 +80,11 @@
                   "style": false
                 },
                 {
-                  "section": "StageArea",
-                  "style": false
-                },
-                {
                   "direction": "column",
                   "style": false,
                   "content": [
                     {
-                      "section": "BreakArea",
+                      "section": "StageArea",
                       "style": false
                     }
                   ],
@@ -98,6 +98,12 @@
               "style": false,
               "content": [
                 {
+                  "section": "",
+                  "style": {
+                    "width": "140vh"
+                  }
+                },
+                {
                   "section": "HP1",
                   "style": false
                 },
@@ -106,13 +112,14 @@
                   "style": false
                 },
                 {
-                  "section": "Extra",
-                  "style": false
-                },
-                {
                   "direction": "column",
                   "style": false,
-                  "content": [],
+                  "content": [
+                    {
+                      "section": "Extra",
+                      "style": false
+                    }
+                  ],
                   "isSymetricalForOpponents": false
                 }
               ],
@@ -186,7 +193,7 @@
           },
           "Extra": {
             "title": "Extra",
-            "isHidden": "no",
+            "isHidden": "opponent-only",
             "height": "SMALL",
             "alignment": "START",
             "opponentAlignment": false,
