@@ -309,22 +309,6 @@
                     "isGroupForbidden": false,
                     "keepTappedNewTurn": false,
                     "showHiddenCardInHistory": false
-                },
-                "Pile": {
-                    "title": "Pile",
-                    "isHidden": "no",
-                    "height": "SMALL",
-                    "alignment": "CENTER",
-                    "opponentAlignment": false,
-                    "noAutoPayTo": true,
-                    "isHorizontalAllowed": true,
-                    "displayedTitle": "",
-                    "noQuickActions": false,
-                    "enterTapped": false,
-                    "enterSpun": false,
-                    "isGroupForbidden": false,
-                    "keepTappedNewTurn": false,
-                    "showHiddenCardInHistory": false
                 }
             }
         }
