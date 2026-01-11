@@ -292,7 +292,8 @@
                     "enterSpun": false,
                     "isGroupForbidden": false,
                     "keepTappedNewTurn": false,
-                    "showHiddenCardInHistory": false
+                    "showHiddenCardInHistory": false,
+                    "displayedTitle": "Cookie 1 HP"
                 },
                 "HP2": {
                     "title": "HP2",
@@ -308,7 +309,8 @@
                     "enterSpun": false,
                     "isGroupForbidden": false,
                     "keepTappedNewTurn": false,
-                    "showHiddenCardInHistory": false
+                    "showHiddenCardInHistory": false,
+                    "displayedTitle": "Cookie 2 HP"
                 }
             }
         }
