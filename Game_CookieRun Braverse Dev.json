@@ -10,7 +10,7 @@
   "customHelp": "Drag your cards from Deck to HP manually",
   "cardRotation": "90",
   "cards": {
-    "dataUrl": "https://jarin55.github.io/Test/CardList_FINAL_v2.json",
+    "dataUrl": "https://jarin55.github.io/Test/CardList_CONVERTED_v2_FIXED.json",
     "cardBack": "https://cookierunbraverse.com/images/card/card-back.png"
   },
   "deckBuilding": {
