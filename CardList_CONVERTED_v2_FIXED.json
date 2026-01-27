@@ -5,16 +5,15 @@
     "face": {
       "front": {
         "name": "Licorice Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Red",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS8_001.png.webp",
-        "isHorizontal": false,
-        "hp": 2
+        "isHorizontal": false
       }
     },
     "name": "BS8-001-Licorice Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Red"
   },
@@ -364,16 +363,15 @@
     "face": {
       "front": {
         "name": "Schwarzwälder",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Red",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS8_015.png.webp",
-        "isHorizontal": false,
-        "hp": 3
+        "isHorizontal": false
       }
     },
     "name": "BS8-015-Schwarzwälder",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Red"
   },
@@ -678,16 +676,15 @@
     "face": {
       "front": {
         "name": "Manager Cheesebird",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Yellow",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS8_028@1.png.webp",
-        "isHorizontal": false,
-        "hp": 4
+        "isHorizontal": false
       }
     },
     "name": "BS8-028@1-Manager Cheesebird",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Yellow"
   },
@@ -697,16 +694,15 @@
     "face": {
       "front": {
         "name": "Miner Cheesebird",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Yellow",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS8_029@1.png.webp",
-        "isHorizontal": false,
-        "hp": 2
+        "isHorizontal": false
       }
     },
     "name": "BS8-029@1-Miner Cheesebird",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Yellow"
   },
@@ -792,16 +788,15 @@
     "face": {
       "front": {
         "name": "Burnt Cheese Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Yellow",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS8_032@2.png.webp",
-        "isHorizontal": false,
-        "hp": 2
+        "isHorizontal": false
       }
     },
     "name": "BS8-032@2-Burnt Cheese Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Yellow"
   },
@@ -811,16 +806,15 @@
     "face": {
       "front": {
         "name": "Centipede Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Yellow",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS8_033@1.png.webp",
-        "isHorizontal": false,
-        "hp": 4
+        "isHorizontal": false
       }
     },
     "name": "BS8-033@1-Centipede Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Yellow"
   },
@@ -887,16 +881,15 @@
     "face": {
       "front": {
         "name": "Young Kulfi",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Yellow",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS8_036.png.webp",
-        "isHorizontal": false,
-        "hp": 1
+        "isHorizontal": false
       }
     },
     "name": "BS8-036-Young Kulfi",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Yellow"
   },
@@ -982,16 +975,15 @@
     "face": {
       "front": {
         "name": "Elder Kulfi",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Yellow",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS8_041.png.webp",
-        "isHorizontal": false,
-        "hp": 2
+        "isHorizontal": false
       }
     },
     "name": "BS8-041-Elder Kulfi",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Yellow"
   },
@@ -1262,16 +1254,15 @@
     "face": {
       "front": {
         "name": "Bellflower Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Green",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS8_055.png.webp",
-        "isHorizontal": false,
-        "hp": 3
+        "isHorizontal": false
       }
     },
     "name": "BS8-055-Bellflower Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Green"
   },
@@ -1452,16 +1443,15 @@
     "face": {
       "front": {
         "name": "Hydrangea Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Green",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS8_063.png.webp",
-        "isHorizontal": false,
-        "hp": 2
+        "isHorizontal": false
       }
     },
     "name": "BS8-063-Hydrangea Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Green"
   },
@@ -1881,16 +1871,15 @@
     "face": {
       "front": {
         "name": "Moon Rabbit Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Blue",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS8_080.png.webp",
-        "isHorizontal": false,
-        "hp": 3
+        "isHorizontal": false
       }
     },
     "name": "BS8-080-Moon Rabbit Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Blue"
   },
@@ -1976,16 +1965,15 @@
     "face": {
       "front": {
         "name": "Frost Queen Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Blue",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS8_083@2.png.webp",
-        "isHorizontal": false,
-        "hp": 5
+        "isHorizontal": false
       }
     },
     "name": "BS8-083@2-Frost Queen Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Blue"
   },
@@ -2202,16 +2190,15 @@
     "face": {
       "front": {
         "name": "Cocoa Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Blue",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS8_093.png.webp",
-        "isHorizontal": false,
-        "hp": 1
+        "isHorizontal": false
       }
     },
     "name": "BS8-093-Cocoa Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Blue"
   },
@@ -2349,16 +2336,15 @@
     "face": {
       "front": {
         "name": "Dark Cacao Adviser 1",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Purple",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS8_101.png.webp",
-        "isHorizontal": false,
-        "hp": 2
+        "isHorizontal": false
       }
     },
     "name": "BS8-101-Dark Cacao Adviser 1",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Purple"
   },
@@ -2368,16 +2354,15 @@
     "face": {
       "front": {
         "name": "Dark Cacao Adviser 2",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Purple",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS8_102.png.webp",
-        "isHorizontal": false,
-        "hp": 3
+        "isHorizontal": false
       }
     },
     "name": "BS8-102-Dark Cacao Adviser 2",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Purple"
   },
@@ -2949,16 +2934,15 @@
     "face": {
       "front": {
         "name": "Red Osmanthus Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Red",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS7_002.png.webp",
-        "isHorizontal": false,
-        "hp": 2
+        "isHorizontal": false
       }
     },
     "name": "BS7-002-Red Osmanthus Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Red"
   },
@@ -3139,16 +3123,15 @@
     "face": {
       "front": {
         "name": "Yoga Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Red",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS7_011.png.webp",
-        "isHorizontal": false,
-        "hp": 3
+        "isHorizontal": false
       }
     },
     "name": "BS7-011-Yoga Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Red"
   },
@@ -3497,16 +3480,15 @@
     "face": {
       "front": {
         "name": "Golden Osmanthus Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Yellow",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS7_025.png.webp",
-        "isHorizontal": false,
-        "hp": 1
+        "isHorizontal": false
       }
     },
     "name": "BS7-025-Golden Osmanthus Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Yellow"
   },
@@ -3611,16 +3593,15 @@
     "face": {
       "front": {
         "name": "Rainbow Sherbet Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Yellow",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS7_030.png.webp",
-        "isHorizontal": false,
-        "hp": 1
+        "isHorizontal": false
       }
     },
     "name": "BS7-030-Rainbow Sherbet Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Yellow"
   },
@@ -4235,16 +4216,15 @@
     "face": {
       "front": {
         "name": "Sting Durian Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Green",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS7_056.png.webp",
-        "isHorizontal": false,
-        "hp": 2
+        "isHorizontal": false
       }
     },
     "name": "BS7-056-Sting Durian Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Green"
   },
@@ -4406,16 +4386,15 @@
     "face": {
       "front": {
         "name": "Plantain Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Green",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS7_062.png.webp",
-        "isHorizontal": false,
-        "hp": 1
+        "isHorizontal": false
       }
     },
     "name": "BS7-062-Plantain Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Green"
   },
@@ -4631,16 +4610,15 @@
     "face": {
       "front": {
         "name": "Ice Mint Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Blue",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS7_072.png.webp",
-        "isHorizontal": false,
-        "hp": 2
+        "isHorizontal": false
       }
     },
     "name": "BS7-072-Ice Mint Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Blue"
   },
@@ -4783,16 +4761,15 @@
     "face": {
       "front": {
         "name": "Frostrock Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Blue",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS7_078.png.webp",
-        "isHorizontal": false,
-        "hp": 1
+        "isHorizontal": false
       }
     },
     "name": "BS7-078-Frostrock Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Blue"
   },
@@ -5217,16 +5194,15 @@
     "face": {
       "front": {
         "name": "Espresso Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Purple",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS7_096.png.webp",
-        "isHorizontal": false,
-        "hp": 1
+        "isHorizontal": false
       }
     },
     "name": "BS7-096-Espresso Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Purple"
   },
@@ -5293,16 +5269,15 @@
     "face": {
       "front": {
         "name": "Witchberry Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Purple",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS7_100.png.webp",
-        "isHorizontal": false,
-        "hp": 1
+        "isHorizontal": false
       }
     },
     "name": "BS7-100-Witchberry Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Purple"
   },
@@ -5554,16 +5529,15 @@
     "face": {
       "front": {
         "name": "Lollipop Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Red",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS5_004.png.webp",
-        "isHorizontal": false,
-        "hp": 2
+        "isHorizontal": false
       }
     },
     "name": "BS5-004-Lollipop Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Red"
   },
@@ -5668,16 +5642,15 @@
     "face": {
       "front": {
         "name": "Butterbear Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Red",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS5_009.png.webp",
-        "isHorizontal": false,
-        "hp": 3
+        "isHorizontal": false
       }
     },
     "name": "BS5-009-Butterbear Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Red"
   },
@@ -6444,16 +6417,15 @@
     "face": {
       "front": {
         "name": "Firecracker Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Yellow",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS5_041.png.webp",
-        "isHorizontal": false,
-        "hp": 3
+        "isHorizontal": false
       }
     },
     "name": "BS5-041-Firecracker Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Yellow"
   },
@@ -6612,16 +6584,15 @@
     "face": {
       "front": {
         "name": "Melon Bun Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Green",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS5_049.png.webp",
-        "isHorizontal": false,
-        "hp": 2
+        "isHorizontal": false
       }
     },
     "name": "BS5-049-Melon Bun Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Green"
   },
@@ -7217,16 +7188,15 @@
     "face": {
       "front": {
         "name": "Sorbet Shark Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Blue",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS5_074.png.webp",
-        "isHorizontal": false,
-        "hp": 4
+        "isHorizontal": false
       }
     },
     "name": "BS5-074-Sorbet Shark Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Blue"
   },
@@ -7426,16 +7396,15 @@
     "face": {
       "front": {
         "name": "Ion Cookie Robot",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Blue",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS5_082.png.webp",
-        "isHorizontal": false,
-        "hp": 3
+        "isHorizontal": false
       }
     },
     "name": "BS5-082-Ion Cookie Robot",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Blue"
   },
@@ -7594,16 +7563,15 @@
     "face": {
       "front": {
         "name": "Strawberry Stick Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Purple",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS5_090.png.webp",
-        "isHorizontal": false,
-        "hp": 2
+        "isHorizontal": false
       }
     },
     "name": "BS5-090-Strawberry Stick Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Purple"
   },
@@ -7746,16 +7714,15 @@
     "face": {
       "front": {
         "name": "Mint Wafer Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Purple",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS5_095.png.webp",
-        "isHorizontal": false,
-        "hp": 3
+        "isHorizontal": false
       }
     },
     "name": "BS5-095-Mint Wafer Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Purple"
   },
@@ -8235,16 +8202,15 @@
     "face": {
       "front": {
         "name": "Cherry Blossom Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Red",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS6_006.png.webp",
-        "isHorizontal": false,
-        "hp": 3
+        "isHorizontal": false
       }
     },
     "name": "BS6-006-Cherry Blossom Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Red"
   },
@@ -8330,16 +8296,15 @@
     "face": {
       "front": {
         "name": "Cotton Candy Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Red",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS6_009.png.webp",
-        "isHorizontal": false,
-        "hp": 1
+        "isHorizontal": false
       }
     },
     "name": "BS6-009-Cotton Candy Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Red"
   },
@@ -8745,16 +8710,15 @@
     "face": {
       "front": {
         "name": "S'more Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Yellow",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS6_027.png.webp",
-        "isHorizontal": false,
-        "hp": 3
+        "isHorizontal": false
       }
     },
     "name": "BS6-027-S'more Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Yellow"
   },
@@ -8992,16 +8956,15 @@
     "face": {
       "front": {
         "name": "Cannoli Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Yellow",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS6_037.png.webp",
-        "isHorizontal": false,
-        "hp": 2
+        "isHorizontal": false
       }
     },
     "name": "BS6-037-Cannoli Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Yellow"
   },
@@ -9217,16 +9180,15 @@
     "face": {
       "front": {
         "name": "Langue de Chat Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Green",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS6_046.png.webp",
-        "isHorizontal": false,
-        "hp": 2
+        "isHorizontal": false
       }
     },
     "name": "BS6-046-Langue de Chat Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Green"
   },
@@ -9445,16 +9407,15 @@
     "face": {
       "front": {
         "name": "Cappuccino Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Green",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS6_056.png.webp",
-        "isHorizontal": false,
-        "hp": 1
+        "isHorizontal": false
       }
     },
     "name": "BS6-056-Cappuccino Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Green"
   },
@@ -9727,16 +9688,15 @@
     "face": {
       "front": {
         "name": "Vampire Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Blue",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS6_067.png.webp",
-        "isHorizontal": false,
-        "hp": 2
+        "isHorizontal": false
       }
     },
     "name": "BS6-067-Vampire Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Blue"
   },
@@ -9765,16 +9725,15 @@
     "face": {
       "front": {
         "name": "Sandwich Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Blue",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS6_069.png.webp",
-        "isHorizontal": false,
-        "hp": 3
+        "isHorizontal": false
       }
     },
     "name": "BS6-069-Sandwich Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Blue"
   },
@@ -10256,16 +10215,15 @@
     "face": {
       "front": {
         "name": "Schneeball Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Purple",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS6_091@2.png.webp",
-        "isHorizontal": false,
-        "hp": 2
+        "isHorizontal": false
       }
     },
     "name": "BS6-091@2-Schneeball Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Purple"
   },
@@ -10275,16 +10233,15 @@
     "face": {
       "front": {
         "name": "Schneeball Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Purple",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS6_091@3.png.webp",
-        "isHorizontal": false,
-        "hp": 2
+        "isHorizontal": false
       }
     },
     "name": "BS6-091@3-Schneeball Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Purple"
   },
@@ -10579,16 +10536,15 @@
     "face": {
       "front": {
         "name": "White Ghost Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Purple",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS6_103.png.webp",
-        "isHorizontal": false,
-        "hp": 1
+        "isHorizontal": false
       }
     },
     "name": "BS6-103-White Ghost Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Purple"
   },
@@ -10598,16 +10554,15 @@
     "face": {
       "front": {
         "name": "Black Garlic Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Purple",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS6_104.png.webp",
-        "isHorizontal": false,
-        "hp": 2
+        "isHorizontal": false
       }
     },
     "name": "BS6-104-Black Garlic Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Purple"
   },
@@ -10728,16 +10683,15 @@
     "face": {
       "front": {
         "name": "Royal Berry Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Red",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS3_004.png.webp",
-        "isHorizontal": false,
-        "hp": 2
+        "isHorizontal": false
       }
     },
     "name": "BS3-004-Royal Berry Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Red"
   },
@@ -10937,16 +10891,15 @@
     "face": {
       "front": {
         "name": "Jungleberry Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Red",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS3_012.png.webp",
-        "isHorizontal": false,
-        "hp": 3
+        "isHorizontal": false
       }
     },
     "name": "BS3-012-Jungleberry Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Red"
   },
@@ -11234,7 +11187,7 @@
     "face": {
       "front": {
         "name": "Dragon's Valley",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Red",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS3_024.png.webp",
@@ -11242,7 +11195,7 @@
       }
     },
     "name": "BS3-024-Dragon's Valley",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Red"
   },
@@ -11309,16 +11262,15 @@
     "face": {
       "front": {
         "name": "Marzipan Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Yellow",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS3_027.png.webp",
-        "isHorizontal": false,
-        "hp": 3
+        "isHorizontal": false
       }
     },
     "name": "BS3-027-Marzipan Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Yellow"
   },
@@ -11537,16 +11489,15 @@
     "face": {
       "front": {
         "name": "High Priest Cheesenbird",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Yellow",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS3_035.png.webp",
-        "isHorizontal": false,
-        "hp": 2
+        "isHorizontal": false
       }
     },
     "name": "BS3-035-High Priest Cheesenbird",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Yellow"
   },
@@ -12023,16 +11974,15 @@
     "face": {
       "front": {
         "name": "Pinecone Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Green",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS3_056.png.webp",
-        "isHorizontal": false,
-        "hp": 1
+        "isHorizontal": false
       }
     },
     "name": "BS3-056-Pinecone Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Green"
   },
@@ -12080,16 +12030,15 @@
     "face": {
       "front": {
         "name": "Avocado Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Green",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS3_058.png.webp",
-        "isHorizontal": false,
-        "hp": 3
+        "isHorizontal": false
       }
     },
     "name": "BS3-058-Avocado Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Green"
   },
@@ -12433,16 +12382,15 @@
     "face": {
       "front": {
         "name": "Grand Madeleine Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Blue",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS3_074.png.webp",
-        "isHorizontal": false,
-        "hp": 1
+        "isHorizontal": false
       }
     },
     "name": "BS3-074-Grand Madeleine Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Blue"
   },
@@ -12699,16 +12647,15 @@
     "face": {
       "front": {
         "name": "Custard Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Blue",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS3_085.png.webp",
-        "isHorizontal": false,
-        "hp": 2
+        "isHorizontal": false
       }
     },
     "name": "BS3-085-Custard Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Blue"
   },
@@ -13242,16 +13189,15 @@
     "face": {
       "front": {
         "name": "Alchemist Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Purple",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS3_106.png.webp",
-        "isHorizontal": false,
-        "hp": 2
+        "isHorizontal": false
       }
     },
     "name": "BS3-106-Alchemist Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Purple"
   },
@@ -13261,16 +13207,15 @@
     "face": {
       "front": {
         "name": "Prophet Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Purple",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS3_107.png.webp",
-        "isHorizontal": false,
-        "hp": 1
+        "isHorizontal": false
       }
     },
     "name": "BS3-107-Prophet Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Purple"
   },
@@ -13763,16 +13708,15 @@
     "face": {
       "front": {
         "name": "Flaming Hot Wing",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Red",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS4_006.png.webp",
-        "isHorizontal": false,
-        "hp": 1
+        "isHorizontal": false
       }
     },
     "name": "BS4-006-Flaming Hot Wing",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Red"
   },
@@ -13801,16 +13745,15 @@
     "face": {
       "front": {
         "name": "Scovillia Headmaster",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Red",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS4_008.png.webp",
-        "isHorizontal": false,
-        "hp": 2
+        "isHorizontal": false
       }
     },
     "name": "BS4-008-Scovillia Headmaster",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Red"
   },
@@ -13839,16 +13782,15 @@
     "face": {
       "front": {
         "name": "Scovillia Student Fan",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Red",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS4_010.png.webp",
-        "isHorizontal": false,
-        "hp": 3
+        "isHorizontal": false
       }
     },
     "name": "BS4-010-Scovillia Student Fan",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Red"
   },
@@ -14403,16 +14345,15 @@
     "face": {
       "front": {
         "name": "Rain Deity Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Yellow",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS4_031.png.webp",
-        "isHorizontal": false,
-        "hp": 1
+        "isHorizontal": false
       }
     },
     "name": "BS4-031-Rain Deity Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Yellow"
   },
@@ -14422,16 +14363,15 @@
     "face": {
       "front": {
         "name": "Cream Ferret Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Yellow",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS4_032.png.webp",
-        "isHorizontal": false,
-        "hp": 2
+        "isHorizontal": false
       }
     },
     "name": "BS4-032-Cream Ferret Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Yellow"
   },
@@ -14498,16 +14438,15 @@
     "face": {
       "front": {
         "name": "GingerBrave",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Yellow",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS4_036.png.webp",
-        "isHorizontal": false,
-        "hp": 3
+        "isHorizontal": false
       }
     },
     "name": "BS4-036-GingerBrave",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Yellow"
   },
@@ -14853,16 +14792,15 @@
     "face": {
       "front": {
         "name": "Biscuit Giraffe",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Green",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS4_050.png.webp",
-        "isHorizontal": false,
-        "hp": 1
+        "isHorizontal": false
       }
     },
     "name": "BS4-050-Biscuit Giraffe",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Green"
   },
@@ -14986,16 +14924,15 @@
     "face": {
       "front": {
         "name": "Tiger Lily Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Green",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS4_056.png.webp",
-        "isHorizontal": false,
-        "hp": 3
+        "isHorizontal": false
       }
     },
     "name": "BS4-056-Tiger Lily Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Green"
   },
@@ -15005,16 +14942,15 @@
     "face": {
       "front": {
         "name": "Jelly Froggy",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Green",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS4_057.png.webp",
-        "isHorizontal": false,
-        "hp": 1
+        "isHorizontal": false
       }
     },
     "name": "BS4-057-Jelly Froggy",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Green"
   },
@@ -15024,16 +14960,15 @@
     "face": {
       "front": {
         "name": "Jelly Froggy",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Green",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS4_057@1.png.webp",
-        "isHorizontal": false,
-        "hp": 1
+        "isHorizontal": false
       }
     },
     "name": "BS4-057@1-Jelly Froggy",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Green"
   },
@@ -15043,16 +14978,15 @@
     "face": {
       "front": {
         "name": "Jelly Froggy",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Green",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS4_057@2.png.webp",
-        "isHorizontal": false,
-        "hp": 1
+        "isHorizontal": false
       }
     },
     "name": "BS4-057@2-Jelly Froggy",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Green"
   },
@@ -15303,16 +15237,15 @@
     "face": {
       "front": {
         "name": "Gold Citrine Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Blue",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS4_067.png.webp",
-        "isHorizontal": false,
-        "hp": 3
+        "isHorizontal": false
       }
     },
     "name": "BS4-067-Gold Citrine Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Blue"
   },
@@ -15322,16 +15255,15 @@
     "face": {
       "front": {
         "name": "Aquamarine Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Blue",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS4_068.png.webp",
-        "isHorizontal": false,
-        "hp": 2
+        "isHorizontal": false
       }
     },
     "name": "BS4-068-Aquamarine Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Blue"
   },
@@ -15398,16 +15330,15 @@
     "face": {
       "front": {
         "name": "Mystic Opal Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Blue",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS4_072.png.webp",
-        "isHorizontal": false,
-        "hp": 1
+        "isHorizontal": false
       }
     },
     "name": "BS4-072-Mystic Opal Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Blue"
   },
@@ -16171,16 +16102,15 @@
     "face": {
       "front": {
         "name": "Eclair Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Purple",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS4_101.png.webp",
-        "isHorizontal": false,
-        "hp": 2
+        "isHorizontal": false
       }
     },
     "name": "BS4-101-Eclair Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Purple"
   },
@@ -16190,16 +16120,15 @@
     "face": {
       "front": {
         "name": "Wildberry Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Purple",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS4_102.png.webp",
-        "isHorizontal": false,
-        "hp": 1
+        "isHorizontal": false
       }
     },
     "name": "BS4-102-Wildberry Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Purple"
   },
@@ -16247,16 +16176,15 @@
     "face": {
       "front": {
         "name": "Financier Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Purple",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS4_105.png.webp",
-        "isHorizontal": false,
-        "hp": 3
+        "isHorizontal": false
       }
     },
     "name": "BS4-105-Financier Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Purple"
   },
@@ -16429,16 +16357,15 @@
     "face": {
       "front": {
         "name": "Kumiho Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Red",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS1_002.png.webp",
-        "isHorizontal": false,
-        "hp": 3
+        "isHorizontal": false
       }
     },
     "name": "BS1-002-Kumiho Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Red"
   },
@@ -16448,16 +16375,15 @@
     "face": {
       "front": {
         "name": "Kumiho Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Red",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS1_002@1.png.webp",
-        "isHorizontal": false,
-        "hp": 3
+        "isHorizontal": false
       }
     },
     "name": "BS1-002@1-Kumiho Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Red"
   },
@@ -16790,16 +16716,15 @@
     "face": {
       "front": {
         "name": "Rose Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Red",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS1_015.png.webp",
-        "isHorizontal": false,
-        "hp": 3
+        "isHorizontal": false
       }
     },
     "name": "BS1-015-Rose Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Red"
   },
@@ -16866,16 +16791,15 @@
     "face": {
       "front": {
         "name": "Popcorn Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Red",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS1_018.png.webp",
-        "isHorizontal": false,
-        "hp": 1
+        "isHorizontal": false
       }
     },
     "name": "BS1-018-Popcorn Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Red"
   },
@@ -17108,16 +17032,15 @@
     "face": {
       "front": {
         "name": "Rockstar Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Yellow",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS1_030.png.webp",
-        "isHorizontal": false,
-        "hp": 2
+        "isHorizontal": false
       }
     },
     "name": "BS1-030-Rockstar Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Yellow"
   },
@@ -17374,16 +17297,15 @@
     "face": {
       "front": {
         "name": "Earl Grey Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Yellow",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS1_040.png.webp",
-        "isHorizontal": false,
-        "hp": 3
+        "isHorizontal": false
       }
     },
     "name": "BS1-040-Earl Grey Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Yellow"
   },
@@ -17393,16 +17315,15 @@
     "face": {
       "front": {
         "name": "Earl Grey Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Yellow",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS1_040@1.png.webp",
-        "isHorizontal": false,
-        "hp": 3
+        "isHorizontal": false
       }
     },
     "name": "BS1-040@1-Earl Grey Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Yellow"
   },
@@ -17412,16 +17333,15 @@
     "face": {
       "front": {
         "name": "Orange Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Yellow",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS1_041.png.webp",
-        "isHorizontal": false,
-        "hp": 1
+        "isHorizontal": false
       }
     },
     "name": "BS1-041-Orange Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Yellow"
   },
@@ -17730,16 +17650,15 @@
     "face": {
       "front": {
         "name": "Red Bean Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Green",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS1_055.png.webp",
-        "isHorizontal": false,
-        "hp": 2
+        "isHorizontal": false
       }
     },
     "name": "BS1-055-Red Bean Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Green"
   },
@@ -18015,16 +17934,15 @@
     "face": {
       "front": {
         "name": "Churro Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Green",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS1_067.png.webp",
-        "isHorizontal": false,
-        "hp": 3
+        "isHorizontal": false
       }
     },
     "name": "BS1-067-Churro Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Green"
   },
@@ -18034,16 +17952,15 @@
     "face": {
       "front": {
         "name": "Churro Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Green",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS1_067@1.png.webp",
-        "isHorizontal": false,
-        "hp": 3
+        "isHorizontal": false
       }
     },
     "name": "BS1-067@1-Churro Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Green"
   },
@@ -18072,16 +17989,15 @@
     "face": {
       "front": {
         "name": "Cookiemals",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Green",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS1_069.png.webp",
-        "isHorizontal": false,
-        "hp": 1
+        "isHorizontal": false
       }
     },
     "name": "BS1-069-Cookiemals",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Green"
   },
@@ -18276,16 +18192,15 @@
     "face": {
       "front": {
         "name": "Muscle Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Red",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS2_001.png.webp",
-        "isHorizontal": false,
-        "hp": 2
+        "isHorizontal": false
       }
     },
     "name": "BS2-001-Muscle Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Red"
   },
@@ -18445,16 +18360,15 @@
     "face": {
       "front": {
         "name": "Carrot Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Yellow",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS2_009.png.webp",
-        "isHorizontal": false,
-        "hp": 2
+        "isHorizontal": false
       }
     },
     "name": "BS2-009-Carrot Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Yellow"
   },
@@ -18671,16 +18585,15 @@
     "face": {
       "front": {
         "name": "Cheesecake Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Green",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS2_019.png.webp",
-        "isHorizontal": false,
-        "hp": 2
+        "isHorizontal": false
       }
     },
     "name": "BS2-019-Cheesecake Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Green"
   },
@@ -19068,16 +18981,15 @@
     "face": {
       "front": {
         "name": "Frost Queen Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Blue",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS2_034.png.webp",
-        "isHorizontal": false,
-        "hp": 3
+        "isHorizontal": false
       }
     },
     "name": "BS2-034-Frost Queen Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Blue"
   },
@@ -19087,16 +18999,15 @@
     "face": {
       "front": {
         "name": "Frost Queen Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Blue",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS2_034@1.png.webp",
-        "isHorizontal": false,
-        "hp": 3
+        "isHorizontal": false
       }
     },
     "name": "BS2-034@1-Frost Queen Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Blue"
   },
@@ -19163,16 +19074,15 @@
     "face": {
       "front": {
         "name": "Chocolate Bonbon Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Blue",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS2_037.png.webp",
-        "isHorizontal": false,
-        "hp": 3
+        "isHorizontal": false
       }
     },
     "name": "BS2-037-Chocolate Bonbon Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Blue"
   },
@@ -19576,16 +19486,15 @@
     "face": {
       "front": {
         "name": "Raspberry Mousse Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Purple",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS2_056.png.webp",
-        "isHorizontal": false,
-        "hp": 1
+        "isHorizontal": false
       }
     },
     "name": "BS2-056-Raspberry Mousse Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Purple"
   },
@@ -19766,16 +19675,15 @@
     "face": {
       "front": {
         "name": "Space Doughnut",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Purple",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS2_063.png.webp",
-        "isHorizontal": false,
-        "hp": 3
+        "isHorizontal": false
       }
     },
     "name": "BS2-063-Space Doughnut",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Purple"
   },
@@ -19785,16 +19693,15 @@
     "face": {
       "front": {
         "name": "Space Doughnut",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Purple",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS2_063@1.png.webp",
-        "isHorizontal": false,
-        "hp": 3
+        "isHorizontal": false
       }
     },
     "name": "BS2-063@1-Space Doughnut",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Purple"
   },
@@ -20032,16 +19939,15 @@
     "face": {
       "front": {
         "name": "Pastry Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Purple",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS2_072.png.webp",
-        "isHorizontal": false,
-        "hp": 3
+        "isHorizontal": false
       }
     },
     "name": "BS2-072-Pastry Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Purple"
   },
@@ -20236,16 +20142,15 @@
     "face": {
       "front": {
         "name": "Princess Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Red",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/ST1_001.png.webp",
-        "isHorizontal": false,
-        "hp": 2
+        "isHorizontal": false
       }
     },
     "name": "ST1-001-Princess Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Red"
   },
@@ -20293,16 +20198,15 @@
     "face": {
       "front": {
         "name": "Carrot Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Red",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/ST1_004.png.webp",
-        "isHorizontal": false,
-        "hp": 1
+        "isHorizontal": false
       }
     },
     "name": "ST1-004-Carrot Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Red"
   },
@@ -20464,16 +20368,15 @@
     "face": {
       "front": {
         "name": "Adventurer Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Red",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/ST1_013.png.webp",
-        "isHorizontal": false,
-        "hp": 1
+        "isHorizontal": false
       }
     },
     "name": "ST1-013-Adventurer Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Red"
   },
@@ -20502,16 +20405,15 @@
     "face": {
       "front": {
         "name": "Pistachio Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Red",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/ST1_015.png.webp",
-        "isHorizontal": false,
-        "hp": 3
+        "isHorizontal": false
       }
     },
     "name": "ST1-015-Pistachio Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Red"
   },
@@ -20723,16 +20625,15 @@
     "face": {
       "front": {
         "name": "Mustard Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Yellow",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/ST2_005.png.webp",
-        "isHorizontal": false,
-        "hp": 1
+        "isHorizontal": false
       }
     },
     "name": "ST2-005-Mustard Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Yellow"
   },
@@ -20761,16 +20662,15 @@
     "face": {
       "front": {
         "name": "Chestnut Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Yellow",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/ST2_007.png.webp",
-        "isHorizontal": false,
-        "hp": 1
+        "isHorizontal": false
       }
     },
     "name": "ST2-007-Chestnut Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Yellow"
   },
@@ -20856,16 +20756,15 @@
     "face": {
       "front": {
         "name": "Cheerleader Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Yellow",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/ST2_012.png.webp",
-        "isHorizontal": false,
-        "hp": 2
+        "isHorizontal": false
       }
     },
     "name": "ST2-012-Cheerleader Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Yellow"
   },
@@ -20894,16 +20793,15 @@
     "face": {
       "front": {
         "name": "Custard Cookie III",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Yellow",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/ST2_014.png.webp",
-        "isHorizontal": false,
-        "hp": 3
+        "isHorizontal": false
       }
     },
     "name": "ST2-014-Custard Cookie III",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Yellow"
   },
@@ -21136,16 +21034,15 @@
     "face": {
       "front": {
         "name": "Sparkling Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Green",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/ST3_007.png.webp",
-        "isHorizontal": false,
-        "hp": 3
+        "isHorizontal": false
       }
     },
     "name": "ST3-007-Sparkling Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Green"
   },
@@ -21155,16 +21052,15 @@
     "face": {
       "front": {
         "name": "Spinach Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Green",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/ST3_008.png.webp",
-        "isHorizontal": false,
-        "hp": 1
+        "isHorizontal": false
       }
     },
     "name": "ST3-008-Spinach Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Green"
   },
@@ -21212,16 +21108,15 @@
     "face": {
       "front": {
         "name": "Onion Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Green",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/ST3_011.png.webp",
-        "isHorizontal": false,
-        "hp": 2
+        "isHorizontal": false
       }
     },
     "name": "ST3-011-Onion Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Green"
   },
@@ -21269,16 +21164,15 @@
     "face": {
       "front": {
         "name": "Angel Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Green",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/ST3_014.png.webp",
-        "isHorizontal": false,
-        "hp": 1
+        "isHorizontal": false
       }
     },
     "name": "ST3-014-Angel Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Green"
   },
@@ -21471,16 +21365,15 @@
     "face": {
       "front": {
         "name": "Dr. Wasabi Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Blue",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/ST4_003.png.webp",
-        "isHorizontal": false,
-        "hp": 3
+        "isHorizontal": false
       }
     },
     "name": "ST4-003-Dr. Wasabi Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Blue"
   },
@@ -21528,16 +21421,15 @@
     "face": {
       "front": {
         "name": "Peppermint Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Blue",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/ST4_006.png.webp",
-        "isHorizontal": false,
-        "hp": 1
+        "isHorizontal": false
       }
     },
     "name": "ST4-006-Peppermint Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Blue"
   },
@@ -21585,16 +21477,15 @@
     "face": {
       "front": {
         "name": "Ice Candy Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Blue",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/ST4_009.png.webp",
-        "isHorizontal": false,
-        "hp": 2
+        "isHorizontal": false
       }
     },
     "name": "ST4-009-Ice Candy Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Blue"
   },
@@ -21680,16 +21571,15 @@
     "face": {
       "front": {
         "name": "Skating Queen Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Blue",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/ST4_014.png.webp",
-        "isHorizontal": false,
-        "hp": 1
+        "isHorizontal": false
       }
     },
     "name": "ST4-014-Skating Queen Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Blue"
   },
@@ -21882,16 +21772,15 @@
     "face": {
       "front": {
         "name": "Fig Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Purple",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/ST5_003.png.webp",
-        "isHorizontal": false,
-        "hp": 1
+        "isHorizontal": false
       }
     },
     "name": "ST5-003-Fig Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Purple"
   },
@@ -21977,16 +21866,15 @@
     "face": {
       "front": {
         "name": "Fairy Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Purple",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/ST5_008.png.webp",
-        "isHorizontal": false,
-        "hp": 1
+        "isHorizontal": false
       }
     },
     "name": "ST5-008-Fairy Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Purple"
   },
@@ -22053,16 +21941,15 @@
     "face": {
       "front": {
         "name": "Clover Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Purple",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/ST5_012.png.webp",
-        "isHorizontal": false,
-        "hp": 2
+        "isHorizontal": false
       }
     },
     "name": "ST5-012-Clover Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Purple"
   },
@@ -22091,16 +21978,15 @@
     "face": {
       "front": {
         "name": "Pancake Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Purple",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/ST5_014.png.webp",
-        "isHorizontal": false,
-        "hp": 3
+        "isHorizontal": false
       }
     },
     "name": "ST5-014-Pancake Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Purple"
   },
@@ -22255,16 +22141,15 @@
     "face": {
       "front": {
         "name": "Kumiho Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Red",
         "image": "https://cookierunbraverse.com/_dev/en_storage/lnFfLHR2gzmM6AuamClk0w.webp",
-        "isHorizontal": false,
-        "hp": 3
+        "isHorizontal": false
       }
     },
     "name": "BS1-002@2-Kumiho Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Red"
   },
@@ -22274,16 +22159,15 @@
     "face": {
       "front": {
         "name": "Rose Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Red",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS1_015@1.png.webp",
-        "isHorizontal": false,
-        "hp": 3
+        "isHorizontal": false
       }
     },
     "name": "BS1-015@1-Rose Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Red"
   },
@@ -22311,16 +22195,15 @@
     "face": {
       "front": {
         "name": "Rockstar Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Yellow",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS1_030@1.png.webp",
-        "isHorizontal": false,
-        "hp": 2
+        "isHorizontal": false
       }
     },
     "name": "BS1-030@1-Rockstar Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Yellow"
   },
@@ -22387,16 +22270,15 @@
     "face": {
       "front": {
         "name": "Earl Grey Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Yellow",
         "image": "https://cookierunbraverse.com/_dev/en_storage/BSSIKpVtjdhDVjLfdjIy_A.webp",
-        "isHorizontal": false,
-        "hp": 3
+        "isHorizontal": false
       }
     },
     "name": "BS1-040@2-Earl Grey Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Yellow"
   },
@@ -22424,16 +22306,15 @@
     "face": {
       "front": {
         "name": "Red Bean Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Green",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS1_055@1.png.webp",
-        "isHorizontal": false,
-        "hp": 2
+        "isHorizontal": false
       }
     },
     "name": "BS1-055@1-Red Bean Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Green"
   },
@@ -22462,16 +22343,15 @@
     "face": {
       "front": {
         "name": "Cookiemals",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Green",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS1_069@1.png.webp",
-        "isHorizontal": false,
-        "hp": 1
+        "isHorizontal": false
       }
     },
     "name": "BS1-069@1-Cookiemals",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Green"
   },
@@ -22538,16 +22418,15 @@
     "face": {
       "front": {
         "name": "Chocolate Bonbon Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Blue",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS2_037@1.png.webp",
-        "isHorizontal": false,
-        "hp": 3
+        "isHorizontal": false
       }
     },
     "name": "BS2-037@1-Chocolate Bonbon Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Blue"
   },
@@ -22595,16 +22474,15 @@
     "face": {
       "front": {
         "name": "Pastry Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Purple",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS2_072@1.png.webp",
-        "isHorizontal": false,
-        "hp": 3
+        "isHorizontal": false
       }
     },
     "name": "BS2-072@1-Pastry Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Purple"
   },
@@ -22650,7 +22528,7 @@
     "face": {
       "front": {
         "name": "Glorious Crème Republic",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Blue",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS3_095@1.png.webp",
@@ -22658,7 +22536,7 @@
       }
     },
     "name": "BS3-095@1-Glorious Crème Republic",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Blue"
   },
@@ -22668,7 +22546,7 @@
     "face": {
       "front": {
         "name": "Age of Heroes and Kingdoms",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Blue Red Yellow Green Purple",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS3_121@5.png.webp",
@@ -22676,7 +22554,7 @@
       }
     },
     "name": "BS3-121@5-Age of Heroes and Kingdoms",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Blue Red Yellow Green Purple"
   },
@@ -22686,7 +22564,7 @@
     "face": {
       "front": {
         "name": "Age of Heroes and Kingdoms",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Blue Red Yellow Green Purple",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS3_121@6.png.webp",
@@ -22694,7 +22572,7 @@
       }
     },
     "name": "BS3-121@6-Age of Heroes and Kingdoms",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Blue Red Yellow Green Purple"
   },
@@ -22704,7 +22582,7 @@
     "face": {
       "front": {
         "name": "Age of Heroes and Kingdoms",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Blue Red Yellow Green Purple",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS3_121@7.png.webp",
@@ -22712,7 +22590,7 @@
       }
     },
     "name": "BS3-121@7-Age of Heroes and Kingdoms",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Blue Red Yellow Green Purple"
   },
@@ -22722,7 +22600,7 @@
     "face": {
       "front": {
         "name": "Age of Heroes and Kingdoms",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Blue Red Yellow Green Purple",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS3_121@8.png.webp",
@@ -22730,7 +22608,7 @@
       }
     },
     "name": "BS3-121@8-Age of Heroes and Kingdoms",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Blue Red Yellow Green Purple"
   },
@@ -22759,16 +22637,15 @@
     "face": {
       "front": {
         "name": "Cream Ferret Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Yellow",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS4_032@1.png.webp",
-        "isHorizontal": false,
-        "hp": 3
+        "isHorizontal": false
       }
     },
     "name": "BS4-032@1-Cream Ferret Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Yellow"
   },
@@ -22778,7 +22655,7 @@
     "face": {
       "front": {
         "name": "Millennial Jade Deer",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Yellow",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS4_042@2.png.webp",
@@ -22786,7 +22663,7 @@
       }
     },
     "name": "BS4-042@2-Millennial Jade Deer",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Yellow"
   },
@@ -22796,16 +22673,15 @@
     "face": {
       "front": {
         "name": "Tangerine Tanghulu Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Green",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS4_045@1.png.webp",
-        "isHorizontal": false,
-        "hp": 3
+        "isHorizontal": false
       }
     },
     "name": "BS4-045@1-Tangerine Tanghulu Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Green"
   },
@@ -22834,16 +22710,15 @@
     "face": {
       "front": {
         "name": "Captain Ice Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Blue",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS4_080@1.png.webp",
-        "isHorizontal": false,
-        "hp": 3
+        "isHorizontal": false
       }
     },
     "name": "BS4-080@1-Captain Ice Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Blue"
   },
@@ -22853,16 +22728,15 @@
     "face": {
       "front": {
         "name": "Captain Ice Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Blue",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS4_080@2.png.webp",
-        "isHorizontal": false,
-        "hp": 3
+        "isHorizontal": false
       }
     },
     "name": "BS4-080@2-Captain Ice Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Blue"
   },
@@ -22929,16 +22803,15 @@
     "face": {
       "front": {
         "name": "Cream Puff Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Purple",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS4_097@1.png.webp",
-        "isHorizontal": false,
-        "hp": 2
+        "isHorizontal": false
       }
     },
     "name": "BS4-097@1-Cream Puff Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Purple"
   },
@@ -22948,16 +22821,15 @@
     "face": {
       "front": {
         "name": "Knight Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Red",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS5_014@1.png.webp",
-        "isHorizontal": false,
-        "hp": 5
+        "isHorizontal": false
       }
     },
     "name": "BS5-014@1-Knight Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Red"
   },
@@ -22967,16 +22839,15 @@
     "face": {
       "front": {
         "name": "Cheesecake Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Yellow",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS5_039@2.png.webp",
-        "isHorizontal": false,
-        "hp": 3
+        "isHorizontal": false
       }
     },
     "name": "BS5-039@2-Cheesecake Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Yellow"
   },
@@ -22986,16 +22857,15 @@
     "face": {
       "front": {
         "name": "Sandwich Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Green",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS5_052@1.png.webp",
-        "isHorizontal": false,
-        "hp": 3
+        "isHorizontal": false
       }
     },
     "name": "BS5-052@1-Sandwich Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Green"
   },
@@ -23005,16 +22875,15 @@
     "face": {
       "front": {
         "name": "Longan Dragon Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Green",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS5_056@2.png.webp",
-        "isHorizontal": false,
-        "hp": 5
+        "isHorizontal": false
       }
     },
     "name": "BS5-056@2-Longan Dragon Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Green"
   },
@@ -23024,16 +22893,15 @@
     "face": {
       "front": {
         "name": "Cream Puff Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Blue",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS5_076@2.png.webp",
-        "isHorizontal": false,
-        "hp": 3
+        "isHorizontal": false
       }
     },
     "name": "BS5-076@2-Cream Puff Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Blue"
   },
@@ -23043,16 +22911,15 @@
     "face": {
       "front": {
         "name": "Muscle Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Purple",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS5_089@2.png.webp",
-        "isHorizontal": false,
-        "hp": 2
+        "isHorizontal": false
       }
     },
     "name": "BS5-089@2-Muscle Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Purple"
   },
@@ -23529,16 +23396,15 @@
     "face": {
       "front": {
         "name": "Milky Way Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Green",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/P_022.png.webp",
-        "isHorizontal": false,
-        "hp": 3
+        "isHorizontal": false
       }
     },
     "name": "P-022-Milky Way Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Green"
   },
@@ -23548,16 +23414,15 @@
     "face": {
       "front": {
         "name": "Caramel Choux Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Red",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/P_024.png.webp",
-        "isHorizontal": false,
-        "hp": 2
+        "isHorizontal": false
       }
     },
     "name": "P-024-Caramel Choux Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Red"
   },
@@ -23567,16 +23432,15 @@
     "face": {
       "front": {
         "name": "Marzipan Cookie 2",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Yellow",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/P_025.png.webp",
-        "isHorizontal": false,
-        "hp": 3
+        "isHorizontal": false
       }
     },
     "name": "P-025-Marzipan Cookie 2",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Yellow"
   },
@@ -23586,16 +23450,15 @@
     "face": {
       "front": {
         "name": "Marzipan Cookie 3",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Yellow",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/P_026.png.webp",
-        "isHorizontal": false,
-        "hp": 3
+        "isHorizontal": false
       }
     },
     "name": "P-026-Marzipan Cookie 3",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Yellow"
   },
@@ -23605,16 +23468,15 @@
     "face": {
       "front": {
         "name": "Marzipan Cookie 4",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Yellow",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/P_027.png.webp",
-        "isHorizontal": false,
-        "hp": 3
+        "isHorizontal": false
       }
     },
     "name": "P-027-Marzipan Cookie 4",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Yellow"
   },
@@ -23733,16 +23595,15 @@
     "face": {
       "front": {
         "name": "Milky Way Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Purple",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/P_040@1.png.webp",
-        "isHorizontal": false,
-        "hp": 3
+        "isHorizontal": false
       }
     },
     "name": "P-040@1-Milky Way Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Purple"
   },
@@ -23980,16 +23841,15 @@
     "face": {
       "front": {
         "name": "Rye Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Red",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/P_056.png.webp",
-        "isHorizontal": false,
-        "hp": 3
+        "isHorizontal": false
       }
     },
     "name": "P-056-Rye Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Red"
   },
@@ -23999,16 +23859,15 @@
     "face": {
       "front": {
         "name": "Wizard Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Yellow",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/P_057.png.webp",
-        "isHorizontal": false,
-        "hp": 2
+        "isHorizontal": false
       }
     },
     "name": "P-057-Wizard Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Yellow"
   },
@@ -24018,16 +23877,15 @@
     "face": {
       "front": {
         "name": "Ninja Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Green",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/P_058.png.webp",
-        "isHorizontal": false,
-        "hp": 2
+        "isHorizontal": false
       }
     },
     "name": "P-058-Ninja Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Green"
   },
@@ -24037,16 +23895,15 @@
     "face": {
       "front": {
         "name": "Chamomile Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Green",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/P_059.png.webp",
-        "isHorizontal": false,
-        "hp": 2
+        "isHorizontal": false
       }
     },
     "name": "P-059-Chamomile Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Green"
   },
@@ -24056,16 +23913,15 @@
     "face": {
       "front": {
         "name": "Rockstar Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Blue",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/P_060.png.webp",
-        "isHorizontal": false,
-        "hp": 1
+        "isHorizontal": false
       }
     },
     "name": "P-060-Rockstar Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Blue"
   },
@@ -24075,16 +23931,15 @@
     "face": {
       "front": {
         "name": "Angel Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Purple",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/P_061.png.webp",
-        "isHorizontal": false,
-        "hp": 2
+        "isHorizontal": false
       }
     },
     "name": "P-061-Angel Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Purple"
   },
@@ -24094,16 +23949,15 @@
     "face": {
       "front": {
         "name": "Shadow Milk Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Blue",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/P_063.png.webp",
-        "isHorizontal": false,
-        "hp": 3
+        "isHorizontal": false
       }
     },
     "name": "P-063-Shadow Milk Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Blue"
   },
@@ -24113,16 +23967,15 @@
     "face": {
       "front": {
         "name": "Croissant Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Red",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/P_064.png.webp",
-        "isHorizontal": false,
-        "hp": 3
+        "isHorizontal": false
       }
     },
     "name": "P-064-Croissant Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Red"
   },
@@ -24132,16 +23985,15 @@
     "face": {
       "front": {
         "name": "Pizza Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Red",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/P_065.png.webp",
-        "isHorizontal": false,
-        "hp": 5
+        "isHorizontal": false
       }
     },
     "name": "P-065-Pizza Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Red"
   },
@@ -24151,16 +24003,15 @@
     "face": {
       "front": {
         "name": "Butter Squid Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Yellow",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/P_066.png.webp",
-        "isHorizontal": false,
-        "hp": 3
+        "isHorizontal": false
       }
     },
     "name": "P-066-Butter Squid Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Yellow"
   },
@@ -24170,16 +24021,15 @@
     "face": {
       "front": {
         "name": "Sour Belt Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Green",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/P_067.png.webp",
-        "isHorizontal": false,
-        "hp": 3
+        "isHorizontal": false
       }
     },
     "name": "P-067-Sour Belt Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Green"
   },
@@ -24189,16 +24039,15 @@
     "face": {
       "front": {
         "name": "Starfruit Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Blue",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/P_068.png.webp",
-        "isHorizontal": false,
-        "hp": 3
+        "isHorizontal": false
       }
     },
     "name": "P-068-Starfruit Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Blue"
   },
@@ -24208,16 +24057,15 @@
     "face": {
       "front": {
         "name": "Popping Candy Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Purple",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/P_069.png.webp",
-        "isHorizontal": false,
-        "hp": 2
+        "isHorizontal": false
       }
     },
     "name": "P-069-Popping Candy Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Purple"
   },
@@ -24360,16 +24208,15 @@
     "face": {
       "front": {
         "name": "Eternal Sugar Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Red",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/P_077.png.webp",
-        "isHorizontal": false,
-        "hp": 2
+        "isHorizontal": false
       }
     },
     "name": "P-077-Eternal Sugar Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Red"
   },
@@ -24474,16 +24321,15 @@
     "face": {
       "front": {
         "name": "Fettuccine Cake Hound",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Yellow",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/P_081.png.webp",
-        "isHorizontal": false,
-        "hp": 1
+        "isHorizontal": false
       }
     },
     "name": "P-081-Fettuccine Cake Hound",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Yellow"
   },
@@ -24548,16 +24394,15 @@
     "face": {
       "front": {
         "name": "Tropical Pop Cake Hound",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Blue",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/P_085.png.webp",
-        "isHorizontal": false,
-        "hp": 1
+        "isHorizontal": false
       }
     },
     "name": "P-085-Tropical Pop Cake Hound",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Blue"
   },
@@ -24662,16 +24507,15 @@
     "face": {
       "front": {
         "name": "Princess Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Red",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/ST1_001@1.png.webp",
-        "isHorizontal": false,
-        "hp": 2
+        "isHorizontal": false
       }
     },
     "name": "ST1-001@1-Princess Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Red"
   },
@@ -24681,16 +24525,15 @@
     "face": {
       "front": {
         "name": "Carrot Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Red",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/ST1_004@1.png.webp",
-        "isHorizontal": false,
-        "hp": 1
+        "isHorizontal": false
       }
     },
     "name": "ST1-004@1-Carrot Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Red"
   },
@@ -24700,16 +24543,15 @@
     "face": {
       "front": {
         "name": "Adventurer Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Red",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/ST1_013@1.png.webp",
-        "isHorizontal": false,
-        "hp": 1
+        "isHorizontal": false
       }
     },
     "name": "ST1-013@1-Adventurer Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Red"
   },
@@ -24737,16 +24579,15 @@
     "face": {
       "front": {
         "name": "Mustard Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Yellow",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/ST2_005@1.png.webp",
-        "isHorizontal": false,
-        "hp": 1
+        "isHorizontal": false
       }
     },
     "name": "ST2-005@1-Mustard Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Yellow"
   },
@@ -24756,16 +24597,15 @@
     "face": {
       "front": {
         "name": "Chestnut Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Yellow",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/ST2_007@1.png.webp",
-        "isHorizontal": false,
-        "hp": 1
+        "isHorizontal": false
       }
     },
     "name": "ST2-007@1-Chestnut Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Yellow"
   },
@@ -24775,16 +24615,15 @@
     "face": {
       "front": {
         "name": "Custard Cookie III",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Yellow",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/ST2_014@1.png.webp",
-        "isHorizontal": false,
-        "hp": 3
+        "isHorizontal": false
       }
     },
     "name": "ST2-014@1-Custard Cookie III",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Yellow"
   },
@@ -24794,16 +24633,15 @@
     "face": {
       "front": {
         "name": "Sparkling Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Green",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/ST3_007@1.png.webp",
-        "isHorizontal": false,
-        "hp": 3
+        "isHorizontal": false
       }
     },
     "name": "ST3-007@1-Sparkling Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Green"
   },
@@ -24813,16 +24651,15 @@
     "face": {
       "front": {
         "name": "Spinach Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Green",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/ST3_008@1.png.webp",
-        "isHorizontal": false,
-        "hp": 1
+        "isHorizontal": false
       }
     },
     "name": "ST3-008@1-Spinach Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Green"
   },
@@ -24832,16 +24669,15 @@
     "face": {
       "front": {
         "name": "Angel Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Green",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/ST3_014@1.png.webp",
-        "isHorizontal": false,
-        "hp": 1
+        "isHorizontal": false
       }
     },
     "name": "ST3-014@1-Angel Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Green"
   },
@@ -24887,16 +24723,15 @@
     "face": {
       "front": {
         "name": "Peppermint Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Blue",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/ST4_006@1.png.webp",
-        "isHorizontal": false,
-        "hp": 1
+        "isHorizontal": false
       }
     },
     "name": "ST4-006@1-Peppermint Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Blue"
   },
@@ -24906,16 +24741,15 @@
     "face": {
       "front": {
         "name": "Ice Candy Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Blue",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/ST4_009@1.png.webp",
-        "isHorizontal": false,
-        "hp": 2
+        "isHorizontal": false
       }
     },
     "name": "ST4-009@1-Ice Candy Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Blue"
   },
@@ -24925,16 +24759,15 @@
     "face": {
       "front": {
         "name": "Skating Queen Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Blue",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/ST4_014@1.png.webp",
-        "isHorizontal": false,
-        "hp": 1
+        "isHorizontal": false
       }
     },
     "name": "ST4-014@1-Skating Queen Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Blue"
   },
@@ -24980,16 +24813,15 @@
     "face": {
       "front": {
         "name": "Fig Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Purple",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/ST5_003@1.png.webp",
-        "isHorizontal": false,
-        "hp": 1
+        "isHorizontal": false
       }
     },
     "name": "ST5-003@1-Fig Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Purple"
   },
@@ -24999,16 +24831,15 @@
     "face": {
       "front": {
         "name": "Fairy Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Purple",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/ST5_008@1.png.webp",
-        "isHorizontal": false,
-        "hp": 1
+        "isHorizontal": false
       }
     },
     "name": "ST5-008@1-Fairy Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Purple"
   },
@@ -25018,16 +24849,15 @@
     "face": {
       "front": {
         "name": "Clover Cookie",
-        "type": "Cookie",
+        "type": "Flip",
         "cost": 0,
         "color": "Purple",
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/ST5_012@1.png.webp",
-        "isHorizontal": false,
-        "hp": 2
+        "isHorizontal": false
       }
     },
     "name": "ST5-012@1-Clover Cookie",
-    "type": "Cookie",
+    "type": "Flip",
     "cost": 0,
     "color": "Purple"
   },
