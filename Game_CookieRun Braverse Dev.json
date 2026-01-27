@@ -1,0 +1,317 @@
+{
+  "name": "CookieRun Braverse Dev",
+  "menuBackgroundImage": "https://cdn.imgchest.com/files/6a263ae7aab6.jpg",
+  "defaultRessources": {
+    "backgrounds": [
+      "https://cookierunbraverse.com/storage/notice/65d7a4a1ee2847116669eb43558e89d0.png.webp?v=20251216042328"
+    ],
+    "decksUrl": "https://jarin55.github.io/Test/StarterDeck.json"
+  },
+  "customHelp": "Drag your cards from Deck to HP manually",
+  "cardRotation": "90",
+  "cards": {
+    "dataUrl": "https://jarin55.github.io/Test/CardList_CONVERTED_v2_FIXED.json",
+    "cardBack": "https://cookierunbraverse.com/images/card/card-back.png"
+  },
+  "deckBuilding": {
+    "mainFilters": [
+      "type",
+      "cost",
+      "color"
+    ],
+    "formats": [
+      {
+        "title": "Classic",
+        "gameplay": "Classic",
+        "customCategories": []
+      }
+    ]
+  },
+  "gameplay": {
+    "Classic": {
+      "mulligan": {
+        "info": "Mulligan",
+        "startingHandSize": "6",
+        "drawNewHand": true,
+        "putSelectionAtBottom": false,
+        "drawNewSelectedCards": false
+      },
+      "newTurn": {
+        "drawOnStart": false,
+        "sharedTurn": false,
+        "firstPlayerTokenName": "",
+        "drawPerTurn": "2"
+      },
+      "defaultNotes": "",
+      "tokens": [],
+      "countersStartingValues": [
+        "0"
+      ],
+      "hideFacedDownCards": true,
+      "sections": {
+        "customSections": [
+          "Mana",
+          "BreakArea",
+          "StageArea",
+          "Cookie1",
+          "Extra",
+          "Cookie2",
+          "HP1",
+          "HP2"
+        ],
+        "layout": {
+          "direction": "column",
+          "content": [
+            {
+              "direction": "row",
+              "isSymetricalForOpponents": true,
+              "content": [
+                {
+                  "direction": "column",
+                  "style": {
+                    "justifyContent": "between"
+                  },
+                  "content": [
+                    {
+                      "direction": "row",
+                      "isSymetricalForOpponents": true,
+                      "content": [
+                        {
+                          "section": "BreakArea",
+                          "style": {
+                            "width": "75%",
+                            "marginRight": "auto"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "direction": "row",
+                      "isSymetricalForOpponents": true,
+                      "content": [
+                        {
+                          "section": "HP1",
+                          "style": {
+                            "width": "75%",
+                            "marginLeft": "auto"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "direction": "row",
+                  "isSymetricalForOpponents": true,
+                  "style": {
+                    "width": "52vh"
+                  },
+                  "content": [
+                    {
+                      "section": "Cookie1"
+                    },
+                    {
+                      "section": "Cookie2"
+                    }
+                  ]
+                },
+                {
+                  "direction": "column",
+                  "style": {
+                    "justifyContent": "between"
+                  },
+                  "content": [
+                    {
+                      "direction": "row",
+                      "isSymetricalForOpponents": true,
+                      "content": [
+                        {
+                          "section": "StageArea",
+                          "style": {
+                            "width": "75%",
+                            "marginLeft": "auto"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "direction": "row",
+                      "isSymetricalForOpponents": true,
+                      "content": [
+                        {
+                          "section": "HP2",
+                          "style": {
+                            "width": "75%",
+                            "marginRight": "auto"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "direction": "row",
+              "content": [
+                {
+                  "section": "Mana",
+                  "style": {
+                    "marginRight": "8vh"
+                  }
+                },
+                {
+                  "section": "Extra",
+                  "style": {
+                    "width": "42vh"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "categoriesAlreadyOnBoard": [
+          "Extra"
+        ],
+        "autoPlayFromHand": {
+          "Cookie": "Cookie1",
+          "Item": "Stack",
+          "Trap": "Stack",
+          "Stage": "StageArea",
+          "Extra": "Extra"
+        },
+        "autoPlayFromStack": {},
+        "sectionsDict": {
+          "Mana": {
+            "title": "Mana",
+            "isHidden": "no",
+            "height": "11",
+            "alignment": "START",
+            "noAutoPayTo": true,
+            "displayedTitle": "Support",
+            "opponentAlignment": false,
+            "isHorizontalAllowed": true,
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "StageArea": {
+            "title": "StageArea",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Stage Area",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "BreakArea": {
+            "title": "BreakArea",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "displayedTitle": "Break Area",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Extra": {
+            "title": "Extra",
+            "isHidden": "opponent-only",
+            "height": "11",
+            "alignment": "START",
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Extra Deck",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Cookie1": {
+            "title": "Cookie1",
+            "isHidden": "no",
+            "height": "25",
+            "alignment": "CENTER",
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Cookie 1",
+            "noQuickActions": true,
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Cookie2": {
+            "title": "Cookie2",
+            "isHidden": "no",
+            "height": "25",
+            "alignment": "CENTER",
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Cookie 2",
+            "noQuickActions": true,
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "HP1": {
+            "title": "HP1",
+            "isHidden": "yes",
+            "height": "8",
+            "alignment": "END",
+            "opponentAlignment": "START",
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Cookie 1 HP",
+            "noAutoPayTo": false,
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "HP2": {
+            "title": "HP2",
+            "isHidden": "yes",
+            "height": "8",
+            "alignment": "START",
+            "opponentAlignment": "END",
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Cookie 2 HP",
+            "noAutoPayTo": false,
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          }
+        }
+      }
+    }
+  }
+}
