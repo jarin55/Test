@@ -311,14 +311,14 @@
     "face": {
       "front": {
         "name": "Shadow Milk Cookie",
-        "type": "Cookie",
+        "type": "Extra",
         "cost": 0,
         "image": "https://cookierunbraverse.com/data/en_storage/MhIiu1Yhpzag7Phn8ZdSWg.webp",
         "isHorizontal": false
       }
     },
     "name": "BS9-010-Shadow Milk Cookie",
-    "type": "Cookie",
+    "type": "Extra",
     "cost": 0,
     "level": "2",
     "color": "Red"
@@ -329,14 +329,14 @@
     "face": {
       "front": {
         "name": "Shadow Milk Cookie",
-        "type": "Cookie",
+        "type": "Extra",
         "cost": 0,
         "image": "https://cookierunbraverse.com/data/en_storage/hkO1emUYo5fE0Whn1AXGAQ.webp",
         "isHorizontal": false
       }
     },
     "name": "BS9-010@1-Shadow Milk Cookie",
-    "type": "Cookie",
+    "type": "Extra",
     "cost": 0,
     "level": "2",
     "color": "Red"
@@ -851,14 +851,14 @@
     "face": {
       "front": {
         "name": "Shadow Milk Cookie",
-        "type": "Cookie",
+        "type": "Extra",
         "cost": 0,
         "image": "https://cookierunbraverse.com/data/en_storage/CdFZqA3cNoc6OCoe6_vcdQ.webp",
         "isHorizontal": false
       }
     },
     "name": "BS9-030-Shadow Milk Cookie",
-    "type": "Cookie",
+    "type": "Extra",
     "cost": 0,
     "level": "3",
     "color": "Yellow"
@@ -869,14 +869,14 @@
     "face": {
       "front": {
         "name": "Shadow Milk Cookie",
-        "type": "Cookie",
+        "type": "Extra",
         "cost": 0,
         "image": "https://cookierunbraverse.com/data/en_storage/nbpUqYDu3Vj6TGqx25hKnA.webp",
         "isHorizontal": false
       }
     },
     "name": "BS9-030@1-Shadow Milk Cookie",
-    "type": "Cookie",
+    "type": "Extra",
     "cost": 0,
     "level": "3",
     "color": "Yellow"
@@ -1463,14 +1463,14 @@
     "face": {
       "front": {
         "name": "Shadow Milk Cookie",
-        "type": "Cookie",
+        "type": "Extra",
         "cost": 0,
         "image": "https://cookierunbraverse.com/data/en_storage/F3fKPZonWDUAfd1BXoVYHA.webp",
         "isHorizontal": false
       }
     },
     "name": "BS9-055-Shadow Milk Cookie",
-    "type": "Cookie",
+    "type": "Extra",
     "cost": 0,
     "level": "3",
     "color": "Green"
@@ -1481,14 +1481,14 @@
     "face": {
       "front": {
         "name": "Shadow Milk Cookie",
-        "type": "Cookie",
+        "type": "Extra",
         "cost": 0,
         "image": "https://cookierunbraverse.com/data/en_storage/utWkhztlRG0-oBe19IYnkw.webp",
         "isHorizontal": false
       }
     },
     "name": "BS9-055@1-Shadow Milk Cookie",
-    "type": "Cookie",
+    "type": "Extra",
     "cost": 0,
     "level": "3",
     "color": "Green"
@@ -2723,7 +2723,7 @@
     "face": {
       "front": {
         "name": "Shadow Milk Cookie",
-        "type": "Cookie",
+        "type": "Extra",
         "cost": 0,
         "image": "https://cookierunbraverse.com/data/en_storage/IqWJeQWh2zW3FI1veimajw.webp",
         "isHorizontal": false
@@ -2741,14 +2741,14 @@
     "face": {
       "front": {
         "name": "Shadow Milk Cookie",
-        "type": "Cookie",
+        "type": "Extra",
         "cost": 0,
         "image": "https://cookierunbraverse.com/data/en_storage/Jvym0Zjq9yVz0xXF7ci8vA.webp",
         "isHorizontal": false
       }
     },
     "name": "BS9-102@1-Shadow Milk Cookie",
-    "type": "Cookie",
+    "type": "Extra",
     "cost": 0,
     "level": "3",
     "color": "Purple"
