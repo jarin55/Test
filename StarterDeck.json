@@ -552,5 +552,116 @@
         }
       ]
     }
+  },
+  {
+    "title": "ST6-Flames of Immortality",
+    "id": "88bfc119-a585-4faa-b624-ec2caf4a91b6",
+    "game": "CookieRun Braverse",
+    "format": [
+      "Classic"
+    ],
+    "cardCount": 60,
+    "createdAt": "2026-01-29T09:22:32.385Z",
+    "lastModifiedAt": "2026-01-29T09:22:32.385Z",
+    "deckList": {
+      "categoriesOrder": [
+        "Cookie",
+        "Flip",
+        "Item",
+        "Trap",
+        "Stage"
+      ],
+      "Sideboard": [],
+      "Cookie": [
+        {
+          "count": 4,
+          "id": "ST6-001"
+        },
+        {
+          "count": 2,
+          "id": "ST6-002"
+        },
+        {
+          "count": 4,
+          "id": "ST6-003"
+        },
+        {
+          "count": 2,
+          "id": "ST6-004"
+        },
+        {
+          "count": 4,
+          "id": "ST6-009"
+        },
+        {
+          "count": 4,
+          "id": "ST6-010"
+        },
+        {
+          "count": 4,
+          "id": "ST6-011"
+        },
+        {
+          "count": 4,
+          "id": "ST6-012"
+        }
+      ],
+      "Flip": [
+        {
+          "count": 4,
+          "id": "ST6-005"
+        },
+        {
+          "count": 4,
+          "id": "ST6-006"
+        },
+        {
+          "count": 4,
+          "id": "ST6-007"
+        },
+        {
+          "count": 4,
+          "id": "ST6-008"
+        }
+      ],
+      "Item": [
+        {
+          "count": 2,
+          "id": "ST6-013"
+        },
+        {
+          "count": 2,
+          "id": "ST6-014"
+        },
+        {
+          "count": 2,
+          "id": "ST6-015"
+        },
+        {
+          "count": 2,
+          "id": "ST6-016"
+        }
+      ],
+      "Trap": [
+        {
+          "count": 2,
+          "id": "ST6-017"
+        },
+        {
+          "count": 2,
+          "id": "ST6-018"
+        },
+        {
+          "count": 2,
+          "id": "ST6-019"
+        }
+      ],
+      "Stage": [
+        {
+          "count": 2,
+          "id": "ST6-020"
+        }
+      ]
+    }
   }
 ]
