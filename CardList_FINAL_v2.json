@@ -27610,5 +27610,1085 @@
     "cost": 0,
     "level": "",
     "color": "Purple"
+  },
+  "ST6-001": {
+    "id": "ST6-001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mala Sauce Cookie",
+        "type": "Cookie",
+        "cost": 0,
+        "color": "Red",
+        "image": "https://cookierunbraverse.com/data/en_storage/HMkXYxVfdYJKObkb2cgCoA.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "ST6-001-Mala Sauce Cookie",
+    "type": "Cookie",
+    "cost": 0,
+    "color": "Red"
+  },
+  "ST6-002": {
+    "id": "ST6-002",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fire Spirit Cookie",
+        "type": "Cookie",
+        "cost": 0,
+        "color": "Red",
+        "image": "https://cookierunbraverse.com/data/en_storage/a4HUbX-uq3FdzeCOVwHhFg.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "ST6-002-Fire Spirit Cookie",
+    "type": "Cookie",
+    "cost": 0,
+    "color": "Red"
+  },
+  "ST6-003": {
+    "id": "ST6-003",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Devil Cookie",
+        "type": "Cookie",
+        "cost": 0,
+        "color": "Red",
+        "image": "https://cookierunbraverse.com/data/en_storage/srd62erFLmvfYJF9ZeM99Q.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "ST6-003-Devil Cookie",
+    "type": "Cookie",
+    "cost": 0,
+    "color": "Red"
+  },
+  "ST6-004": {
+    "id": "ST6-004",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pitaya Dragon Cookie",
+        "type": "Cookie",
+        "cost": 0,
+        "color": "Red",
+        "image": "https://cookierunbraverse.com/data/en_storage/TN4VLj4SJXM0biAjnoZ7BQ.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "ST6-004-Pitaya Dragon Cookie",
+    "type": "Cookie",
+    "cost": 0,
+    "color": "Red"
+  },
+  "ST6-005": {
+    "id": "ST6-005",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Agar Agar Cookie",
+        "type": "Flip",
+        "cost": 0,
+        "color": "Red",
+        "image": "https://cookierunbraverse.com/data/en_storage/40T7DroZXJt5OJMyUjBeQw.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "ST6-005-Agar Agar Cookie",
+    "type": "Flip",
+    "cost": 0,
+    "color": "Red"
+  },
+  "ST6-006": {
+    "id": "ST6-006",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cherry Cookie",
+        "type": "Flip",
+        "cost": 0,
+        "color": "Red",
+        "image": "https://cookierunbraverse.com/data/en_storage/u3jO5Px1e-WKDPYFOFMaPA.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "ST6-006-Cherry Cookie",
+    "type": "Flip",
+    "cost": 0,
+    "color": "Red"
+  },
+  "ST6-007": {
+    "id": "ST6-007",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Chili Pepper Cookie",
+        "type": "Flip",
+        "cost": 0,
+        "color": "Red",
+        "image": "https://cookierunbraverse.com/data/en_storage/vH4ClKYlWX-xcnMYbZ7ucA.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "ST6-007-Chili Pepper Cookie",
+    "type": "Flip",
+    "cost": 0,
+    "color": "Red"
+  },
+  "ST6-008": {
+    "id": "ST6-008",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Candy Apple Cookie",
+        "type": "Flip",
+        "cost": 0,
+        "color": "Red",
+        "image": "https://cookierunbraverse.com/data/en_storage/1zwfVuULzIqvoPDNNMTA-Q.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "ST6-008-Candy Apple Cookie",
+    "type": "Flip",
+    "cost": 0,
+    "color": "Red"
+  },
+  "ST6-009": {
+    "id": "ST6-009",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Capsaicin Cookie",
+        "type": "Cookie",
+        "cost": 0,
+        "color": "Red",
+        "image": "https://cookierunbraverse.com/data/en_storage/1ufQ4nIgFnAndDKfJNSH0w.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "ST6-009-Capsaicin Cookie",
+    "type": "Cookie",
+    "cost": 0,
+    "color": "Red"
+  },
+  "ST6-010": {
+    "id": "ST6-010",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Peperoncino Cookie",
+        "type": "Cookie",
+        "cost": 0,
+        "color": "Red",
+        "image": "https://cookierunbraverse.com/data/en_storage/ZyqjfQjOk5ekFYT-PA4dWA.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "ST6-010-Peperoncino Cookie",
+    "type": "Cookie",
+    "cost": 0,
+    "color": "Red"
+  },
+  "ST6-011": {
+    "id": "ST6-011",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Habanero Cookie",
+        "type": "Cookie",
+        "cost": 0,
+        "color": "Red",
+        "image": "https://cookierunbraverse.com/data/en_storage/Qraaf30iW185inbnNtyYRA.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "ST6-011-Habanero Cookie",
+    "type": "Cookie",
+    "cost": 0,
+    "color": "Red"
+  },
+  "ST6-012": {
+    "id": "ST6-012",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Picky Pyro-tiger",
+        "type": "Cookie",
+        "cost": 0,
+        "color": "Red",
+        "image": "https://cookierunbraverse.com/data/en_storage/DrRJZ59ZiTZ8jI9T6ra70w.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "ST6-012-Picky Pyro-tiger",
+    "type": "Cookie",
+    "cost": 0,
+    "color": "Red"
+  },
+  "ST6-013": {
+    "id": "ST6-013",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hot Jellyco Missile",
+        "type": "Item",
+        "cost": 0,
+        "color": "Red",
+        "image": "https://cookierunbraverse.com/data/en_storage/KfwlQNLpyZq-pkOZmAwehQ.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "ST6-013-Hot Jellyco Missile",
+    "type": "Item",
+    "cost": 0,
+    "color": "Red"
+  },
+  "ST6-014": {
+    "id": "ST6-014",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Essence of Conflagration",
+        "type": "Item",
+        "cost": 0,
+        "color": "Red",
+        "image": "https://cookierunbraverse.com/data/en_storage/iVEAlWYp73lZxq5ql6kG2g.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "ST6-014-Essence of Conflagration",
+    "type": "Item",
+    "cost": 0,
+    "color": "Red"
+  },
+  "ST6-015": {
+    "id": "ST6-015",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fire Spirit Cookie's Staff",
+        "type": "Item",
+        "cost": 0,
+        "color": "Red",
+        "image": "https://cookierunbraverse.com/data/en_storage/TI-kjhi00ZuCzelmtMWzGQ.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "ST6-015-Fire Spirit Cookie's Staff",
+    "type": "Item",
+    "cost": 0,
+    "color": "Red"
+  },
+  "ST6-016": {
+    "id": "ST6-016",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dragon's Breath",
+        "type": "Item",
+        "cost": 0,
+        "color": "Red",
+        "image": "https://cookierunbraverse.com/data/en_storage/czwAXttL-Bsd_jJW1M11Uw.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "ST6-016-Dragon's Breath",
+    "type": "Item",
+    "cost": 0,
+    "color": "Red"
+  },
+  "ST6-017": {
+    "id": "ST6-017",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Restored Power of Fire",
+        "type": "Trap",
+        "cost": 0,
+        "color": "Red",
+        "image": "https://cookierunbraverse.com/data/en_storage/3DVRSJPAtr_rOnrJnmQ3Ng.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "ST6-017-Restored Power of Fire",
+    "type": "Trap",
+    "cost": 0,
+    "color": "Red"
+  },
+  "ST6-018": {
+    "id": "ST6-018",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Frozen Flame",
+        "type": "Trap",
+        "cost": 0,
+        "color": "Red",
+        "image": "https://cookierunbraverse.com/data/en_storage/fxYCDp_bETqoRMAGyI2XHg.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "ST6-018-Frozen Flame",
+    "type": "Trap",
+    "cost": 0,
+    "color": "Red"
+  },
+  "ST6-019": {
+    "id": "ST6-019",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Power Unleashed",
+        "type": "Trap",
+        "cost": 0,
+        "color": "Red",
+        "image": "https://cookierunbraverse.com/data/en_storage/IxMaGkpvROkvKk8rjeqbug.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "ST6-019-Power Unleashed",
+    "type": "Trap",
+    "cost": 0,
+    "color": "Red"
+  },
+  "ST6-020": {
+    "id": "ST6-020",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Into the Depths",
+        "type": "Stage",
+        "cost": 0,
+        "color": "Red",
+        "image": "https://cookierunbraverse.com/data/en_storage/rYL1FQt-5crUS9bzruP4bw.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "ST6-020-Into the Depths",
+    "type": "Stage",
+    "cost": 0,
+    "color": "Red"
+  },
+  "ST7-001": {
+    "id": "ST7-001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Blue Lily Cookie",
+        "type": "Cookie",
+        "cost": 0,
+        "color": "Yellow",
+        "image": "https://cookierunbraverse.com/data/en_storage/Uw8JYXpFofIFkKe7WnzLOQ.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "ST7-001-Blue Lily Cookie",
+    "type": "Cookie",
+    "cost": 0,
+    "color": "Yellow"
+  },
+  "ST7-002": {
+    "id": "ST7-002",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mango Cookie",
+        "type": "Cookie",
+        "cost": 0,
+        "color": "Yellow",
+        "image": "https://cookierunbraverse.com/data/en_storage/cruDcKPPokLdXp97wS57jA.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "ST7-002-Mango Cookie",
+    "type": "Cookie",
+    "cost": 0,
+    "color": "Yellow"
+  },
+  "ST7-003": {
+    "id": "ST7-003",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rainbow Sherbet Cookie",
+        "type": "Flip",
+        "cost": 0,
+        "color": "Yellow",
+        "image": "https://cookierunbraverse.com/data/en_storage/1c3J7Ch4udSHxbPvRrXbwQ.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "ST7-003-Rainbow Sherbet Cookie",
+    "type": "Flip",
+    "cost": 0,
+    "color": "Yellow"
+  },
+  "ST7-004": {
+    "id": "ST7-004",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fig Cookie",
+        "type": "Cookie",
+        "cost": 0,
+        "color": "Yellow",
+        "image": "https://cookierunbraverse.com/data/en_storage/jJDIFf4TY8KSLtDilaNswg.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "ST7-004-Fig Cookie",
+    "type": "Cookie",
+    "cost": 0,
+    "color": "Yellow"
+  },
+  "ST7-005": {
+    "id": "ST7-005",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Caramel Choux Cookie",
+        "type": "Flip",
+        "cost": 0,
+        "color": "Yellow",
+        "image": "https://cookierunbraverse.com/data/en_storage/CDqRt5znsmd-97kjirRpGA.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "ST7-005-Caramel Choux Cookie",
+    "type": "Flip",
+    "cost": 0,
+    "color": "Yellow"
+  },
+  "ST7-006": {
+    "id": "ST7-006",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cream Puff Cookie",
+        "type": "Flip",
+        "cost": 0,
+        "color": "Yellow",
+        "image": "https://cookierunbraverse.com/data/en_storage/zjC1NxoV3krtwSF-NfUNLw.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "ST7-006-Cream Puff Cookie",
+    "type": "Flip",
+    "cost": 0,
+    "color": "Yellow"
+  },
+  "ST7-007": {
+    "id": "ST7-007",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fairy Cookie",
+        "type": "Flip",
+        "cost": 0,
+        "color": "Yellow",
+        "image": "https://cookierunbraverse.com/data/en_storage/tIkVTt7tMPOd8S9GgxNaug.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "ST7-007-Fairy Cookie",
+    "type": "Flip",
+    "cost": 0,
+    "color": "Yellow"
+  },
+  "ST7-008": {
+    "id": "ST7-008",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Elder Faerie Cookie",
+        "type": "Cookie",
+        "cost": 0,
+        "color": "Yellow",
+        "image": "https://cookierunbraverse.com/data/en_storage/ehtoluwb0H0vNtuZLq24hg.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "ST7-008-Elder Faerie Cookie",
+    "type": "Cookie",
+    "cost": 0,
+    "color": "Yellow"
+  },
+  "ST7-009": {
+    "id": "ST7-009",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lilybell Cookie",
+        "type": "Cookie",
+        "cost": 0,
+        "color": "Yellow",
+        "image": "https://cookierunbraverse.com/data/en_storage/FTSSauU3L3itX1GLMgT0KQ.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "ST7-009-Lilybell Cookie",
+    "type": "Cookie",
+    "cost": 0,
+    "color": "Yellow"
+  },
+  "ST7-010": {
+    "id": "ST7-010",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Millennial Tree Cookie",
+        "type": "Cookie",
+        "cost": 0,
+        "color": "Yellow",
+        "image": "https://cookierunbraverse.com/data/en_storage/uESoQUsXe_pP2hpWmgziKA.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "ST7-010-Millennial Tree Cookie",
+    "type": "Cookie",
+    "cost": 0,
+    "color": "Yellow"
+  },
+  "ST7-011": {
+    "id": "ST7-011",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Millennial Jade Deer",
+        "type": "Cookie",
+        "cost": 0,
+        "color": "Yellow",
+        "image": "https://cookierunbraverse.com/data/en_storage/Dg74Hk0n6qPw1LRFs8Ghjg.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "ST7-011-Millennial Jade Deer",
+    "type": "Cookie",
+    "cost": 0,
+    "color": "Yellow"
+  },
+  "ST7-012": {
+    "id": "ST7-012",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Churro Cookie",
+        "type": "Cookie",
+        "cost": 0,
+        "color": "Yellow",
+        "image": "https://cookierunbraverse.com/data/en_storage/OcGNtny-4rknS5sYOSvhRA.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "ST7-012-Churro Cookie",
+    "type": "Cookie",
+    "cost": 0,
+    "color": "Yellow"
+  },
+  "ST7-013": {
+    "id": "ST7-013",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Miraculous Nutrient Ampoule",
+        "type": "Item",
+        "cost": 0,
+        "color": "Yellow",
+        "image": "https://cookierunbraverse.com/data/en_storage/_Si2Mb9s6trwCAFiTIhSCg.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "ST7-013-Miraculous Nutrient Ampoule",
+    "type": "Item",
+    "cost": 0,
+    "color": "Yellow"
+  },
+  "ST7-014": {
+    "id": "ST7-014",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Essence of Rejuvenation",
+        "type": "Item",
+        "cost": 0,
+        "color": "Yellow",
+        "image": "https://cookierunbraverse.com/data/en_storage/z-hpJNdGikaUQ2yW00297Q.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "ST7-014-Essence of Rejuvenation",
+    "type": "Item",
+    "cost": 0,
+    "color": "Yellow"
+  },
+  "ST7-015": {
+    "id": "ST7-015",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Budding Future",
+        "type": "Item",
+        "cost": 0,
+        "color": "Yellow",
+        "image": "https://cookierunbraverse.com/data/en_storage/SWTQMSpqnigQGUeFE3iUhQ.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "ST7-015-Budding Future",
+    "type": "Item",
+    "cost": 0,
+    "color": "Yellow"
+  },
+  "ST7-016": {
+    "id": "ST7-016",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tightly Tied Vine",
+        "type": "Item",
+        "cost": 0,
+        "color": "Yellow",
+        "image": "https://cookierunbraverse.com/data/en_storage/UYCMf8UsHQCdlBzm1TiuXw.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "ST7-016-Tightly Tied Vine",
+    "type": "Item",
+    "cost": 0,
+    "color": "Yellow"
+  },
+  "ST7-017": {
+    "id": "ST7-017",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vined Cavern",
+        "type": "Trap",
+        "cost": 0,
+        "color": "Yellow",
+        "image": "https://cookierunbraverse.com/data/en_storage/lDBXFzSjNfDfYrhWf1Zj3w.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "ST7-017-Vined Cavern",
+    "type": "Trap",
+    "cost": 0,
+    "color": "Yellow"
+  },
+  "ST7-018": {
+    "id": "ST7-018",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Millennial Tree Cookie's Gift",
+        "type": "Trap",
+        "cost": 0,
+        "color": "Yellow",
+        "image": "https://cookierunbraverse.com/data/en_storage/Dc_OJ43rIhEpYFN9jUj2HA.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "ST7-018-Millennial Tree Cookie's Gift",
+    "type": "Trap",
+    "cost": 0,
+    "color": "Yellow"
+  },
+  "ST7-019": {
+    "id": "ST7-019",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Millennial Jade Deer's Wrath",
+        "type": "Trap",
+        "cost": 0,
+        "color": "Yellow",
+        "image": "https://cookierunbraverse.com/data/en_storage/6uijnIyhHAOkfvDqTG6azg.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "ST7-019-Millennial Jade Deer's Wrath",
+    "type": "Trap",
+    "cost": 0,
+    "color": "Yellow"
+  },
+  "ST7-020": {
+    "id": "ST7-020",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Forest of Life",
+        "type": "Stage",
+        "cost": 0,
+        "color": "Yellow",
+        "image": "https://cookierunbraverse.com/data/en_storage/1JoiN63hR81Tu1yP3SS-DA.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "ST7-020-Forest of Life",
+    "type": "Stage",
+    "cost": 0,
+    "color": "Yellow"
+  },
+  "ST8-001": {
+    "id": "ST8-001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Greenbell Cookie",
+        "type": "Cookie",
+        "cost": 0,
+        "color": "Green",
+        "image": "https://cookierunbraverse.com/data/en_storage/9B1HiWPlaT4EJGpu1pfaWg.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "ST8-001-Greenbell Cookie",
+    "type": "Cookie",
+    "cost": 0,
+    "color": "Green"
+  },
+  "ST8-002": {
+    "id": "ST8-002",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Muscle Cookie",
+        "type": "Flip",
+        "cost": 0,
+        "color": "Green",
+        "image": "https://cookierunbraverse.com/data/en_storage/m2llFHQ66GHWulJg0H6iaA.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "ST8-002-Muscle Cookie",
+    "type": "Flip",
+    "cost": 0,
+    "color": "Green"
+  },
+  "ST8-003": {
+    "id": "ST8-003",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Leek Cookie",
+        "type": "Cookie",
+        "cost": 0,
+        "color": "Green",
+        "image": "https://cookierunbraverse.com/data/en_storage/wSVfDj970WU8E8qFbU-eTQ.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "ST8-003-Leek Cookie",
+    "type": "Cookie",
+    "cost": 0,
+    "color": "Green"
+  },
+  "ST8-004": {
+    "id": "ST8-004",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Red Panna Cotta Cookie",
+        "type": "Cookie",
+        "cost": 0,
+        "color": "Green",
+        "image": "https://cookierunbraverse.com/data/en_storage/8JJ5MHz64DbY-8xIL-hqhw.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "ST8-004-Red Panna Cotta Cookie",
+    "type": "Cookie",
+    "cost": 0,
+    "color": "Green"
+  },
+  "ST8-005": {
+    "id": "ST8-005",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Wind Archer Cookie",
+        "type": "Cookie",
+        "cost": 0,
+        "color": "Green",
+        "image": "https://cookierunbraverse.com/data/en_storage/_B5YgwFHSoJ-goh9x3BfbA.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "ST8-005-Wind Archer Cookie",
+    "type": "Cookie",
+    "cost": 0,
+    "color": "Green"
+  },
+  "ST8-006": {
+    "id": "ST8-006",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Basil Pesto Cookie",
+        "type": "Flip",
+        "cost": 0,
+        "color": "Green",
+        "image": "https://cookierunbraverse.com/data/en_storage/Mm6pi_CC9F3z8WH7tydzbA.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "ST8-006-Basil Pesto Cookie",
+    "type": "Flip",
+    "cost": 0,
+    "color": "Green"
+  },
+  "ST8-007": {
+    "id": "ST8-007",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Blue Slushy Cookie",
+        "type": "Flip",
+        "cost": 0,
+        "color": "Green",
+        "image": "https://cookierunbraverse.com/data/en_storage/qeqdjOIyh_cfIacNTsc-9g.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "ST8-007-Blue Slushy Cookie",
+    "type": "Flip",
+    "cost": 0,
+    "color": "Green"
+  },
+  "ST8-008": {
+    "id": "ST8-008",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sugar Swan Cookie",
+        "type": "Cookie",
+        "cost": 0,
+        "color": "Green",
+        "image": "https://cookierunbraverse.com/data/en_storage/q77XO42d8Kpyspi8BOUjFQ.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "ST8-008-Sugar Swan Cookie",
+    "type": "Cookie",
+    "cost": 0,
+    "color": "Green"
+  },
+  "ST8-009": {
+    "id": "ST8-009",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cucumber Cookie",
+        "type": "Flip",
+        "cost": 0,
+        "color": "Green",
+        "image": "https://cookierunbraverse.com/data/en_storage/sMMK3SnjqtUA6rUbtz9F1w.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "ST8-009-Cucumber Cookie",
+    "type": "Flip",
+    "cost": 0,
+    "color": "Green"
+  },
+  "ST8-010": {
+    "id": "ST8-010",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cookiemals",
+        "type": "Cookie",
+        "cost": 0,
+        "color": "Green",
+        "image": "https://cookierunbraverse.com/data/en_storage/3WcZPA86yU7-IyEKanPV9Q.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "ST8-010-Cookiemals",
+    "type": "Cookie",
+    "cost": 0,
+    "color": "Green"
+  },
+  "ST8-011": {
+    "id": "ST8-011",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kiwi Cookie",
+        "type": "Cookie",
+        "cost": 0,
+        "color": "Green",
+        "image": "https://cookierunbraverse.com/data/en_storage/M64-fU95XFH3U0r-o6YN8g.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "ST8-011-Kiwi Cookie",
+    "type": "Cookie",
+    "cost": 0,
+    "color": "Green"
+  },
+  "ST8-012": {
+    "id": "ST8-012",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Windcatcher",
+        "type": "Cookie",
+        "cost": 0,
+        "color": "Green",
+        "image": "https://cookierunbraverse.com/data/en_storage/Y46FLWRPFn4vDp37eklcvA.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "ST8-012-Windcatcher",
+    "type": "Cookie",
+    "cost": 0,
+    "color": "Green"
+  },
+  "ST8-013": {
+    "id": "ST8-013",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Windgrass",
+        "type": "Item",
+        "cost": 0,
+        "color": "Green",
+        "image": "https://cookierunbraverse.com/data/en_storage/KBslBhLdmzu7p99sYUPGAg.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "ST8-013-Windgrass",
+    "type": "Item",
+    "cost": 0,
+    "color": "Green"
+  },
+  "ST8-014": {
+    "id": "ST8-014",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cape of the Vanquisher",
+        "type": "Item",
+        "cost": 0,
+        "color": "Green",
+        "image": "https://cookierunbraverse.com/data/en_storage/hWGdd9VRB_EBUfvboCJEAw.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "ST8-014-Cape of the Vanquisher",
+    "type": "Item",
+    "cost": 0,
+    "color": "Green"
+  },
+  "ST8-015": {
+    "id": "ST8-015",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Essence of the Tempest",
+        "type": "Item",
+        "cost": 0,
+        "color": "Green",
+        "image": "https://cookierunbraverse.com/data/en_storage/GS3p2bZJ4mcK-CxlwhEeGg.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "ST8-015-Essence of the Tempest",
+    "type": "Item",
+    "cost": 0,
+    "color": "Green"
+  },
+  "ST8-016": {
+    "id": "ST8-016",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Wind's Grace Earrings",
+        "type": "Item",
+        "cost": 0,
+        "color": "Green",
+        "image": "https://cookierunbraverse.com/data/en_storage/ujacM2gLh3TPIHRrKwjx0w.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "ST8-016-Wind's Grace Earrings",
+    "type": "Item",
+    "cost": 0,
+    "color": "Green"
+  },
+  "ST8-017": {
+    "id": "ST8-017",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hindering Darkness",
+        "type": "Trap",
+        "cost": 0,
+        "color": "Green",
+        "image": "https://cookierunbraverse.com/data/en_storage/J1mdmMGqFu1Z8ZIGxFPw2Q.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "ST8-017-Hindering Darkness",
+    "type": "Trap",
+    "cost": 0,
+    "color": "Green"
+  },
+  "ST8-018": {
+    "id": "ST8-018",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Piercing Arrow of Purity",
+        "type": "Trap",
+        "cost": 0,
+        "color": "Green",
+        "image": "https://cookierunbraverse.com/data/en_storage/fq0aXlGWLv0vuCR-sofyAQ.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "ST8-018-Piercing Arrow of Purity",
+    "type": "Trap",
+    "cost": 0,
+    "color": "Green"
+  },
+  "ST8-019": {
+    "id": "ST8-019",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bad Omen",
+        "type": "Trap",
+        "cost": 0,
+        "color": "Green",
+        "image": "https://cookierunbraverse.com/data/en_storage/wdY73IfNxhdeljetZIZ9mg.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "ST8-019-Bad Omen",
+    "type": "Trap",
+    "cost": 0,
+    "color": "Green"
+  },
+  "ST8-020": {
+    "id": "ST8-020",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dark Enchantress Laboratory",
+        "type": "Stage",
+        "cost": 0,
+        "color": "Green",
+        "image": "https://cookierunbraverse.com/data/en_storage/1hptv600I9reNTLsD5rTuQ.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "ST8-020-Dark Enchantress Laboratory",
+    "type": "Stage",
+    "cost": 0,
+    "color": "Green"
   }
 }
