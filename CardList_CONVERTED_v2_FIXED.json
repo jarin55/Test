@@ -320,7 +320,7 @@
     "name": "BS9-010-Shadow Milk Cookie",
     "type": "Extra",
     "cost": 0,
-    "level": "2",
+    "level": 0,
     "color": "Red"
   },
   "BS9-010@1": {
@@ -338,7 +338,7 @@
     "name": "BS9-010@1-Shadow Milk Cookie",
     "type": "Extra",
     "cost": 0,
-    "level": "2",
+    "level": 0,
     "color": "Red"
   },
   "BS9-011": {
@@ -572,7 +572,7 @@
     "name": "BS9-019-Juicy Stamina Jellies",
     "type": "Item",
     "cost": 0,
-    "level": "",
+    "level": 0,
     "color": "Red"
   },
   "BS9-020": {
@@ -590,7 +590,7 @@
     "name": "BS9-020-Fateful Cookie Cutter",
     "type": "Item",
     "cost": 0,
-    "level": "",
+    "level": 0,
     "color": "Red"
   },
   "BS9-021": {
@@ -608,7 +608,7 @@
     "name": "BS9-021-Stolen Light of Truth",
     "type": "Trap",
     "cost": 0,
-    "level": "",
+    "level": 0,
     "color": "Red"
   },
   "BS9-022": {
@@ -626,7 +626,7 @@
     "name": "BS9-022-Paper Puppet Troupe",
     "type": "Trap",
     "cost": 0,
-    "level": "",
+    "level": 0,
     "color": "Red"
   },
   "BS9-023": {
@@ -644,7 +644,7 @@
     "name": "BS9-023-Atelier of Lies",
     "type": "Stage",
     "cost": 0,
-    "level": "",
+    "level": 0,
     "color": "Red"
   },
   "BS9-024": {
@@ -860,7 +860,7 @@
     "name": "BS9-030-Shadow Milk Cookie",
     "type": "Extra",
     "cost": 0,
-    "level": "3",
+    "level": 0,
     "color": "Yellow"
   },
   "BS9-030@1": {
@@ -878,7 +878,7 @@
     "name": "BS9-030@1-Shadow Milk Cookie",
     "type": "Extra",
     "cost": 0,
-    "level": "3",
+    "level": 0,
     "color": "Yellow"
   },
   "BS9-031": {
@@ -1184,7 +1184,7 @@
     "name": "BS9-043-Heart Stained With Lies",
     "type": "Item",
     "cost": 0,
-    "level": "",
+    "level": 0,
     "color": "Yellow"
   },
   "BS9-044": {
@@ -1202,7 +1202,7 @@
     "name": "BS9-044-Shadow Milk Cookie Doll",
     "type": "Item",
     "cost": 0,
-    "level": "",
+    "level": 0,
     "color": "Yellow"
   },
   "BS9-045": {
@@ -1220,7 +1220,7 @@
     "name": "BS9-045-Overtaken Other-Realm",
     "type": "Trap",
     "cost": 0,
-    "level": "",
+    "level": 0,
     "color": "Yellow"
   },
   "BS9-046": {
@@ -1238,7 +1238,7 @@
     "name": "BS9-046-Fragmented Soul",
     "type": "Trap",
     "cost": 0,
-    "level": "",
+    "level": 0,
     "color": "Yellow"
   },
   "BS9-047": {
@@ -1256,7 +1256,7 @@
     "name": "BS9-047-Yogurt River of Rebirth",
     "type": "Stage",
     "cost": 0,
-    "level": "",
+    "level": 0,
     "color": "Yellow"
   },
   "BS9-048": {
@@ -1472,7 +1472,7 @@
     "name": "BS9-055-Shadow Milk Cookie",
     "type": "Extra",
     "cost": 0,
-    "level": "3",
+    "level": 0,
     "color": "Green"
   },
   "BS9-055@1": {
@@ -1490,7 +1490,7 @@
     "name": "BS9-055@1-Shadow Milk Cookie",
     "type": "Extra",
     "cost": 0,
-    "level": "3",
+    "level": 0,
     "color": "Green"
   },
   "BS9-056": {
@@ -1760,7 +1760,7 @@
     "name": "BS9-066-Meat Jelly",
     "type": "Item",
     "cost": 0,
-    "level": "",
+    "level": 0,
     "color": "Green"
   },
   "BS9-067": {
@@ -1778,7 +1778,7 @@
     "name": "BS9-067-Concealer of Truth",
     "type": "Item",
     "cost": 0,
-    "level": "",
+    "level": 0,
     "color": "Green"
   },
   "BS9-068": {
@@ -1796,7 +1796,7 @@
     "name": "BS9-068-Radiant Light of Protection",
     "type": "Trap",
     "cost": 0,
-    "level": "",
+    "level": 0,
     "color": "Green"
   },
   "BS9-069": {
@@ -1814,7 +1814,7 @@
     "name": "BS9-069-Broken Seal",
     "type": "Trap",
     "cost": 0,
-    "level": "",
+    "level": 0,
     "color": "Green"
   },
   "BS9-070": {
@@ -1832,7 +1832,7 @@
     "name": "BS9-070-Puppet Theater Stage",
     "type": "Stage",
     "cost": 0,
-    "level": "",
+    "level": 0,
     "color": "Green"
   },
   "BS9-071": {
@@ -2300,7 +2300,7 @@
     "name": "BS9-088-Pure Vanilla Cookie",
     "type": "Extra",
     "cost": 0,
-    "level": "3",
+    "level": 0,
     "color": "Blue"
   },
   "BS9-088@1": {
@@ -2318,7 +2318,7 @@
     "name": "BS9-088@1-Pure Vanilla Cookie",
     "type": "Extra",
     "cost": 0,
-    "level": "3",
+    "level": 0,
     "color": "Blue"
   },
   "BS9-088@2": {
@@ -2336,7 +2336,7 @@
     "name": "BS9-088@2-Pure Vanilla Cookie",
     "type": "Extra",
     "cost": 0,
-    "level": "3",
+    "level": 0,
     "color": "Blue"
   },
   "BS9-089": {
@@ -2390,7 +2390,7 @@
     "name": "BS9-090-Storybook of Lies",
     "type": "Item",
     "cost": 0,
-    "level": "",
+    "level": 0,
     "color": "Blue"
   },
   "BS9-091": {
@@ -2408,7 +2408,7 @@
     "name": "BS9-091-Light of Deceit",
     "type": "Item",
     "cost": 0,
-    "level": "",
+    "level": 0,
     "color": "Blue"
   },
   "BS9-092": {
@@ -2426,7 +2426,7 @@
     "name": "BS9-092-Soul Jam: Light of Deceit",
     "type": "Item",
     "cost": 0,
-    "level": "",
+    "level": 0,
     "color": "Blue"
   },
   "BS9-092@1": {
@@ -2444,7 +2444,7 @@
     "name": "BS9-092@1-Soul Jam: Light of Deceit",
     "type": "Item",
     "cost": 0,
-    "level": "",
+    "level": 0,
     "color": "Blue"
   },
   "BS9-093": {
@@ -2462,7 +2462,7 @@
     "name": "BS9-093-Reversed Prophecy",
     "type": "Trap",
     "cost": 0,
-    "level": "",
+    "level": 0,
     "color": "Blue"
   },
   "BS9-094": {
@@ -2480,7 +2480,7 @@
     "name": "BS9-094-Shadow Milk Cookie's Tarot Card",
     "type": "Trap",
     "cost": 0,
-    "level": "",
+    "level": 0,
     "color": "Blue"
   },
   "BS9-095": {
@@ -2498,7 +2498,7 @@
     "name": "BS9-095-Spire of Deceit",
     "type": "Stage",
     "cost": 0,
-    "level": "",
+    "level": 0,
     "color": "Blue"
   },
   "BS9-096": {
@@ -2730,9 +2730,9 @@
       }
     },
     "name": "BS9-102-Shadow Milk Cookie",
-    "type": "Cookie",
+    "type": "Extra",
     "cost": 0,
-    "level": "3",
+    "level": 0,
     "color": "Purple"
   },
   "BS9-102@1": {
@@ -2750,7 +2750,7 @@
     "name": "BS9-102@1-Shadow Milk Cookie",
     "type": "Extra",
     "cost": 0,
-    "level": "3",
+    "level": 0,
     "color": "Purple"
   },
   "BS9-103": {
@@ -3038,7 +3038,7 @@
     "name": "BS9-114-Flipped Coin",
     "type": "Item",
     "cost": 0,
-    "level": "",
+    "level": 0,
     "color": "Purple"
   },
   "BS9-115": {
@@ -3056,7 +3056,7 @@
     "name": "BS9-115-Wolf in Sheep's Clothing",
     "type": "Item",
     "cost": 0,
-    "level": "",
+    "level": 0,
     "color": "Purple"
   },
   "BS9-116": {
@@ -3074,7 +3074,7 @@
     "name": "BS9-116-Light of False Truths",
     "type": "Trap",
     "cost": 0,
-    "level": "",
+    "level": 0,
     "color": "Purple"
   },
   "BS9-117": {
@@ -3092,7 +3092,7 @@
     "name": "BS9-117-Truth Stained With Lies",
     "type": "Trap",
     "cost": 0,
-    "level": "",
+    "level": 0,
     "color": "Purple"
   },
   "BS9-118": {
@@ -3110,7 +3110,7 @@
     "name": "BS9-118-Endless Game of Chess",
     "type": "Stage",
     "cost": 0,
-    "level": "",
+    "level": 0,
     "color": "Purple"
   },
   "BS8-001": {
@@ -3218,7 +3218,7 @@
     "name": "BS8-005-Avatar of Ruin",
     "type": "Extra",
     "cost": 0,
-    "level": "3",
+    "level": 0,
     "color": "Red"
   },
   "BS8-005@1": {
@@ -3236,7 +3236,7 @@
     "name": "BS8-005@1-Avatar of Ruin",
     "type": "Extra",
     "cost": 0,
-    "level": "3",
+    "level": 0,
     "color": "Red"
   },
   "BS8-006": {
@@ -3578,7 +3578,7 @@
     "name": "BS8-021-Soul Jam: Light of Destruction",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Red"
   },
   "BS8-021@1": {
@@ -3596,7 +3596,7 @@
     "name": "BS8-021@1-Soul Jam: Light of Destruction",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Red"
   },
   "BS8-022": {
@@ -3614,7 +3614,7 @@
     "name": "BS8-022-Cake Hound's Crown",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Red"
   },
   "BS8-023": {
@@ -3632,7 +3632,7 @@
     "name": "BS8-023-Shadow of the Destroyer",
     "type": "Trap",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Red"
   },
   "BS8-024": {
@@ -3650,7 +3650,7 @@
     "name": "BS8-024-Land of Fire & Ruin",
     "type": "Stage",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Red"
   },
   "BS8-025": {
@@ -3668,7 +3668,7 @@
     "name": "BS8-025-Tower of Sweet Chaos",
     "type": "Stage",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Red"
   },
   "BS8-026": {
@@ -3722,7 +3722,7 @@
     "name": "BS8-027-Golden Cheese Cookie",
     "type": "Extra",
     "cost": 0,
-    "level": "3",
+    "level": 0,
     "color": "Yellow"
   },
   "BS8-027@1": {
@@ -3740,7 +3740,7 @@
     "name": "BS8-027@1-Golden Cheese Cookie",
     "type": "Extra",
     "cost": 0,
-    "level": "3",
+    "level": 0,
     "color": "Yellow"
   },
   "BS8-027@2": {
@@ -3758,7 +3758,7 @@
     "name": "BS8-027@2-Golden Cheese Cookie",
     "type": "Extra",
     "cost": 0,
-    "level": "3",
+    "level": 0,
     "color": "Yellow"
   },
   "BS8-028@1": {
@@ -4154,7 +4154,7 @@
     "name": "BS8-046-Surprise! Lassi Jar",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Yellow"
   },
   "BS8-047": {
@@ -4172,7 +4172,7 @@
     "name": "BS8-047-Puny Strength",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Yellow"
   },
   "BS8-048": {
@@ -4190,7 +4190,7 @@
     "name": "BS8-048-Kulfi Legends",
     "type": "Trap",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Yellow"
   },
   "BS8-049": {
@@ -4208,7 +4208,7 @@
     "name": "BS8-049-Simmering Lassi Springs",
     "type": "Stage",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Yellow"
   },
   "BS8-050": {
@@ -4226,7 +4226,7 @@
     "name": "BS8-050-City of Eternal Gold",
     "type": "Stage",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Yellow"
   },
   "BS8-051": {
@@ -4658,7 +4658,7 @@
     "name": "BS8-069-Peak of Apathy",
     "type": "Extra",
     "cost": 0,
-    "level": "2",
+    "level": 0,
     "color": "Green"
   },
   "BS8-069@1": {
@@ -4676,7 +4676,7 @@
     "name": "BS8-069@1-Peak of Apathy",
     "type": "Extra",
     "cost": 0,
-    "level": "2",
+    "level": 0,
     "color": "Green"
   },
   "BS8-070": {
@@ -4712,7 +4712,7 @@
     "name": "BS8-071-Peach Baos",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Green"
   },
   "BS8-072": {
@@ -4730,7 +4730,7 @@
     "name": "BS8-072-Soul Jam: Light of Apathy",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Green"
   },
   "BS8-072@1": {
@@ -4748,7 +4748,7 @@
     "name": "BS8-072@1-Soul Jam: Light of Apathy",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Green"
   },
   "BS8-073": {
@@ -4766,7 +4766,7 @@
     "name": "BS8-073-Noodle Cocoon",
     "type": "Trap",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Green"
   },
   "BS8-074": {
@@ -4784,7 +4784,7 @@
     "name": "BS8-074-White Flour Fog",
     "type": "Trap",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Green"
   },
   "BS8-075": {
@@ -4802,7 +4802,7 @@
     "name": "BS8-075-The Ivory Pagoda",
     "type": "Stage",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Green"
   },
   "BS8-076": {
@@ -5162,7 +5162,7 @@
     "name": "BS8-090-Will of Nature",
     "type": "Extra",
     "cost": 0,
-    "level": "3",
+    "level": 0,
     "color": "Blue"
   },
   "BS8-090@1": {
@@ -5180,7 +5180,7 @@
     "name": "BS8-090@1-Will of Nature",
     "type": "Extra",
     "cost": 0,
-    "level": "3",
+    "level": 0,
     "color": "Blue"
   },
   "BS8-091": {
@@ -5288,7 +5288,7 @@
     "name": "BS8-096-Warm Wind Flower",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Blue"
   },
   "BS8-097": {
@@ -5306,7 +5306,7 @@
     "name": "BS8-097-Heartfelt Light",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Blue"
   },
   "BS8-098": {
@@ -5324,7 +5324,7 @@
     "name": "BS8-098-Warmth of the Snowfield",
     "type": "Trap",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Blue"
   },
   "BS8-099": {
@@ -5342,7 +5342,7 @@
     "name": "BS8-099-Frozen Mountain Depths",
     "type": "Stage",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Blue"
   },
   "BS8-100": {
@@ -5360,7 +5360,7 @@
     "name": "BS8-100-Snowfall Lantern Tree",
     "type": "Stage",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Blue"
   },
   "BS8-101": {
@@ -5450,7 +5450,7 @@
     "name": "BS8-104-Dark Cacao Cookie",
     "type": "Extra",
     "cost": 0,
-    "level": "3",
+    "level": 0,
     "color": "Purple"
   },
   "BS8-104@1": {
@@ -5468,7 +5468,7 @@
     "name": "BS8-104@1-Dark Cacao Cookie",
     "type": "Extra",
     "cost": 0,
-    "level": "3",
+    "level": 0,
     "color": "Purple"
   },
   "BS8-104@2": {
@@ -5486,7 +5486,7 @@
     "name": "BS8-104@2-Dark Cacao Cookie",
     "type": "Extra",
     "cost": 0,
-    "level": "3",
+    "level": 0,
     "color": "Purple"
   },
   "BS8-105": {
@@ -5846,7 +5846,7 @@
     "name": "BS8-121-Black Concoction",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Purple"
   },
   "BS8-122": {
@@ -5864,7 +5864,7 @@
     "name": "BS8-122-Milk Cart",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Purple"
   },
   "BS8-123": {
@@ -5882,7 +5882,7 @@
     "name": "BS8-123-Dark Resolution",
     "type": "Trap",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Purple"
   },
   "BS8-124": {
@@ -5900,7 +5900,7 @@
     "name": "BS8-124-Glorious Return",
     "type": "Trap",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Purple"
   },
   "BS8-125": {
@@ -5918,7 +5918,7 @@
     "name": "BS8-125-The Days of Resolution and Dignity",
     "type": "Stage",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Purple"
   },
   "BS7-001": {
@@ -6386,7 +6386,7 @@
     "name": "BS7-020-Scovilsky Manuscript",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Red"
   },
   "BS7-021": {
@@ -6404,7 +6404,7 @@
     "name": "BS7-021-Labyrinth Golem Attack",
     "type": "Trap",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Red"
   },
   "BS7-022": {
@@ -6422,7 +6422,7 @@
     "name": "BS7-022-Scovillia Quarters",
     "type": "Stage",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Red"
   },
   "BS7-023": {
@@ -6854,7 +6854,7 @@
     "name": "BS7-041-The Key to Unbreakable Faith",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Yellow"
   },
   "BS7-042": {
@@ -6872,7 +6872,7 @@
     "name": "BS7-042-Valiant Victor's Salvation",
     "type": "Trap",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Yellow"
   },
   "BS7-043": {
@@ -6890,7 +6890,7 @@
     "name": "BS7-043-Crème Knights' Quarters",
     "type": "Stage",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Yellow"
   },
   "BS7-044": {
@@ -7358,7 +7358,7 @@
     "name": "BS7-063-Grand Cookie Games Trophy",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Green"
   },
   "BS7-064": {
@@ -7376,7 +7376,7 @@
     "name": "BS7-064-Cookie Windmill",
     "type": "Trap",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Green"
   },
   "BS7-065": {
@@ -7394,7 +7394,7 @@
     "name": "BS7-065-Cookie Games Stadium",
     "type": "Stage",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Green"
   },
   "BS7-066": {
@@ -7826,7 +7826,7 @@
     "name": "BS7-084-The Sunblade",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Blue"
   },
   "BS7-085": {
@@ -7844,7 +7844,7 @@
     "name": "BS7-085-A Victory For You",
     "type": "Trap",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Blue"
   },
   "BS7-086": {
@@ -7862,7 +7862,7 @@
     "name": "BS7-086-Temple of the Sun Central Arena",
     "type": "Stage",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Blue"
   },
   "BS7-087": {
@@ -8294,7 +8294,7 @@
     "name": "BS7-105-Golem Core",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Purple"
   },
   "BS7-106": {
@@ -8312,7 +8312,7 @@
     "name": "BS7-106-Securing the First Victory",
     "type": "Trap",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Purple"
   },
   "BS7-107": {
@@ -8330,7 +8330,7 @@
     "name": "BS7-107-Parfaedia Quarters",
     "type": "Stage",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Purple"
   },
   "BS7-108": {
@@ -8348,7 +8348,7 @@
     "name": "BS7-108-Arena of Glory",
     "type": "Trap",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": ""
   },
   "BS7-108@1": {
@@ -8366,7 +8366,7 @@
     "name": "BS7-108@1-Arena of Glory",
     "type": "Trap",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": ""
   },
   "BS5-001": {
@@ -8816,7 +8816,7 @@
     "name": "BS5-020-Crimson Dragon Mask",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Red"
   },
   "BS5-021": {
@@ -8834,7 +8834,7 @@
     "name": "BS5-021-Draconic Aura",
     "type": "Trap",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Red"
   },
   "BS5-022": {
@@ -8852,7 +8852,7 @@
     "name": "BS5-022-Pitaya Dragon Cookie's Nest",
     "type": "Stage",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Red"
   },
   "BS5-023": {
@@ -9302,7 +9302,7 @@
     "name": "BS5-042-Sniffly Cocoa Palm",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Yellow"
   },
   "BS5-043": {
@@ -9320,7 +9320,7 @@
     "name": "BS5-043-Seasick Canoeing",
     "type": "Trap",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Yellow"
   },
   "BS5-044": {
@@ -9338,7 +9338,7 @@
     "name": "BS5-044-Ananas Dragon Cookie's Nest",
     "type": "Stage",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Yellow"
   },
   "BS5-045": {
@@ -9806,7 +9806,7 @@
     "name": "BS5-064-Dragon Orb",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Green"
   },
   "BS5-065": {
@@ -9824,7 +9824,7 @@
     "name": "BS5-065-Petrification",
     "type": "Trap",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Green"
   },
   "BS5-066": {
@@ -9842,7 +9842,7 @@
     "name": "BS5-066-Longan Palace",
     "type": "Stage",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Green"
   },
   "BS5-067": {
@@ -10292,7 +10292,7 @@
     "name": "BS5-086-Tales of the Lotus",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Blue"
   },
   "BS5-087": {
@@ -10310,7 +10310,7 @@
     "name": "BS5-087-Dino Greetings",
     "type": "Trap",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Blue"
   },
   "BS5-088": {
@@ -10328,7 +10328,7 @@
     "name": "BS5-088-Lotus Palace",
     "type": "Stage",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Blue"
   },
   "BS5-089": {
@@ -10796,7 +10796,7 @@
     "name": "BS5-108-Rambirdtan Handler Glove",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Purple"
   },
   "BS5-109": {
@@ -10814,7 +10814,7 @@
     "name": "BS5-109-Charmed Miners",
     "type": "Trap",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Purple"
   },
   "BS5-110": {
@@ -10832,7 +10832,7 @@
     "name": "BS5-110-Lychee Dragon Cookie's Cave",
     "type": "Stage",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Purple"
   },
   "BS5-111": {
@@ -10850,7 +10850,7 @@
     "name": "BS5-111-Wrath of the Dragons",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": ""
   },
   "BS5-111@1": {
@@ -10868,7 +10868,7 @@
     "name": "BS5-111@1-Wrath of the Dragons",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": ""
   },
   "BS6-001": {
@@ -11300,7 +11300,7 @@
     "name": "BS6-019-Squishy Jelly Watch",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Red"
   },
   "BS6-020": {
@@ -11318,7 +11318,7 @@
     "name": "BS6-020-Tonic Spray",
     "type": "Trap",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Red"
   },
   "BS6-021": {
@@ -11336,7 +11336,7 @@
     "name": "BS6-021-TBD Hallway",
     "type": "Stage",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Red"
   },
   "BS6-022": {
@@ -11822,7 +11822,7 @@
     "name": "BS6-041-Hourglass of Aeternus Tempora",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Yellow"
   },
   "BS6-042": {
@@ -11840,7 +11840,7 @@
     "name": "BS6-042-Clever Advice",
     "type": "Trap",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Yellow"
   },
   "BS6-043": {
@@ -11858,7 +11858,7 @@
     "name": "BS6-043-Timecraft Garage",
     "type": "Stage",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Yellow"
   },
   "BS6-044": {
@@ -12290,7 +12290,7 @@
     "name": "BS6-062-Time Rend Scissors",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Green"
   },
   "BS6-063": {
@@ -12308,7 +12308,7 @@
     "name": "BS6-063-Into a Time Pocket...",
     "type": "Trap",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Green"
   },
   "BS6-064": {
@@ -12326,7 +12326,7 @@
     "name": "BS6-064-Broken Central Clock",
     "type": "Stage",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Green"
   },
   "BS6-065": {
@@ -12794,7 +12794,7 @@
     "name": "BS6-084-Time Manipulator",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Blue"
   },
   "BS6-085": {
@@ -12812,7 +12812,7 @@
     "name": "BS6-085-Destruction of a Pastless Future",
     "type": "Trap",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Blue"
   },
   "BS6-086": {
@@ -12830,7 +12830,7 @@
     "name": "BS6-086-Messy TBD Director's Office",
     "type": "Stage",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Blue"
   },
   "BS6-087": {
@@ -13262,7 +13262,7 @@
     "name": "BS6-105-Butterfly Key Relic",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Purple"
   },
   "BS6-106": {
@@ -13280,7 +13280,7 @@
     "name": "BS6-106-Peak Engineer Performance",
     "type": "Trap",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Purple"
   },
   "BS6-107": {
@@ -13298,7 +13298,7 @@
     "name": "BS6-107-TBD Machine Room",
     "type": "Stage",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Purple"
   },
   "BS3-001": {
@@ -13730,7 +13730,7 @@
     "name": "BS3-018-Mushroom Spore Punch",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Red"
   },
   "BS3-019": {
@@ -13748,7 +13748,7 @@
     "name": "BS3-019-Soul Jam: Light of Passion",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Red"
   },
   "BS3-019@1": {
@@ -13766,7 +13766,7 @@
     "name": "BS3-019@1-Soul Jam: Light of Passion",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Red"
   },
   "BS3-020": {
@@ -13784,7 +13784,7 @@
     "name": "BS3-020-Miniature Dragon Boat",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Red"
   },
   "BS3-021": {
@@ -13802,7 +13802,7 @@
     "name": "BS3-021-Oath on the Shield",
     "type": "Trap",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Red"
   },
   "BS3-022": {
@@ -13820,7 +13820,7 @@
     "name": "BS3-022-Banquet of Victory",
     "type": "Trap",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Red"
   },
   "BS3-023": {
@@ -13838,7 +13838,7 @@
     "name": "BS3-023-Passionate Hollyberry Kingdom",
     "type": "Stage",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Red"
   },
   "BS3-024": {
@@ -13856,7 +13856,7 @@
     "name": "BS3-024-Dragon's Valley",
     "type": "Stage",
     "cost": 0,
-    "level": "",
+    "level": 0,
     "color": "Red"
   },
   "BS3-025": {
@@ -14288,7 +14288,7 @@
     "name": "BS3-042-Golden Cheese Guardian Golem",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Yellow"
   },
   "BS3-043": {
@@ -14306,7 +14306,7 @@
     "name": "BS3-043-Soul Jam: Light of Abundance",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Yellow"
   },
   "BS3-043@1": {
@@ -14324,7 +14324,7 @@
     "name": "BS3-043@1-Soul Jam: Light of Abundance",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Yellow"
   },
   "BS3-044": {
@@ -14342,7 +14342,7 @@
     "name": "BS3-044-Cheesepad Tablet",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Yellow"
   },
   "BS3-045": {
@@ -14360,7 +14360,7 @@
     "name": "BS3-045-Golden Monarch's Counterattack",
     "type": "Trap",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Yellow"
   },
   "BS3-046": {
@@ -14378,7 +14378,7 @@
     "name": "BS3-046-Golden Cheese Colosseum",
     "type": "Trap",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Yellow"
   },
   "BS3-047": {
@@ -14396,7 +14396,7 @@
     "name": "BS3-047-Kingdom of Eternal Abundance",
     "type": "Stage",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Yellow"
   },
   "BS3-048": {
@@ -14414,7 +14414,7 @@
     "name": "BS3-048-Golden City's Control Chamber",
     "type": "Stage",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Yellow"
   },
   "BS3-049": {
@@ -14846,7 +14846,7 @@
     "name": "BS3-066-Soul Jam: Light of Freedom",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Green"
   },
   "BS3-066@1": {
@@ -14864,7 +14864,7 @@
     "name": "BS3-066@1-Soul Jam: Light of Freedom",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Green"
   },
   "BS3-067": {
@@ -14882,7 +14882,7 @@
     "name": "BS3-067-Faerie Kingdom's Music",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Green"
   },
   "BS3-068": {
@@ -14900,7 +14900,7 @@
     "name": "BS3-068-Elder Faerie's Sword",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Green"
   },
   "BS3-069": {
@@ -14918,7 +14918,7 @@
     "name": "BS3-069-The New Guardian's Power",
     "type": "Trap",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Green"
   },
   "BS3-070": {
@@ -14936,7 +14936,7 @@
     "name": "BS3-070-Puppet Theater of Chaos",
     "type": "Trap",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Green"
   },
   "BS3-071": {
@@ -14954,7 +14954,7 @@
     "name": "BS3-071-Ancient Silver Tree",
     "type": "Stage",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Green"
   },
   "BS3-072": {
@@ -14972,7 +14972,7 @@
     "name": "BS3-072-Mystical Faerie Kingdom",
     "type": "Stage",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Green"
   },
   "BS3-073": {
@@ -15404,7 +15404,7 @@
     "name": "BS3-090-Sword of Radiant Light",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Blue"
   },
   "BS3-091": {
@@ -15422,7 +15422,7 @@
     "name": "BS3-091-Soul Jam: Light of Truth",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Blue"
   },
   "BS3-091@1": {
@@ -15440,7 +15440,7 @@
     "name": "BS3-091@1-Soul Jam: Light of Truth",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Blue"
   },
   "BS3-092": {
@@ -15458,7 +15458,7 @@
     "name": "BS3-092-Old Vanilla Orchid Locket",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Blue"
   },
   "BS3-093": {
@@ -15476,7 +15476,7 @@
     "name": "BS3-093-Convocation of Elders",
     "type": "Trap",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Blue"
   },
   "BS3-094": {
@@ -15494,7 +15494,7 @@
     "name": "BS3-094-Radiant Coronation",
     "type": "Trap",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Blue"
   },
   "BS3-095": {
@@ -15512,7 +15512,7 @@
     "name": "BS3-095-Glorious Crème Republic",
     "type": "Stage",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Blue"
   },
   "BS3-096": {
@@ -15530,7 +15530,7 @@
     "name": "BS3-096-Peaceful Vanilla Kingdom",
     "type": "Stage",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Blue"
   },
   "BS3-097": {
@@ -15962,7 +15962,7 @@
     "name": "BS3-114-Bittersweet Incense",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Purple"
   },
   "BS3-115": {
@@ -15980,7 +15980,7 @@
     "name": "BS3-115-Soul Jam: Light of Resolution",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Purple"
   },
   "BS3-115@1": {
@@ -15998,7 +15998,7 @@
     "name": "BS3-115@1-Soul Jam: Light of Resolution",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Purple"
   },
   "BS3-116": {
@@ -16016,7 +16016,7 @@
     "name": "BS3-116-First Watcher's Bow",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Purple"
   },
   "BS3-117": {
@@ -16034,7 +16034,7 @@
     "name": "BS3-117-Chocolate Altar of the Fallen",
     "type": "Trap",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Purple"
   },
   "BS3-118": {
@@ -16052,7 +16052,7 @@
     "name": "BS3-118-Founding Resolution",
     "type": "Trap",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Purple"
   },
   "BS3-119": {
@@ -16070,7 +16070,7 @@
     "name": "BS3-119-Roiling Licorice Sea",
     "type": "Stage",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Purple"
   },
   "BS3-120": {
@@ -16088,7 +16088,7 @@
     "name": "BS3-120-Resolute Dark Cacao Kingdom",
     "type": "Stage",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Purple"
   },
   "BS3-121": {
@@ -16106,7 +16106,7 @@
     "name": "BS3-121-Age of Heroes and Kingdoms",
     "type": "Stage",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Red Yellow Green Blue Purple"
   },
   "BS3-121@1": {
@@ -16124,7 +16124,7 @@
     "name": "BS3-121@1-Age of Heroes and Kingdoms",
     "type": "Stage",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Red Yellow Green Blue Purple"
   },
   "BS3-121@2": {
@@ -16142,7 +16142,7 @@
     "name": "BS3-121@2-Age of Heroes and Kingdoms",
     "type": "Stage",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Red Yellow Green Blue Purple"
   },
   "BS4-001": {
@@ -16574,7 +16574,7 @@
     "name": "BS4-018-Magma Pendulum",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Red"
   },
   "BS4-019": {
@@ -16592,7 +16592,7 @@
     "name": "BS4-019-Ring of Eternal Flame",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Red"
   },
   "BS4-020": {
@@ -16610,7 +16610,7 @@
     "name": "BS4-020-Essence of Conflagration",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Red"
   },
   "BS4-020@1": {
@@ -16628,7 +16628,7 @@
     "name": "BS4-020@1-Essence of Conflagration",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Red"
   },
   "BS4-021": {
@@ -16646,7 +16646,7 @@
     "name": "BS4-021-Battle on the Edge",
     "type": "Trap",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Red"
   },
   "BS4-022": {
@@ -16664,7 +16664,7 @@
     "name": "BS4-022-Scovillia Training Grounds",
     "type": "Stage",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Red"
   },
   "BS4-023": {
@@ -17096,7 +17096,7 @@
     "name": "BS4-040-Essence of Rejuvenation",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Yellow"
   },
   "BS4-040@1": {
@@ -17114,7 +17114,7 @@
     "name": "BS4-040@1-Essence of Rejuvenation",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Yellow"
   },
   "BS4-041": {
@@ -17132,7 +17132,7 @@
     "name": "BS4-041-Millennial Twig",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Yellow"
   },
   "BS4-042": {
@@ -17150,7 +17150,7 @@
     "name": "BS4-042-Millennial Jade Deer",
     "type": "Trap",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Yellow"
   },
   "BS4-043": {
@@ -17168,7 +17168,7 @@
     "name": "BS4-043-Heaven-Splitting Lightning",
     "type": "Trap",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Yellow"
   },
   "BS4-044": {
@@ -17186,7 +17186,7 @@
     "name": "BS4-044-Millennial Temple",
     "type": "Stage",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Yellow"
   },
   "BS4-045": {
@@ -17654,7 +17654,7 @@
     "name": "BS4-062-Wind Gems",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Green"
   },
   "BS4-062@1": {
@@ -17672,7 +17672,7 @@
     "name": "BS4-062@1-Wind Gems",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Green"
   },
   "BS4-063": {
@@ -17690,7 +17690,7 @@
     "name": "BS4-063-Swan Feather Dreamcatcher",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Green"
   },
   "BS4-064": {
@@ -17708,7 +17708,7 @@
     "name": "BS4-064-Night Raven's Arrow",
     "type": "Trap",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Green"
   },
   "BS4-065": {
@@ -17726,7 +17726,7 @@
     "name": "BS4-065-Spring Festival",
     "type": "Trap",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Green"
   },
   "BS4-066": {
@@ -17744,7 +17744,7 @@
     "name": "BS4-066-Dessert Paradise",
     "type": "Stage",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Green"
   },
   "BS4-067": {
@@ -18158,7 +18158,7 @@
     "name": "BS4-084-Heart of the Deep Sea",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Blue"
   },
   "BS4-085": {
@@ -18176,7 +18176,7 @@
     "name": "BS4-085-Tide Shards",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Blue"
   },
   "BS4-085@1": {
@@ -18194,7 +18194,7 @@
     "name": "BS4-085@1-Tide Shards",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Blue"
   },
   "BS4-086": {
@@ -18212,7 +18212,7 @@
     "name": "BS4-086-Weeping Cries of the Deep",
     "type": "Trap",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Blue"
   },
   "BS4-087": {
@@ -18230,7 +18230,7 @@
     "name": "BS4-087-Mermaid's Tale",
     "type": "Trap",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Blue"
   },
   "BS4-088": {
@@ -18248,7 +18248,7 @@
     "name": "BS4-088-Tower of Frozen Waves",
     "type": "Stage",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Blue"
   },
   "BS4-089": {
@@ -18680,7 +18680,7 @@
     "name": "BS4-106-Butterfly Brooch",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Purple"
   },
   "BS4-107": {
@@ -18698,7 +18698,7 @@
     "name": "BS4-107-Moonlight Shards",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Purple"
   },
   "BS4-107@1": {
@@ -18716,7 +18716,7 @@
     "name": "BS4-107@1-Moonlight Shards",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Purple"
   },
   "BS4-108": {
@@ -18734,7 +18734,7 @@
     "name": "BS4-108-Plasma Crystal Ball",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Purple"
   },
   "BS4-109": {
@@ -18752,7 +18752,7 @@
     "name": "BS4-109-Slumbering Moon's Invitation",
     "type": "Trap",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Purple"
   },
   "BS4-110": {
@@ -18770,7 +18770,7 @@
     "name": "BS4-110-City of Wizards",
     "type": "Stage",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Purple"
   },
   "BS4-111": {
@@ -18788,7 +18788,7 @@
     "name": "BS4-111-Cookies of Legend",
     "type": "Stage",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": ""
   },
   "BS4-111@1": {
@@ -18806,7 +18806,7 @@
     "name": "BS4-111@1-Cookies of Legend",
     "type": "Stage",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": ""
   },
   "BS1-001": {
@@ -19328,7 +19328,7 @@
     "name": "BS1-022-Giant Cherry Bomb",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Red"
   },
   "BS1-023": {
@@ -19346,7 +19346,7 @@
     "name": "BS1-023-Spicy Power Juice",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Red"
   },
   "BS1-024": {
@@ -19364,7 +19364,7 @@
     "name": "BS1-024-Pasta Spring Shoes",
     "type": "Trap",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Red"
   },
   "BS1-025": {
@@ -19382,7 +19382,7 @@
     "name": "BS1-025-Pineapple Helmet",
     "type": "Trap",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Red"
   },
   "BS1-026": {
@@ -19400,7 +19400,7 @@
     "name": "BS1-026-Desert Oasis",
     "type": "Stage",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Red"
   },
   "BS1-027": {
@@ -19922,7 +19922,7 @@
     "name": "BS1-048-Jelly Pom-Poms",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Yellow"
   },
   "BS1-049": {
@@ -19940,7 +19940,7 @@
     "name": "BS1-049-Tropical Slushie",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Yellow"
   },
   "BS1-050": {
@@ -19958,7 +19958,7 @@
     "name": "BS1-050-Broken Signpost",
     "type": "Trap",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Yellow"
   },
   "BS1-051": {
@@ -19976,7 +19976,7 @@
     "name": "BS1-051-Super-Vita Jelly Bar",
     "type": "Trap",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Yellow"
   },
   "BS1-052": {
@@ -19994,7 +19994,7 @@
     "name": "BS1-052-Star Candy Road",
     "type": "Stage",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Yellow"
   },
   "BS1-053": {
@@ -20516,7 +20516,7 @@
     "name": "BS1-074-Ancient Forest Luckstone",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Green"
   },
   "BS1-075": {
@@ -20534,7 +20534,7 @@
     "name": "BS1-075-Wanderer's Apple Pie",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Green"
   },
   "BS1-076": {
@@ -20552,7 +20552,7 @@
     "name": "BS1-076-Stinging Nettle",
     "type": "Trap",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Green"
   },
   "BS1-077": {
@@ -20570,7 +20570,7 @@
     "name": "BS1-077-Tasty First Aid Kit",
     "type": "Trap",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Green"
   },
   "BS1-078": {
@@ -20588,7 +20588,7 @@
     "name": "BS1-078-Awakening Ancient Forest",
     "type": "Stage",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Green"
   },
   "BS2-001": {
@@ -20714,7 +20714,7 @@
     "name": "BS2-006-Prickly Cacti Gloves",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Red"
   },
   "BS2-007": {
@@ -20732,7 +20732,7 @@
     "name": "BS2-007-Prickly Cactus Bat",
     "type": "Trap",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Red"
   },
   "BS2-008": {
@@ -20858,7 +20858,7 @@
     "name": "BS2-013-Wind-Up Pocket Watch",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Yellow"
   },
   "BS2-014": {
@@ -20876,7 +20876,7 @@
     "name": "BS2-014-Erratic Yakgwa Robot",
     "type": "Trap",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Yellow"
   },
   "BS2-015": {
@@ -21002,7 +21002,7 @@
     "name": "BS2-020-Carrot Jelly Stew",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Green"
   },
   "BS2-021": {
@@ -21020,7 +21020,7 @@
     "name": "BS2-021-Carrot Farm Scarecrow",
     "type": "Trap",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Green"
   },
   "BS2-022": {
@@ -21668,7 +21668,7 @@
     "name": "BS2-047-Diving Goggles",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Blue"
   },
   "BS2-048": {
@@ -21686,7 +21686,7 @@
     "name": "BS2-048-Jellied Jellyfish Potion",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Blue"
   },
   "BS2-049": {
@@ -21704,7 +21704,7 @@
     "name": "BS2-049-Salt Crystal Trident",
     "type": "Trap",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Blue"
   },
   "BS2-050": {
@@ -21722,7 +21722,7 @@
     "name": "BS2-050-Hermit Crab's Shell",
     "type": "Trap",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Blue"
   },
   "BS2-051": {
@@ -21740,7 +21740,7 @@
     "name": "BS2-051-Whipped Snowcream Village",
     "type": "Stage",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Blue"
   },
   "BS2-052": {
@@ -22388,7 +22388,7 @@
     "name": "BS2-077-Forbidden Incantation",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Purple"
   },
   "BS2-078": {
@@ -22406,7 +22406,7 @@
     "name": "BS2-078-Dragon's Breath",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Purple"
   },
   "BS2-079": {
@@ -22424,7 +22424,7 @@
     "name": "BS2-079-Yew Village Scroll",
     "type": "Trap",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Purple"
   },
   "BS2-080": {
@@ -22442,7 +22442,7 @@
     "name": "BS2-080-Abandoned Cloud Nest",
     "type": "Trap",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Purple"
   },
   "BS2-081": {
@@ -22460,7 +22460,7 @@
     "name": "BS2-081-Blue Dragon's Eye",
     "type": "Stage",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Purple"
   },
   "ST1-001": {
@@ -22748,7 +22748,7 @@
     "name": "ST1-016-Icky Sticky Jelly",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Red"
   },
   "ST1-017": {
@@ -22766,7 +22766,7 @@
     "name": "ST1-017-Exceptional Cake Knife",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Red"
   },
   "ST1-018": {
@@ -22784,7 +22784,7 @@
     "name": "ST1-018-Sugar-Coated Snail Shell",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Red"
   },
   "ST1-019": {
@@ -22802,7 +22802,7 @@
     "name": "ST1-019-Fiery Jelly Clump",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Red"
   },
   "ST1-020": {
@@ -22820,7 +22820,7 @@
     "name": "ST1-020-Overhydrated Dough Swamp",
     "type": "Trap",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Red"
   },
   "ST1-021": {
@@ -22838,7 +22838,7 @@
     "name": "ST1-021-Ouch-Inducing Star Jelly",
     "type": "Trap",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Red"
   },
   "ST1-022": {
@@ -22856,7 +22856,7 @@
     "name": "ST1-022-Burning Jelly Volcano",
     "type": "Stage",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Red"
   },
   "ST2-001": {
@@ -23144,7 +23144,7 @@
     "name": "ST2-016-Flimsy Screwdriver",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Yellow"
   },
   "ST2-018": {
@@ -23162,7 +23162,7 @@
     "name": "ST2-018-Time Travel Ticket",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Yellow"
   },
   "ST2-019": {
@@ -23180,7 +23180,7 @@
     "name": "ST2-019-Multi-Vitamin Honey Bomb",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Yellow"
   },
   "ST2-020": {
@@ -23198,7 +23198,7 @@
     "name": "ST2-020-Winding Key Shield",
     "type": "Trap",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Yellow"
   },
   "ST2-021": {
@@ -23216,7 +23216,7 @@
     "name": "ST2-021-Pretzel Snare",
     "type": "Trap",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Yellow"
   },
   "ST3-001": {
@@ -23504,7 +23504,7 @@
     "name": "ST3-016-Ancient Healer's Gaze",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Green"
   },
   "ST3-017": {
@@ -23522,7 +23522,7 @@
     "name": "ST3-017-Viney Vines",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Green"
   },
   "ST3-018": {
@@ -23540,7 +23540,7 @@
     "name": "ST3-018-Parsley Tea of Invigoration",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Green"
   },
   "ST3-019": {
@@ -23558,7 +23558,7 @@
     "name": "ST3-019-Supreme Whipped Cream",
     "type": "Trap",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Green"
   },
   "ST3-020": {
@@ -23576,7 +23576,7 @@
     "name": "ST3-020-Divine Light Crystal",
     "type": "Trap",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Green"
   },
   "ST3-021": {
@@ -23594,7 +23594,7 @@
     "name": "ST3-021-Breath of the Flute",
     "type": "Trap",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Green"
   },
   "ST3-022": {
@@ -23612,7 +23612,7 @@
     "name": "ST3-022-Guardian Tree's Blessing",
     "type": "Stage",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Green"
   },
   "ST4-001": {
@@ -23900,7 +23900,7 @@
     "name": "ST4-016-Bear Jelly Ice Cream",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Blue"
   },
   "ST4-017": {
@@ -23918,7 +23918,7 @@
     "name": "ST4-017-Emergency Lifebuoy",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Blue"
   },
   "ST4-018": {
@@ -23936,7 +23936,7 @@
     "name": "ST4-018-Lucky Pearls",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Blue"
   },
   "ST4-019": {
@@ -23954,7 +23954,7 @@
     "name": "ST4-019-Sugar Crystal Lamp",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Blue"
   },
   "ST4-020": {
@@ -23972,7 +23972,7 @@
     "name": "ST4-020-Octo-Ink Spray",
     "type": "Trap",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Blue"
   },
   "ST4-021": {
@@ -23990,7 +23990,7 @@
     "name": "ST4-021-Fallen Ice Statue",
     "type": "Trap",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Blue"
   },
   "ST4-022": {
@@ -24008,7 +24008,7 @@
     "name": "ST4-022-Sugar Glass Dome",
     "type": "Stage",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Blue"
   },
   "ST5-001": {
@@ -24296,7 +24296,7 @@
     "name": "ST5-016-BONUS Coin",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Purple"
   },
   "ST5-017": {
@@ -24314,7 +24314,7 @@
     "name": "ST5-017-Violet Dragonspout",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Purple"
   },
   "ST5-018": {
@@ -24332,7 +24332,7 @@
     "name": "ST5-018-Dragonfly Candy Brooch",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Purple"
   },
   "ST5-019": {
@@ -24350,7 +24350,7 @@
     "name": "ST5-019-Pastry Boomerang",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Purple"
   },
   "ST5-020": {
@@ -24368,7 +24368,7 @@
     "name": "ST5-020-Forbidden Grimoire",
     "type": "Trap",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Purple"
   },
   "ST5-021": {
@@ -24386,7 +24386,7 @@
     "name": "ST5-021-Hidden Warpgate",
     "type": "Trap",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Purple"
   },
   "ST5-022": {
@@ -24404,7 +24404,7 @@
     "name": "ST5-022-Windswept Valley",
     "type": "Stage",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Purple"
   },
   "BS1-002@2": {
@@ -24458,7 +24458,7 @@
     "name": "BS1-022@1-Giant Cherry Bomb",
     "type": "Item",
     "cost": 0,
-    "level": "",
+    "level": 0,
     "color": "Red"
   },
   "BS1-030@1": {
@@ -24566,7 +24566,7 @@
     "name": "BS1-052@1-Star Candy Road",
     "type": "Stage",
     "cost": 0,
-    "level": "",
+    "level": 0,
     "color": "Yellow"
   },
   "BS1-055@1": {
@@ -24764,7 +24764,7 @@
     "name": "BS2-080@1-Abandoned Cloud Nest",
     "type": "Trap",
     "cost": 0,
-    "level": "",
+    "level": 0,
     "color": "Purple"
   },
   "BS2_058@2": {
@@ -24854,7 +24854,7 @@
     "name": "BS3-069@1-The New Guardian's Power",
     "type": "Trap",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Green"
   },
   "BS3-095@1": {
@@ -24872,7 +24872,7 @@
     "name": "BS3-095@1-Glorious Crème Republic",
     "type": "Stage",
     "cost": 0,
-    "level": "",
+    "level": 0,
     "color": "Blue"
   },
   "BS3-121@5": {
@@ -24890,7 +24890,7 @@
     "name": "BS3-121@5-Age of Heroes and Kingdoms",
     "type": "Stage",
     "cost": 0,
-    "level": "",
+    "level": 0,
     "color": "Blue Red Yellow Green Purple"
   },
   "BS3-121@6": {
@@ -24908,7 +24908,7 @@
     "name": "BS3-121@6-Age of Heroes and Kingdoms",
     "type": "Stage",
     "cost": 0,
-    "level": "",
+    "level": 0,
     "color": "Blue Red Yellow Green Purple"
   },
   "BS3-121@7": {
@@ -24926,7 +24926,7 @@
     "name": "BS3-121@7-Age of Heroes and Kingdoms",
     "type": "Stage",
     "cost": 0,
-    "level": "",
+    "level": 0,
     "color": "Blue Red Yellow Green Purple"
   },
   "BS3-121@8": {
@@ -24944,7 +24944,7 @@
     "name": "BS3-121@8-Age of Heroes and Kingdoms",
     "type": "Stage",
     "cost": 0,
-    "level": "",
+    "level": 0,
     "color": "Blue Red Yellow Green Purple"
   },
   "BS4-004@1": {
@@ -25034,7 +25034,7 @@
     "name": "BS4-042@2-Millennial Jade Deer",
     "type": "Trap",
     "cost": 0,
-    "level": "",
+    "level": 0,
     "color": "Yellow"
   },
   "BS4-045@1": {
@@ -25376,7 +25376,7 @@
     "name": "BS6-020@1-Tonic Spray",
     "type": "Trap",
     "cost": 0,
-    "level": "",
+    "level": 0,
     "color": "Red"
   },
   "BS6-092@2": {
@@ -25466,7 +25466,7 @@
     "name": "BS8-024@1-Land of Fire & Ruin",
     "type": "Stage",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Red"
   },
   "BS8-050@1": {
@@ -25484,7 +25484,7 @@
     "name": "BS8-050@1-City of Eternal Gold",
     "type": "Stage",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Yellow"
   },
   "BS8-075@1": {
@@ -25502,7 +25502,7 @@
     "name": "BS8-075@1-The Ivory Pagoda",
     "type": "Stage",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Green"
   },
   "BS8-100@1": {
@@ -25520,7 +25520,7 @@
     "name": "BS8-100@1-Snowfall Lantern Tree",
     "type": "Stage",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Blue"
   },
   "BS8-125@1": {
@@ -25538,7 +25538,7 @@
     "name": "BS8-125@1-The Days of Resolution and Dignity",
     "type": "Stage",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Purple"
   },
   "BS9-014@2": {
@@ -25772,7 +25772,7 @@
     "name": "P-008-Macaron Hammer",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Red"
   },
   "P-009": {
@@ -25844,7 +25844,7 @@
     "name": "P-012-Mischievous Ladybug",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Green"
   },
   "P-013": {
@@ -26078,7 +26078,7 @@
     "name": "P-028-Golden Cheese Warehouse",
     "type": "Stage",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Yellow"
   },
   "P-029": {
@@ -26096,7 +26096,7 @@
     "name": "P-029-Ritual of Life",
     "type": "Trap",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Green"
   },
   "P-030": {
@@ -26132,7 +26132,7 @@
     "name": "P-031-The Heir's Betrayal",
     "type": "Trap",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Purple"
   },
   "P-032": {
@@ -26150,7 +26150,7 @@
     "name": "P-032-Hall of Ancient Heroes",
     "type": "Stage",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Red Yellow Green Blue Purple"
   },
   "P-036@1": {
@@ -26168,7 +26168,7 @@
     "name": "P-036@1-GingerBrave",
     "type": "Trap",
     "cost": 0,
-    "level": "3",
+    "level": 0,
     "color": "Red"
   },
   "P-040@1": {
@@ -26960,7 +26960,7 @@
     "name": "P-082-Sugar Gnome Cake Shop",
     "type": "Trap",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Yellow"
   },
   "P-083": {
@@ -26996,7 +26996,7 @@
     "name": "P-084-Magic Lettering Pens",
     "type": "Item",
     "cost": 0,
-    "level": null,
+    "level": 0,
     "color": "Green"
   },
   "P-085": {
@@ -27302,7 +27302,7 @@
     "name": "ST1-022@1-Burning Jelly Volcano",
     "type": "Stage",
     "cost": 0,
-    "level": "",
+    "level": 0,
     "color": "Red"
   },
   "ST2-005@1": {
@@ -27446,7 +27446,7 @@
     "name": "ST3-022@1-Guardian Tree's Blessing",
     "type": "Stage",
     "cost": 0,
-    "level": "",
+    "level": 0,
     "color": "Green"
   },
   "ST4-006@1": {
@@ -27518,7 +27518,7 @@
     "name": "ST4-021@1-Fallen Ice Statue",
     "type": "Trap",
     "cost": 0,
-    "level": "",
+    "level": 0,
     "color": "Blue"
   },
   "ST4-022@1": {
@@ -27536,7 +27536,7 @@
     "name": "ST4-022@1-Sugar Glass Dome",
     "type": "Stage",
     "cost": 0,
-    "level": "",
+    "level": 0,
     "color": "Blue"
   },
   "ST5-003@1": {
@@ -27608,7 +27608,7 @@
     "name": "ST5-022@1-Windswept Valley",
     "type": "Stage",
     "cost": 0,
-    "level": "",
+    "level": 0,
     "color": "Purple"
   },
   "ST6-001": {
@@ -27627,7 +27627,8 @@
     "name": "ST6-001-Mala Sauce Cookie",
     "type": "Cookie",
     "cost": 0,
-    "color": "Red"
+    "color": "Red",
+    "level": "1"
   },
   "ST6-002": {
     "id": "ST6-002",
@@ -27645,7 +27646,8 @@
     "name": "ST6-002-Fire Spirit Cookie",
     "type": "Cookie",
     "cost": 0,
-    "color": "Red"
+    "color": "Red",
+    "level": "3"
   },
   "ST6-003": {
     "id": "ST6-003",
@@ -27663,7 +27665,8 @@
     "name": "ST6-003-Devil Cookie",
     "type": "Cookie",
     "cost": 0,
-    "color": "Red"
+    "color": "Red",
+    "level": "2"
   },
   "ST6-004": {
     "id": "ST6-004",
@@ -27681,7 +27684,8 @@
     "name": "ST6-004-Pitaya Dragon Cookie",
     "type": "Cookie",
     "cost": 0,
-    "color": "Red"
+    "color": "Red",
+    "level": "2"
   },
   "ST6-005": {
     "id": "ST6-005",
@@ -27699,7 +27703,8 @@
     "name": "ST6-005-Agar Agar Cookie",
     "type": "Flip",
     "cost": 0,
-    "color": "Red"
+    "color": "Red",
+    "level": 0
   },
   "ST6-006": {
     "id": "ST6-006",
@@ -27717,7 +27722,8 @@
     "name": "ST6-006-Cherry Cookie",
     "type": "Flip",
     "cost": 0,
-    "color": "Red"
+    "color": "Red",
+    "level": 0
   },
   "ST6-007": {
     "id": "ST6-007",
@@ -27735,7 +27741,8 @@
     "name": "ST6-007-Chili Pepper Cookie",
     "type": "Flip",
     "cost": 0,
-    "color": "Red"
+    "color": "Red",
+    "level": 0
   },
   "ST6-008": {
     "id": "ST6-008",
@@ -27753,7 +27760,8 @@
     "name": "ST6-008-Candy Apple Cookie",
     "type": "Flip",
     "cost": 0,
-    "color": "Red"
+    "color": "Red",
+    "level": 0
   },
   "ST6-009": {
     "id": "ST6-009",
@@ -27771,7 +27779,8 @@
     "name": "ST6-009-Capsaicin Cookie",
     "type": "Cookie",
     "cost": 0,
-    "color": "Red"
+    "color": "Red",
+    "level": "3"
   },
   "ST6-010": {
     "id": "ST6-010",
@@ -27789,7 +27798,8 @@
     "name": "ST6-010-Peperoncino Cookie",
     "type": "Cookie",
     "cost": 0,
-    "color": "Red"
+    "color": "Red",
+    "level": "1"
   },
   "ST6-011": {
     "id": "ST6-011",
@@ -27807,7 +27817,8 @@
     "name": "ST6-011-Habanero Cookie",
     "type": "Cookie",
     "cost": 0,
-    "color": "Red"
+    "color": "Red",
+    "level": "1"
   },
   "ST6-012": {
     "id": "ST6-012",
@@ -27825,7 +27836,8 @@
     "name": "ST6-012-Picky Pyro-tiger",
     "type": "Cookie",
     "cost": 0,
-    "color": "Red"
+    "color": "Red",
+    "level": "1"
   },
   "ST6-013": {
     "id": "ST6-013",
@@ -27843,7 +27855,8 @@
     "name": "ST6-013-Hot Jellyco Missile",
     "type": "Item",
     "cost": 0,
-    "color": "Red"
+    "color": "Red",
+    "level": 0
   },
   "ST6-014": {
     "id": "ST6-014",
@@ -27861,7 +27874,8 @@
     "name": "ST6-014-Essence of Conflagration",
     "type": "Item",
     "cost": 0,
-    "color": "Red"
+    "color": "Red",
+    "level": 0
   },
   "ST6-015": {
     "id": "ST6-015",
@@ -27879,7 +27893,8 @@
     "name": "ST6-015-Fire Spirit Cookie's Staff",
     "type": "Item",
     "cost": 0,
-    "color": "Red"
+    "color": "Red",
+    "level": 0
   },
   "ST6-016": {
     "id": "ST6-016",
@@ -27897,7 +27912,8 @@
     "name": "ST6-016-Dragon's Breath",
     "type": "Item",
     "cost": 0,
-    "color": "Red"
+    "color": "Red",
+    "level": 0
   },
   "ST6-017": {
     "id": "ST6-017",
@@ -27915,7 +27931,8 @@
     "name": "ST6-017-Restored Power of Fire",
     "type": "Trap",
     "cost": 0,
-    "color": "Red"
+    "color": "Red",
+    "level": 0
   },
   "ST6-018": {
     "id": "ST6-018",
@@ -27933,7 +27950,8 @@
     "name": "ST6-018-Frozen Flame",
     "type": "Trap",
     "cost": 0,
-    "color": "Red"
+    "color": "Red",
+    "level": 0
   },
   "ST6-019": {
     "id": "ST6-019",
@@ -27951,7 +27969,8 @@
     "name": "ST6-019-Power Unleashed",
     "type": "Trap",
     "cost": 0,
-    "color": "Red"
+    "color": "Red",
+    "level": 0
   },
   "ST6-020": {
     "id": "ST6-020",
@@ -27969,7 +27988,8 @@
     "name": "ST6-020-Into the Depths",
     "type": "Stage",
     "cost": 0,
-    "color": "Red"
+    "color": "Red",
+    "level": 0
   },
   "ST7-001": {
     "id": "ST7-001",
@@ -27987,7 +28007,8 @@
     "name": "ST7-001-Blue Lily Cookie",
     "type": "Cookie",
     "cost": 0,
-    "color": "Yellow"
+    "color": "Yellow",
+    "level": "3"
   },
   "ST7-002": {
     "id": "ST7-002",
@@ -28005,7 +28026,8 @@
     "name": "ST7-002-Mango Cookie",
     "type": "Cookie",
     "cost": 0,
-    "color": "Yellow"
+    "color": "Yellow",
+    "level": "1"
   },
   "ST7-003": {
     "id": "ST7-003",
@@ -28023,7 +28045,8 @@
     "name": "ST7-003-Rainbow Sherbet Cookie",
     "type": "Flip",
     "cost": 0,
-    "color": "Yellow"
+    "color": "Yellow",
+    "level": 0
   },
   "ST7-004": {
     "id": "ST7-004",
@@ -28041,7 +28064,8 @@
     "name": "ST7-004-Fig Cookie",
     "type": "Cookie",
     "cost": 0,
-    "color": "Yellow"
+    "color": "Yellow",
+    "level": "1"
   },
   "ST7-005": {
     "id": "ST7-005",
@@ -28059,7 +28083,8 @@
     "name": "ST7-005-Caramel Choux Cookie",
     "type": "Flip",
     "cost": 0,
-    "color": "Yellow"
+    "color": "Yellow",
+    "level": 0
   },
   "ST7-006": {
     "id": "ST7-006",
@@ -28077,7 +28102,8 @@
     "name": "ST7-006-Cream Puff Cookie",
     "type": "Flip",
     "cost": 0,
-    "color": "Yellow"
+    "color": "Yellow",
+    "level": 0
   },
   "ST7-007": {
     "id": "ST7-007",
@@ -28095,7 +28121,8 @@
     "name": "ST7-007-Fairy Cookie",
     "type": "Flip",
     "cost": 0,
-    "color": "Yellow"
+    "color": "Yellow",
+    "level": 0
   },
   "ST7-008": {
     "id": "ST7-008",
@@ -28113,7 +28140,8 @@
     "name": "ST7-008-Elder Faerie Cookie",
     "type": "Cookie",
     "cost": 0,
-    "color": "Yellow"
+    "color": "Yellow",
+    "level": "2"
   },
   "ST7-009": {
     "id": "ST7-009",
@@ -28131,7 +28159,8 @@
     "name": "ST7-009-Lilybell Cookie",
     "type": "Cookie",
     "cost": 0,
-    "color": "Yellow"
+    "color": "Yellow",
+    "level": "2"
   },
   "ST7-010": {
     "id": "ST7-010",
@@ -28149,7 +28178,8 @@
     "name": "ST7-010-Millennial Tree Cookie",
     "type": "Cookie",
     "cost": 0,
-    "color": "Yellow"
+    "color": "Yellow",
+    "level": "3"
   },
   "ST7-011": {
     "id": "ST7-011",
@@ -28167,7 +28197,8 @@
     "name": "ST7-011-Millennial Jade Deer",
     "type": "Cookie",
     "cost": 0,
-    "color": "Yellow"
+    "color": "Yellow",
+    "level": "1"
   },
   "ST7-012": {
     "id": "ST7-012",
@@ -28185,7 +28216,8 @@
     "name": "ST7-012-Churro Cookie",
     "type": "Cookie",
     "cost": 0,
-    "color": "Yellow"
+    "color": "Yellow",
+    "level": "1"
   },
   "ST7-013": {
     "id": "ST7-013",
@@ -28203,7 +28235,8 @@
     "name": "ST7-013-Miraculous Nutrient Ampoule",
     "type": "Item",
     "cost": 0,
-    "color": "Yellow"
+    "color": "Yellow",
+    "level": 0
   },
   "ST7-014": {
     "id": "ST7-014",
@@ -28221,7 +28254,8 @@
     "name": "ST7-014-Essence of Rejuvenation",
     "type": "Item",
     "cost": 0,
-    "color": "Yellow"
+    "color": "Yellow",
+    "level": 0
   },
   "ST7-015": {
     "id": "ST7-015",
@@ -28239,7 +28273,8 @@
     "name": "ST7-015-Budding Future",
     "type": "Item",
     "cost": 0,
-    "color": "Yellow"
+    "color": "Yellow",
+    "level": 0
   },
   "ST7-016": {
     "id": "ST7-016",
@@ -28257,7 +28292,8 @@
     "name": "ST7-016-Tightly Tied Vine",
     "type": "Item",
     "cost": 0,
-    "color": "Yellow"
+    "color": "Yellow",
+    "level": 0
   },
   "ST7-017": {
     "id": "ST7-017",
@@ -28275,7 +28311,8 @@
     "name": "ST7-017-Vined Cavern",
     "type": "Trap",
     "cost": 0,
-    "color": "Yellow"
+    "color": "Yellow",
+    "level": 0
   },
   "ST7-018": {
     "id": "ST7-018",
@@ -28293,7 +28330,8 @@
     "name": "ST7-018-Millennial Tree Cookie's Gift",
     "type": "Trap",
     "cost": 0,
-    "color": "Yellow"
+    "color": "Yellow",
+    "level": 0
   },
   "ST7-019": {
     "id": "ST7-019",
@@ -28311,7 +28349,8 @@
     "name": "ST7-019-Millennial Jade Deer's Wrath",
     "type": "Trap",
     "cost": 0,
-    "color": "Yellow"
+    "color": "Yellow",
+    "level": 0
   },
   "ST7-020": {
     "id": "ST7-020",
@@ -28329,7 +28368,8 @@
     "name": "ST7-020-Forest of Life",
     "type": "Stage",
     "cost": 0,
-    "color": "Yellow"
+    "color": "Yellow",
+    "level": 0
   },
   "ST8-001": {
     "id": "ST8-001",
@@ -28347,7 +28387,8 @@
     "name": "ST8-001-Greenbell Cookie",
     "type": "Cookie",
     "cost": 0,
-    "color": "Green"
+    "color": "Green",
+    "level": "1"
   },
   "ST8-002": {
     "id": "ST8-002",
@@ -28365,7 +28406,8 @@
     "name": "ST8-002-Muscle Cookie",
     "type": "Flip",
     "cost": 0,
-    "color": "Green"
+    "color": "Green",
+    "level": 0
   },
   "ST8-003": {
     "id": "ST8-003",
@@ -28383,7 +28425,8 @@
     "name": "ST8-003-Leek Cookie",
     "type": "Cookie",
     "cost": 0,
-    "color": "Green"
+    "color": "Green",
+    "level": "2"
   },
   "ST8-004": {
     "id": "ST8-004",
@@ -28401,7 +28444,8 @@
     "name": "ST8-004-Red Panna Cotta Cookie",
     "type": "Cookie",
     "cost": 0,
-    "color": "Green"
+    "color": "Green",
+    "level": "3"
   },
   "ST8-005": {
     "id": "ST8-005",
@@ -28419,7 +28463,8 @@
     "name": "ST8-005-Wind Archer Cookie",
     "type": "Cookie",
     "cost": 0,
-    "color": "Green"
+    "color": "Green",
+    "level": "3"
   },
   "ST8-006": {
     "id": "ST8-006",
@@ -28437,7 +28482,8 @@
     "name": "ST8-006-Basil Pesto Cookie",
     "type": "Flip",
     "cost": 0,
-    "color": "Green"
+    "color": "Green",
+    "level": 0
   },
   "ST8-007": {
     "id": "ST8-007",
@@ -28455,7 +28501,8 @@
     "name": "ST8-007-Blue Slushy Cookie",
     "type": "Flip",
     "cost": 0,
-    "color": "Green"
+    "color": "Green",
+    "level": 0
   },
   "ST8-008": {
     "id": "ST8-008",
@@ -28473,7 +28520,8 @@
     "name": "ST8-008-Sugar Swan Cookie",
     "type": "Cookie",
     "cost": 0,
-    "color": "Green"
+    "color": "Green",
+    "level": "2"
   },
   "ST8-009": {
     "id": "ST8-009",
@@ -28491,7 +28539,8 @@
     "name": "ST8-009-Cucumber Cookie",
     "type": "Flip",
     "cost": 0,
-    "color": "Green"
+    "color": "Green",
+    "level": 0
   },
   "ST8-010": {
     "id": "ST8-010",
@@ -28509,7 +28558,8 @@
     "name": "ST8-010-Cookiemals",
     "type": "Cookie",
     "cost": 0,
-    "color": "Green"
+    "color": "Green",
+    "level": "1"
   },
   "ST8-011": {
     "id": "ST8-011",
@@ -28527,7 +28577,8 @@
     "name": "ST8-011-Kiwi Cookie",
     "type": "Cookie",
     "cost": 0,
-    "color": "Green"
+    "color": "Green",
+    "level": "1"
   },
   "ST8-012": {
     "id": "ST8-012",
@@ -28545,7 +28596,8 @@
     "name": "ST8-012-Windcatcher",
     "type": "Cookie",
     "cost": 0,
-    "color": "Green"
+    "color": "Green",
+    "level": "1"
   },
   "ST8-013": {
     "id": "ST8-013",
@@ -28563,7 +28615,8 @@
     "name": "ST8-013-Windgrass",
     "type": "Item",
     "cost": 0,
-    "color": "Green"
+    "color": "Green",
+    "level": 0
   },
   "ST8-014": {
     "id": "ST8-014",
@@ -28581,7 +28634,8 @@
     "name": "ST8-014-Cape of the Vanquisher",
     "type": "Item",
     "cost": 0,
-    "color": "Green"
+    "color": "Green",
+    "level": 0
   },
   "ST8-015": {
     "id": "ST8-015",
@@ -28599,7 +28653,8 @@
     "name": "ST8-015-Essence of the Tempest",
     "type": "Item",
     "cost": 0,
-    "color": "Green"
+    "color": "Green",
+    "level": 0
   },
   "ST8-016": {
     "id": "ST8-016",
@@ -28617,7 +28672,8 @@
     "name": "ST8-016-Wind's Grace Earrings",
     "type": "Item",
     "cost": 0,
-    "color": "Green"
+    "color": "Green",
+    "level": 0
   },
   "ST8-017": {
     "id": "ST8-017",
@@ -28635,7 +28691,8 @@
     "name": "ST8-017-Hindering Darkness",
     "type": "Trap",
     "cost": 0,
-    "color": "Green"
+    "color": "Green",
+    "level": 0
   },
   "ST8-018": {
     "id": "ST8-018",
@@ -28653,7 +28710,8 @@
     "name": "ST8-018-Piercing Arrow of Purity",
     "type": "Trap",
     "cost": 0,
-    "color": "Green"
+    "color": "Green",
+    "level": 0
   },
   "ST8-019": {
     "id": "ST8-019",
@@ -28671,7 +28729,8 @@
     "name": "ST8-019-Bad Omen",
     "type": "Trap",
     "cost": 0,
-    "color": "Green"
+    "color": "Green",
+    "level": 0
   },
   "ST8-020": {
     "id": "ST8-020",
@@ -28689,6 +28748,61 @@
     "name": "ST8-020-Dark Enchantress Laboratory",
     "type": "Stage",
     "cost": 0,
+    "color": "Green",
+    "level": 0
+  },
+  "P-095": {
+    "id": "P-095",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tiger Lily Cookie",
+        "type": "Cookie",
+        "cost": 0,
+        "color": "Green",
+        "image": "https://cookierunbraverse.com/data/en_storage/0Wgst1shYBUuyvaYP3YbAw.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "P-095-Tiger Lily Cookie",
+    "type": "Cookie",
+    "cost": 0,
     "color": "Green"
+  },
+  "P-094": {
+    "id": "P-094",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lemon Cookie",
+        "type": "Cookie",
+        "cost": 0,
+        "color": "Yellow",
+        "image": "https://cookierunbraverse.com/data/en_storage/Jy4-FWZPEXq8LHnWdpM0LQ.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "P-094-Lemon Cookie",
+    "type": "Cookie",
+    "cost": 0,
+    "color": "Yellow"
+  },
+  "P-093": {
+    "id": "P-093",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "White Peach Cookie",
+        "type": "Cookie",
+        "cost": 0,
+        "color": "Red",
+        "image": "https://cookierunbraverse.com/data/en_storage/KtEQ1QaxT1IlG4z-eJmUWw.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "P-093-White Peach Cookie",
+    "type": "Cookie",
+    "cost": 0,
+    "color": "Red"
   }
 }
