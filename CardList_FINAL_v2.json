@@ -28690,5 +28690,59 @@
     "type": "Stage",
     "cost": 0,
     "color": "Green"
+  },
+  "P-095": {
+    "id": "P-095",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tiger Lily Cookie",
+        "type": "Cookie",
+        "cost": 0,
+        "color": "Green",
+        "image": "https://cookierunbraverse.com/data/en_storage/0Wgst1shYBUuyvaYP3YbAw.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "P-095-Tiger Lily Cookie",
+    "type": "Cookie",
+    "cost": 0,
+    "color": "Green"
+  },
+  "P-094": {
+    "id": "P-094",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lemon Cookie",
+        "type": "Cookie",
+        "cost": 0,
+        "color": "Yellow",
+        "image": "https://cookierunbraverse.com/data/en_storage/Jy4-FWZPEXq8LHnWdpM0LQ.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "P-094-Lemon Cookie",
+    "type": "Cookie",
+    "cost": 0,
+    "color": "Yellow"
+  },
+  "P-093": {
+    "id": "P-093",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "White Peach Cookie",
+        "type": "Cookie",
+        "cost": 0,
+        "color": "Red",
+        "image": "https://cookierunbraverse.com/data/en_storage/KtEQ1QaxT1IlG4z-eJmUWw.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "P-093-White Peach Cookie",
+    "type": "Cookie",
+    "cost": 0,
+    "color": "Red"
   }
 }
