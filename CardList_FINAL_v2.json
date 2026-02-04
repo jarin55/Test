@@ -27419,14 +27419,14 @@
     "face": {
       "front": {
         "name": "Supreme Whipped Cream",
-        "type": "Cookie",
+        "type": "Trap",
         "cost": 0,
         "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/ST3_019@1.png.webp",
         "isHorizontal": false
       }
     },
     "name": "ST3-019@1-Supreme Whipped Cream",
-    "type": "Cookie",
+    "type": "Trap",
     "cost": 0,
     "level": null,
     "color": "Green"
