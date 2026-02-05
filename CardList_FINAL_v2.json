@@ -17002,7 +17002,7 @@
     "type": "Stage",
     "cost": 0,
     "level": "0",
-    "color": "Red Yellow Green Blue Purple"
+    "color": "Colorless"
   },
   "BS3-121@1": {
     "id": "BS3-121@1",
@@ -17021,7 +17021,7 @@
     "type": "Stage",
     "cost": 0,
     "level": "0",
-    "color": "Red Yellow Green Blue Purple"
+    "color": "Colorless"
   },
   "BS3-121@2": {
     "id": "BS3-121@2",
@@ -17040,7 +17040,7 @@
     "type": "Stage",
     "cost": 0,
     "level": "0",
-    "color": "Red Yellow Green Blue Purple"
+    "color": "Colorless"
   },
   "BS4-001": {
     "id": "BS4-001",
@@ -26274,7 +26274,7 @@
     "type": "Stage",
     "cost": 0,
     "level": "0",
-    "color": "Blue Red Yellow Green Purple"
+    "color": "Colorless"
   },
   "BS3-121@6": {
     "id": "BS3-121@6",
@@ -26293,7 +26293,7 @@
     "type": "Stage",
     "cost": 0,
     "level": "0",
-    "color": "Blue Red Yellow Green Purple"
+    "color": "Colorless"
   },
   "BS3-121@7": {
     "id": "BS3-121@7",
@@ -26312,7 +26312,7 @@
     "type": "Stage",
     "cost": 0,
     "level": "0",
-    "color": "Blue Red Yellow Green Purple"
+    "color": "Colorless"
   },
   "BS3-121@8": {
     "id": "BS3-121@8",
@@ -26331,7 +26331,7 @@
     "type": "Stage",
     "cost": 0,
     "level": "0",
-    "color": "Blue Red Yellow Green Purple"
+    "color": "Colorless"
   },
   "BS4-004@1": {
     "id": "BS4-004@1",
@@ -27604,7 +27604,7 @@
     "type": "Stage",
     "cost": 0,
     "level": "0",
-    "color": "Red Yellow Green Blue Purple"
+    "color": "Colorless"
   },
   "P-036@1": {
     "id": "P-036@1",
