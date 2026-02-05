@@ -18,7 +18,9 @@
       "type",
       "cost",
       "color",
-      "level"
+      "level",
+      "rarity",
+      "set"
     ],
     "formats": [
       {
