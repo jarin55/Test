@@ -15406,7 +15406,7 @@
       }
     },
     "name": "BS6-091@2-Schneeball Cookie",
-    "type": "Flip",
+    "type": "Cookie",
     "cost": 0,
     "level": "1",
     "color": "Purple",
