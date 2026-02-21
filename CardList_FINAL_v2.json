@@ -7366,7 +7366,7 @@
     "type": "Cookie",
     "cost": 0,
     "level": "2",
-    "color": "",
+    "color": "Red",
     "rarity": "C",
     "set": "BS7"
   },
@@ -7450,7 +7450,7 @@
     "type": "Cookie",
     "cost": 0,
     "level": "1",
-    "color": "",
+    "color": "Red",
     "rarity": "C",
     "set": "BS7"
   },
@@ -8101,7 +8101,7 @@
     "type": "Cookie",
     "cost": 0,
     "level": "1",
-    "color": "",
+    "color": "Yellow",
     "rarity": "C",
     "set": "BS7"
   },
@@ -8500,7 +8500,7 @@
     "type": "Cookie",
     "cost": 0,
     "level": "2",
-    "color": "",
+    "color": "Green",
     "rarity": "C",
     "set": "BS7"
   },
@@ -9382,7 +9382,7 @@
     "type": "Cookie",
     "cost": 0,
     "level": "2",
-    "color": "",
+    "color": "Blue",
     "rarity": "C",
     "set": "BS7"
   },
@@ -9529,7 +9529,7 @@
     "type": "Cookie",
     "cost": 0,
     "level": "1",
-    "color": "",
+    "color": "Purple",
     "rarity": "C",
     "set": "BS7"
   },
@@ -9865,7 +9865,7 @@
     "type": "Cookie",
     "cost": 0,
     "level": "2",
-    "color": "",
+    "color": "Purple",
     "rarity": "C",
     "set": "BS7"
   },
@@ -10075,7 +10075,7 @@
     "type": "Trap",
     "cost": 0,
     "level": "0",
-    "color": "",
+    "color": "Colorless",
     "rarity": "SR",
     "set": "BS7"
   },
@@ -10096,7 +10096,7 @@
     "type": "Trap",
     "cost": 0,
     "level": "0",
-    "color": "",
+    "color": "Colorless",
     "rarity": "EXR",
     "set": "BS7"
   },
@@ -12994,7 +12994,7 @@
     "type": "Item",
     "cost": 0,
     "level": "0",
-    "color": "",
+    "color": "Colorless",
     "rarity": "UR",
     "set": "BS5"
   },
@@ -13015,7 +13015,7 @@
     "type": "Item",
     "cost": 0,
     "level": "0",
-    "color": "",
+    "color": "Colorless",
     "rarity": "EXR",
     "set": "BS5"
   },
@@ -22255,7 +22255,7 @@
     "type": "Stage",
     "cost": 0,
     "level": "0",
-    "color": "",
+    "color": "Colorless",
     "rarity": "UR",
     "set": "BS4"
   },
@@ -22276,7 +22276,7 @@
     "type": "Stage",
     "cost": 0,
     "level": "0",
-    "color": "",
+    "color": "Colorless",
     "rarity": "EXR",
     "set": "BS4"
   },
@@ -22465,7 +22465,7 @@
     "type": "Cookie",
     "cost": 0,
     "level": "1",
-    "color": "",
+    "color": "Red",
     "rarity": "C",
     "set": "BS1"
   },
@@ -22570,7 +22570,7 @@
     "type": "Cookie",
     "cost": 0,
     "level": "2",
-    "color": "",
+    "color": "Red",
     "rarity": "C",
     "set": "BS1"
   },
@@ -22591,7 +22591,7 @@
     "type": "Cookie",
     "cost": 0,
     "level": "1",
-    "color": "",
+    "color": "Red",
     "rarity": "C",
     "set": "BS1"
   },
@@ -22822,7 +22822,7 @@
     "type": "Cookie",
     "cost": 0,
     "level": "3",
-    "color": "",
+    "color": "Red",
     "rarity": "C",
     "set": "BS1"
   },
@@ -22843,7 +22843,7 @@
     "type": "Cookie",
     "cost": 0,
     "level": "3",
-    "color": "",
+    "color": "Red",
     "rarity": "C",
     "set": "BS1"
   },
@@ -22864,7 +22864,7 @@
     "type": "Cookie",
     "cost": 0,
     "level": "2",
-    "color": "",
+    "color": "Red",
     "rarity": "C",
     "set": "BS1"
   },
@@ -22990,7 +22990,7 @@
     "type": "Cookie",
     "cost": 0,
     "level": "2",
-    "color": "",
+    "color": "Yellow",
     "rarity": "C",
     "set": "BS1"
   },
@@ -23137,7 +23137,7 @@
     "type": "Cookie",
     "cost": 0,
     "level": "1",
-    "color": "",
+    "color": "Yellow",
     "rarity": "C",
     "set": "BS1"
   },
@@ -23452,7 +23452,7 @@
     "type": "Cookie",
     "cost": 0,
     "level": "2",
-    "color": "",
+    "color": "Yellow",
     "rarity": "C",
     "set": "BS1"
   },
@@ -23515,7 +23515,7 @@
     "type": "Cookie",
     "cost": 0,
     "level": "3",
-    "color": "",
+    "color": "Yellow",
     "rarity": "C",
     "set": "BS1"
   },
@@ -23536,7 +23536,7 @@
     "type": "Cookie",
     "cost": 0,
     "level": "3",
-    "color": "",
+    "color": "Yellow",
     "rarity": "C",
     "set": "BS1"
   },
@@ -23557,7 +23557,7 @@
     "type": "Cookie",
     "cost": 0,
     "level": "3",
-    "color": "",
+    "color": "Yellow",
     "rarity": "C",
     "set": "BS1"
   },
@@ -23830,7 +23830,7 @@
     "type": "Cookie",
     "cost": 0,
     "level": "1",
-    "color": "",
+    "color": "Green",
     "rarity": "C",
     "set": "BS1"
   },
@@ -23872,7 +23872,7 @@
     "type": "Cookie",
     "cost": 0,
     "level": "3",
-    "color": "",
+    "color": "Green",
     "rarity": "C",
     "set": "BS1"
   },
@@ -23893,7 +23893,7 @@
     "type": "Cookie",
     "cost": 0,
     "level": "2",
-    "color": "",
+    "color": "Green",
     "rarity": "C",
     "set": "BS1"
   },
@@ -23914,7 +23914,7 @@
     "type": "Cookie",
     "cost": 0,
     "level": "2",
-    "color": "",
+    "color": "Green",
     "rarity": "C",
     "set": "BS1"
   },
@@ -24019,7 +24019,7 @@
     "type": "Cookie",
     "cost": 0,
     "level": "1",
-    "color": "",
+    "color": "Green",
     "rarity": "C",
     "set": "BS1"
   },
@@ -24481,7 +24481,7 @@
     "type": "Cookie",
     "cost": 0,
     "level": "3",
-    "color": "",
+    "color": "Red",
     "rarity": "C",
     "set": "BS2"
   },
@@ -24544,7 +24544,7 @@
     "type": "Cookie",
     "cost": 0,
     "level": "1",
-    "color": "",
+    "color": "Yellow",
     "rarity": "C",
     "set": "BS2"
   },
@@ -24754,7 +24754,7 @@
     "type": "Cookie",
     "cost": 0,
     "level": "3",
-    "color": "",
+    "color": "Green",
     "rarity": "C",
     "set": "BS2"
   },
@@ -24922,7 +24922,7 @@
     "type": "Cookie",
     "cost": 0,
     "level": "3",
-    "color": "",
+    "color": "Blue",
     "rarity": "C",
     "set": "BS2"
   },
@@ -24943,7 +24943,7 @@
     "type": "Cookie",
     "cost": 0,
     "level": "3",
-    "color": "",
+    "color": "Blue",
     "rarity": "C",
     "set": "BS2"
   },
@@ -25153,7 +25153,7 @@
     "type": "Cookie",
     "cost": 0,
     "level": "3",
-    "color": "",
+    "color": "Blue",
     "rarity": "C",
     "set": "BS2"
   },
@@ -25216,7 +25216,7 @@
     "type": "Cookie",
     "cost": 0,
     "level": "1",
-    "color": "",
+    "color": "Blue",
     "rarity": "C",
     "set": "BS2"
   },
@@ -25300,7 +25300,7 @@
     "type": "Cookie",
     "cost": 0,
     "level": "1",
-    "color": "",
+    "color": "Blue",
     "rarity": "C",
     "set": "BS2"
   },
@@ -25384,7 +25384,7 @@
     "type": "Cookie",
     "cost": 0,
     "level": "2",
-    "color": "",
+    "color": "Blue",
     "rarity": "C",
     "set": "BS2"
   },
@@ -25468,7 +25468,7 @@
     "type": "Cookie",
     "cost": 0,
     "level": "2",
-    "color": "",
+    "color": "Blue",
     "rarity": "C",
     "set": "BS2"
   },
@@ -25720,7 +25720,7 @@
     "type": "Cookie",
     "cost": 0,
     "level": "2",
-    "color": "",
+    "color": "Purple",
     "rarity": "C",
     "set": "BS2"
   },
@@ -25741,7 +25741,7 @@
     "type": "Cookie",
     "cost": 0,
     "level": "1",
-    "color": "",
+    "color": "Purple",
     "rarity": "C",
     "set": "BS2"
   },
@@ -25762,7 +25762,7 @@
     "type": "Cookie",
     "cost": 0,
     "level": "3",
-    "color": "",
+    "color": "Purple",
     "rarity": "C",
     "set": "BS2"
   },
@@ -25909,7 +25909,7 @@
     "type": "Cookie",
     "cost": 0,
     "level": "3",
-    "color": "",
+    "color": "Purple",
     "rarity": "C",
     "set": "BS2"
   },
@@ -26119,7 +26119,7 @@
     "type": "Cookie",
     "cost": 0,
     "level": "1",
-    "color": "",
+    "color": "Purple",
     "rarity": "C",
     "set": "BS2"
   },
@@ -26266,7 +26266,7 @@
     "type": "Cookie",
     "cost": 0,
     "level": "2",
-    "color": "",
+    "color": "Purple",
     "rarity": "C",
     "set": "BS2"
   },
@@ -26434,7 +26434,7 @@
     "type": "Cookie",
     "cost": 0,
     "level": "3",
-    "color": "",
+    "color": "Purple",
     "rarity": "C",
     "set": "BS2"
   },
@@ -26644,7 +26644,7 @@
     "type": "Cookie",
     "cost": 0,
     "level": "2",
-    "color": "",
+    "color": "Red",
     "rarity": "U",
     "set": "ST1"
   },
@@ -26665,7 +26665,7 @@
     "type": "Cookie",
     "cost": 0,
     "level": "2",
-    "color": "",
+    "color": "Red",
     "rarity": "C",
     "set": "ST1"
   },
@@ -26770,7 +26770,7 @@
     "type": "Cookie",
     "cost": 0,
     "level": "1",
-    "color": "",
+    "color": "Red",
     "rarity": "C",
     "set": "ST1"
   },
@@ -26791,7 +26791,7 @@
     "type": "Cookie",
     "cost": 0,
     "level": "1",
-    "color": "",
+    "color": "Red",
     "rarity": "C",
     "set": "ST1"
   },
@@ -26833,7 +26833,7 @@
     "type": "Cookie",
     "cost": 0,
     "level": "3",
-    "color": "",
+    "color": "Red",
     "rarity": "SR",
     "set": "ST1"
   },
@@ -27043,7 +27043,7 @@
     "type": "Cookie",
     "cost": 0,
     "level": "1",
-    "color": "",
+    "color": "Yellow",
     "rarity": "C",
     "set": "ST2"
   },
@@ -27127,7 +27127,7 @@
     "type": "Cookie",
     "cost": 0,
     "level": "2",
-    "color": "",
+    "color": "Yellow",
     "rarity": "C",
     "set": "ST2"
   },
@@ -27190,7 +27190,7 @@
     "type": "Cookie",
     "cost": 0,
     "level": "1",
-    "color": "",
+    "color": "Yellow",
     "rarity": "C",
     "set": "ST2"
   },
@@ -27274,7 +27274,7 @@
     "type": "Cookie",
     "cost": 0,
     "level": "2",
-    "color": "",
+    "color": "Yellow",
     "rarity": "U",
     "set": "ST2"
   },
@@ -27484,7 +27484,7 @@
     "type": "Cookie",
     "cost": 0,
     "level": "2",
-    "color": "",
+    "color": "Green",
     "rarity": "C",
     "set": "ST3"
   },
@@ -27547,7 +27547,7 @@
     "type": "Cookie",
     "cost": 0,
     "level": "2",
-    "color": "",
+    "color": "Green",
     "rarity": "U",
     "set": "ST3"
   },
@@ -27673,7 +27673,7 @@
     "type": "Cookie",
     "cost": 0,
     "level": "1",
-    "color": "",
+    "color": "Green",
     "rarity": "C",
     "set": "ST3"
   },
@@ -27694,7 +27694,7 @@
     "type": "Cookie",
     "cost": 0,
     "level": "1",
-    "color": "",
+    "color": "Green",
     "rarity": "C",
     "set": "ST3"
   },
@@ -27904,7 +27904,7 @@
     "type": "Cookie",
     "cost": 0,
     "level": "2",
-    "color": "",
+    "color": "Blue",
     "rarity": "U",
     "set": "ST4"
   },
@@ -27925,7 +27925,7 @@
     "type": "Cookie",
     "cost": 0,
     "level": "1",
-    "color": "",
+    "color": "Blue",
     "rarity": "C",
     "set": "ST4"
   },
@@ -27988,7 +27988,7 @@
     "type": "Cookie",
     "cost": 0,
     "level": "2",
-    "color": "",
+    "color": "Blue",
     "rarity": "C",
     "set": "ST4"
   },
@@ -28114,7 +28114,7 @@
     "type": "Cookie",
     "cost": 0,
     "level": "1",
-    "color": "",
+    "color": "Blue",
     "rarity": "C",
     "set": "ST4"
   },
@@ -28387,7 +28387,7 @@
     "type": "Cookie",
     "cost": 0,
     "level": "2",
-    "color": "",
+    "color": "Purple",
     "rarity": "C",
     "set": "ST5"
   },
@@ -28450,7 +28450,7 @@
     "type": "Cookie",
     "cost": 0,
     "level": "1",
-    "color": "",
+    "color": "Purple",
     "rarity": "C",
     "set": "ST5"
   },
@@ -28534,7 +28534,7 @@
     "type": "Cookie",
     "cost": 0,
     "level": "1",
-    "color": "",
+    "color": "Purple",
     "rarity": "C",
     "set": "ST5"
   },
@@ -28576,7 +28576,7 @@
     "type": "Cookie",
     "cost": 0,
     "level": "2",
-    "color": "",
+    "color": "Purple",
     "rarity": "U",
     "set": "ST5"
   },
