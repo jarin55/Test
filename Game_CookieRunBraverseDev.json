@@ -296,13 +296,13 @@
               "cardActionShortcut": {
                     "action": "MOVE",
                     "actionData": {
-                      "destination": "Stack",
+                      "destination": "HP1",
                       "overrideState": {
                         "isHidden": "no"
                     }
                   }
              }
-          }
+          },
           "HP2": {
             "title": "HP2",
             "isHidden": "yes",
@@ -312,12 +312,21 @@
             "isHorizontalAllowed": true,
             "displayedTitle": "Cookie 2 HP",
             "noAutoPayTo": false,
-            "noQuickActions": false,
+            "noQuickActions": true,
             "enterTapped": false,
             "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
+            "showHiddenCardInHistory": false,
+              "cardActionShortcut": {
+                    "action": "MOVE",
+                    "actionData": {
+                      "destination": "HP2",
+                      "overrideState": {
+                        "isHidden": "no"
+                    }
+                  }
+             }
           }
         }
       }
