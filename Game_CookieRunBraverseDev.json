@@ -286,7 +286,7 @@
             "opponentAlignment": "START",
             "isHorizontalAllowed": true,
             "displayedTitle": "Cookie 1 HP",
-            "noAutoPayTo": false,
+            "noAutoPayTo": true,
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
