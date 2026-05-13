@@ -296,6 +296,14 @@
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
+              },
+                        "cardActionShortcut": {
+                            "action": "MOVE",
+                            "actionData": {
+                                "destination": "Stack",
+                                "overrideState": {
+                                    "isHidden": "no"
+                                }
           },
           "HP2": {
             "title": "HP2",
