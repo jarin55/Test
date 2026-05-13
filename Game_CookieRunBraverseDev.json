@@ -296,7 +296,7 @@
               "cardActionShortcut": {
                     "action": "MOVE",
                     "actionData": {
-                      "destination": "Stack",
+                      "destination": "HP1",
                       "overrideState": {
                         "isHidden": "no"
                     }
@@ -317,7 +317,16 @@
             "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
+            "showHiddenCardInHistory": false,
+              "cardActionShortcut": {
+                    "action": "MOVE",
+                    "actionData": {
+                      "destination": "HP2",
+                      "overrideState": {
+                        "isHidden": "no"
+                    }
+                  }
+             }
           }
         }
       }
