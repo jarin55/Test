@@ -279,24 +279,29 @@
             "showHiddenCardInHistory": false
           },
           "HP1": {
+            "title": "HP1",
             "isHidden": "yes",
             "height": "8",
-            "noQuickActions": true,
-            "opponentAlignment": "START",
             "alignment": "END",
-            "reverseZOrder": true,
-            "enterTapped": true,
-            "keepTappedOnNewTurn": true,
-            "cardStyle": {
-            "marginTop": "-1vh"
-                },
-                  "cardActionShortcut": {
-                  "action": "MOVE",
-                  "actionData": {
+            "opponentAlignment": "START",
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Cookie 1 HP",
+            "noAutoPayTo": false,
+            "noQuickActions": true,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+              },
+              "cardActionShortcut": {
+                    "action": "MOVE",
+                    "actionData": {
                     "destination": "Stack",
                     "overrideState": {
-                      "isHidden": "no"
-                                }
+                    "isHidden": "no"
+                    }
+                  }
           },
           "HP2": {
             "title": "HP2",
