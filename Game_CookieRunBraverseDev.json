@@ -296,7 +296,7 @@
               "cardActionShortcut": {
                     "action": "MOVE",
                     "actionData": {
-                      "destination": "HP1",
+                      "destination": "Stack",
                       "overrideState": {
                         "isHidden": "no"
                     }
@@ -321,7 +321,7 @@
               "cardActionShortcut": {
                     "action": "MOVE",
                     "actionData": {
-                      "destination": "HP2",
+                      "destination": "Stack",
                       "overrideState": {
                         "isHidden": "no"
                     }
