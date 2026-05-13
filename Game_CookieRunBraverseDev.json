@@ -321,7 +321,7 @@
               "cardActionShortcut": {
                     "action": "MOVE",
                     "actionData": {
-                      "destination": "Stack",
+                      "destination": "Cookie 2 HP",
                       "overrideState": {
                         "isHidden": "no"
                     }
