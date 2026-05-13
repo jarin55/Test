@@ -312,7 +312,7 @@
             "isHorizontalAllowed": true,
             "displayedTitle": "Cookie 2 HP",
             "noAutoPayTo": false,
-            "noQuickActions": false,
+            "noQuickActions": true,
             "enterTapped": false,
             "enterSpun": false,
             "isGroupForbidden": false,
