@@ -2420,7 +2420,7 @@
     "face": {
       "front": {
         "name": "Dark Enchantress Cookie",
-        "type": "Cookie",
+        "type": "Extra",
         "cost": 0,
         "color": null,
         "image": "https://cookierunbraverse.com/data/en_storage/1tCs8r-B2FAyWLAqota0WA.webp",
@@ -2428,7 +2428,7 @@
       }
     },
     "name": "BS11-116-Dark Enchantress Cookie",
-    "type": "Cookie",
+    "type": "Extra",
     "cost": 0,
     "level": "5",
     "color": "Black",
