@@ -290,6 +290,27 @@
     "cost": 0,
     "level": "1",
     "color": "Red",
+    "rarity": "R",
+    "set": "BS11"
+  },
+  "BS11-014@1": {
+    "id": "BS11-014@1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Nutmeg Tiger Cookie",
+        "type": "Cookie",
+        "cost": 0,
+        "color": null,
+        "image": "https://cookierunbraverse.com/data/en_storage/FwWVNlCxjlCyZNXRcYa0LA.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "BS11-014@1-Nutmeg Tiger Cookie",
+    "type": "Cookie",
+    "cost": 0,
+    "level": "1",
+    "color": "Red",
     "rarity": "SEC",
     "set": "BS11"
   },
@@ -307,6 +328,27 @@
       }
     },
     "name": "BS11-015-Wildberry Cookie",
+    "type": "Cookie",
+    "cost": 0,
+    "level": "3",
+    "color": "Red",
+    "rarity": "R",
+    "set": "BS11"
+  },
+  "BS11-015@1": {
+    "id": "BS11-015@1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Wildberry Cookie",
+        "type": "Cookie",
+        "cost": 0,
+        "color": null,
+        "image": "https://cookierunbraverse.com/data/en_storage/Kpdkz5-1LFaoE4MPpX-1Mg.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "BS11-015@1-Wildberry Cookie",
     "type": "Cookie",
     "cost": 0,
     "level": "3",
@@ -332,6 +374,27 @@
     "cost": 0,
     "level": "2",
     "color": "Red",
+    "rarity": "SR",
+    "set": "BS11"
+  },
+  "BS11-016@1": {
+    "id": "BS11-016@1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fire Spirit Cookie",
+        "type": "Cookie",
+        "cost": 0,
+        "color": null,
+        "image": "https://cookierunbraverse.com/data/en_storage/f2H0TWpQpNkP9JJP_5BnEQ.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "BS11-016@1-Fire Spirit Cookie",
+    "type": "Cookie",
+    "cost": 0,
+    "level": "2",
+    "color": "Red",
     "rarity": "SSR",
     "set": "BS11"
   },
@@ -353,6 +416,27 @@
     "cost": 0,
     "level": "2",
     "color": "Red",
+    "rarity": "SR",
+    "set": "BS11"
+  },
+  "BS11-017@1": {
+    "id": "BS11-017@1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hollyberry Cookie",
+        "type": "Cookie",
+        "cost": 0,
+        "color": null,
+        "image": "https://cookierunbraverse.com/data/en_storage/mtH4OQzdovsd5awiq0SkpA.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "BS11-017@1-Hollyberry Cookie",
+    "type": "Cookie",
+    "cost": 0,
+    "level": "2",
+    "color": "Red",
     "rarity": "SSR",
     "set": "BS11"
   },
@@ -370,6 +454,27 @@
       }
     },
     "name": "BS11-018-Burning Spice Cookie",
+    "type": "Cookie",
+    "cost": 0,
+    "level": "2",
+    "color": "Red",
+    "rarity": "UR",
+    "set": "BS11"
+  },
+  "BS11-018@1": {
+    "id": "BS11-018@1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Burning Spice Cookie",
+        "type": "Cookie",
+        "cost": 0,
+        "color": null,
+        "image": "https://cookierunbraverse.com/data/en_storage/NT79kgGP8tC6Ed2dP1bhbQ.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "BS11-018@1-Burning Spice Cookie",
     "type": "Cookie",
     "cost": 0,
     "level": "2",
@@ -668,6 +773,27 @@
     "cost": 0,
     "level": "1",
     "color": "Yellow",
+    "rarity": "R",
+    "set": "BS11"
+  },
+  "BS11-032@1": {
+    "id": "BS11-032@1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Burnt Cheese Cookie",
+        "type": "Cookie",
+        "cost": 0,
+        "color": null,
+        "image": "https://cookierunbraverse.com/data/en_storage/QBQfr4IdA-eSGsFyKxWIXQ.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "BS11-032@1-Burnt Cheese Cookie",
+    "type": "Cookie",
+    "cost": 0,
+    "level": "1",
+    "color": "Yellow",
     "rarity": "SEC",
     "set": "BS11"
   },
@@ -685,6 +811,27 @@
       }
     },
     "name": "BS11-033-Pavlova Cookie",
+    "type": "Cookie",
+    "cost": 0,
+    "level": "1",
+    "color": "Yellow",
+    "rarity": "R",
+    "set": "BS11"
+  },
+  "BS11-033@1": {
+    "id": "BS11-033@1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pavlova Cookie",
+        "type": "Cookie",
+        "cost": 0,
+        "color": null,
+        "image": "https://cookierunbraverse.com/data/en_storage/gyCOyQANQKIIeYJp9oiUXA.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "BS11-033@1-Pavlova Cookie",
     "type": "Cookie",
     "cost": 0,
     "level": "1",
@@ -710,6 +857,27 @@
     "cost": 0,
     "level": "3",
     "color": "Yellow",
+    "rarity": "SR",
+    "set": "BS11"
+  },
+  "BS11-034@1": {
+    "id": "BS11-034@1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Golden Cheese Cookie",
+        "type": "Cookie",
+        "cost": 0,
+        "color": null,
+        "image": "https://cookierunbraverse.com/data/en_storage/hOdwL13-YYU_dLoPsk17xg.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "BS11-034@1-Golden Cheese Cookie",
+    "type": "Cookie",
+    "cost": 0,
+    "level": "3",
+    "color": "Yellow",
     "rarity": "SSR",
     "set": "BS11"
   },
@@ -731,6 +899,27 @@
     "cost": 0,
     "level": "3",
     "color": "Yellow",
+    "rarity": "SR",
+    "set": "BS11"
+  },
+  "BS11-035@1": {
+    "id": "BS11-035@1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Millennial Tree Cookie",
+        "type": "Cookie",
+        "cost": 0,
+        "color": null,
+        "image": "https://cookierunbraverse.com/data/en_storage/lGfnIx2a-QmwvhwMjZXGHw.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "BS11-035@1-Millennial Tree Cookie",
+    "type": "Cookie",
+    "cost": 0,
+    "level": "3",
+    "color": "Yellow",
     "rarity": "SSR",
     "set": "BS11"
   },
@@ -748,6 +937,27 @@
       }
     },
     "name": "BS11-036-Eternal Sugar Cookie",
+    "type": "Cookie",
+    "cost": 0,
+    "level": "2",
+    "color": "Yellow",
+    "rarity": "UR",
+    "set": "BS11"
+  },
+  "BS11-036@1": {
+    "id": "BS11-036@1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Eternal Sugar Cookie",
+        "type": "Cookie",
+        "cost": 0,
+        "color": null,
+        "image": "https://cookierunbraverse.com/data/en_storage/vAS8LtSsdSYcsi--_tR0vg.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "BS11-036@1-Eternal Sugar Cookie",
     "type": "Cookie",
     "cost": 0,
     "level": "2",
@@ -1046,6 +1256,27 @@
     "cost": 0,
     "level": "1",
     "color": "Green",
+    "rarity": "R",
+    "set": "BS11"
+  },
+  "BS11-050@1": {
+    "id": "BS11-050@1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cloud Haetae Cookie",
+        "type": "Cookie",
+        "cost": 0,
+        "color": null,
+        "image": "https://cookierunbraverse.com/data/en_storage/Hdd-BaoJY_l2bI9YyDM66g.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "BS11-050@1-Cloud Haetae Cookie",
+    "type": "Cookie",
+    "cost": 0,
+    "level": "1",
+    "color": "Green",
     "rarity": "SEC",
     "set": "BS11"
   },
@@ -1063,6 +1294,27 @@
       }
     },
     "name": "BS11-051-Mercurial Knight Cookie",
+    "type": "Cookie",
+    "cost": 0,
+    "level": "2",
+    "color": "Green",
+    "rarity": "R",
+    "set": "BS11"
+  },
+  "BS11-051@1": {
+    "id": "BS11-051@1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mercurial Knight Cookie",
+        "type": "Cookie",
+        "cost": 0,
+        "color": null,
+        "image": "https://cookierunbraverse.com/data/en_storage/AmPh_gKFxWedM8IvElHdGg.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "BS11-051@1-Mercurial Knight Cookie",
     "type": "Cookie",
     "cost": 0,
     "level": "2",
@@ -1088,6 +1340,27 @@
     "cost": 0,
     "level": "2",
     "color": "Green",
+    "rarity": "SR",
+    "set": "BS11"
+  },
+  "BS11-052@1": {
+    "id": "BS11-052@1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Wind Archer Cookie",
+        "type": "Cookie",
+        "cost": 0,
+        "color": null,
+        "image": "https://cookierunbraverse.com/data/en_storage/DoKfhWCdPNFtfVSNP-EtZA.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "BS11-052@1-Wind Archer Cookie",
+    "type": "Cookie",
+    "cost": 0,
+    "level": "2",
+    "color": "Green",
     "rarity": "SSR",
     "set": "BS11"
   },
@@ -1105,6 +1378,27 @@
       }
     },
     "name": "BS11-053-Mystic Flour Cookie",
+    "type": "Cookie",
+    "cost": 0,
+    "level": "2",
+    "color": "Green",
+    "rarity": "UR",
+    "set": "BS11"
+  },
+  "BS11-053@1": {
+    "id": "BS11-053@1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mystic Flour Cookie",
+        "type": "Cookie",
+        "cost": 0,
+        "color": null,
+        "image": "https://cookierunbraverse.com/data/en_storage/8Ih6xPGTGkFPFPEeRfOxRQ.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "BS11-053@1-Mystic Flour Cookie",
     "type": "Cookie",
     "cost": 0,
     "level": "2",
@@ -1403,6 +1697,27 @@
     "cost": 0,
     "level": "1",
     "color": "Blue",
+    "rarity": "R",
+    "set": "BS11"
+  },
+  "BS11-067@1": {
+    "id": "BS11-067@1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Black Raisin Cookie",
+        "type": "Cookie",
+        "cost": 0,
+        "color": null,
+        "image": "https://cookierunbraverse.com/data/en_storage/HIi-p2c23fh3emDZ5dwwQg.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "BS11-067@1-Black Raisin Cookie",
+    "type": "Cookie",
+    "cost": 0,
+    "level": "1",
+    "color": "Blue",
     "rarity": "SEC",
     "set": "BS11"
   },
@@ -1420,6 +1735,27 @@
       }
     },
     "name": "BS11-068-Black Sapphire Cookie",
+    "type": "Cookie",
+    "cost": 0,
+    "level": "1",
+    "color": "Blue",
+    "rarity": "R",
+    "set": "BS11"
+  },
+  "BS11-068@1": {
+    "id": "BS11-068@1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Black Sapphire Cookie",
+        "type": "Cookie",
+        "cost": 0,
+        "color": null,
+        "image": "https://cookierunbraverse.com/data/en_storage/llEsSq8qJYaSXwHHpOYVpQ.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "BS11-068@1-Black Sapphire Cookie",
     "type": "Cookie",
     "cost": 0,
     "level": "1",
@@ -1445,6 +1781,27 @@
     "cost": 0,
     "level": "2",
     "color": "Blue",
+    "rarity": "SR",
+    "set": "BS11"
+  },
+  "BS11-069@1": {
+    "id": "BS11-069@1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sea Fairy Cookie",
+        "type": "Cookie",
+        "cost": 0,
+        "color": null,
+        "image": "https://cookierunbraverse.com/data/en_storage/ts3xyQU5a5HjW-NqBF3y5Q.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "BS11-069@1-Sea Fairy Cookie",
+    "type": "Cookie",
+    "cost": 0,
+    "level": "2",
+    "color": "Blue",
     "rarity": "SSR",
     "set": "BS11"
   },
@@ -1466,6 +1823,27 @@
     "cost": 0,
     "level": "2",
     "color": "Blue",
+    "rarity": "SR",
+    "set": "BS11"
+  },
+  "BS11-070@1": {
+    "id": "BS11-070@1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pure Vanilla Cookie",
+        "type": "Cookie",
+        "cost": 0,
+        "color": null,
+        "image": "https://cookierunbraverse.com/data/en_storage/BpTMxn66SnEAAXXgCs89Iw.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "BS11-070@1-Pure Vanilla Cookie",
+    "type": "Cookie",
+    "cost": 0,
+    "level": "2",
+    "color": "Blue",
     "rarity": "SSR",
     "set": "BS11"
   },
@@ -1483,6 +1861,27 @@
       }
     },
     "name": "BS11-071-Shadow Milk Cookie",
+    "type": "Cookie",
+    "cost": 0,
+    "level": "2",
+    "color": "Blue",
+    "rarity": "UR",
+    "set": "BS11"
+  },
+  "BS11-071@1": {
+    "id": "BS11-071@1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shadow Milk Cookie",
+        "type": "Cookie",
+        "cost": 0,
+        "color": null,
+        "image": "https://cookierunbraverse.com/data/en_storage/hQGTHD7eVKskCFvtm_7V-w.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "BS11-071@1-Shadow Milk Cookie",
     "type": "Cookie",
     "cost": 0,
     "level": "2",
@@ -1781,6 +2180,27 @@
     "cost": 0,
     "level": "1",
     "color": "Purple",
+    "rarity": "R",
+    "set": "BS11"
+  },
+  "BS11-085@1": {
+    "id": "BS11-085@1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Salt Cellar Cookie",
+        "type": "Cookie",
+        "cost": 0,
+        "color": null,
+        "image": "https://cookierunbraverse.com/data/en_storage/mhTgk7S7lPEz4ji4aTmHEQ.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "BS11-085@1-Salt Cellar Cookie",
+    "type": "Cookie",
+    "cost": 0,
+    "level": "1",
+    "color": "Purple",
     "rarity": "SEC",
     "set": "BS11"
   },
@@ -1798,6 +2218,27 @@
       }
     },
     "name": "BS11-086-Crunchy Chip Cookie",
+    "type": "Cookie",
+    "cost": 0,
+    "level": "1",
+    "color": "Purple",
+    "rarity": "R",
+    "set": "BS11"
+  },
+  "BS11-086@1": {
+    "id": "BS11-086@1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Crunchy Chip Cookie",
+        "type": "Cookie",
+        "cost": 0,
+        "color": null,
+        "image": "https://cookierunbraverse.com/data/en_storage/pdAmPoA5R06WoN293aKrnA.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "BS11-086@1-Crunchy Chip Cookie",
     "type": "Cookie",
     "cost": 0,
     "level": "1",
@@ -1823,6 +2264,27 @@
     "cost": 0,
     "level": "2",
     "color": "Purple",
+    "rarity": "SR",
+    "set": "BS11"
+  },
+  "BS11-087@1": {
+    "id": "BS11-087@1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dark Cacao Cookie",
+        "type": "Cookie",
+        "cost": 0,
+        "color": null,
+        "image": "https://cookierunbraverse.com/data/en_storage/ohCAFID_2UXG7GHqCPkdJg.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "BS11-087@1-Dark Cacao Cookie",
+    "type": "Cookie",
+    "cost": 0,
+    "level": "2",
+    "color": "Purple",
     "rarity": "SSR",
     "set": "BS11"
   },
@@ -1840,6 +2302,27 @@
       }
     },
     "name": "BS11-088-Moonlight Cookie",
+    "type": "Cookie",
+    "cost": 0,
+    "level": "2",
+    "color": "Purple",
+    "rarity": "SR",
+    "set": "BS11"
+  },
+  "BS11-088@1": {
+    "id": "BS11-088@1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Moonlight Cookie",
+        "type": "Cookie",
+        "cost": 0,
+        "color": null,
+        "image": "https://cookierunbraverse.com/data/en_storage/K8-TwOgrDwB1GT4Qn3-yag.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "BS11-088@1-Moonlight Cookie",
     "type": "Cookie",
     "cost": 0,
     "level": "2",
@@ -1886,6 +2369,27 @@
     "cost": 0,
     "level": "3",
     "color": "Pure",
+    "rarity": "UR",
+    "set": "BS11"
+  },
+  "BS11-090@1": {
+    "id": "BS11-090@1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "White Lily Cookie",
+        "type": "Cookie",
+        "cost": 0,
+        "color": null,
+        "image": "https://cookierunbraverse.com/data/en_storage/k-va3I2a0PUrWMd7e5Lq7g.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "BS11-090@1-White Lily Cookie",
+    "type": "Cookie",
+    "cost": 0,
+    "level": "3",
+    "color": "Pure",
     "rarity": "SUR",
     "set": "BS11"
   },
@@ -1903,6 +2407,27 @@
       }
     },
     "name": "BS11-091-Avatar of Destiny",
+    "type": "Extra",
+    "cost": 0,
+    "level": "3",
+    "color": "Pure",
+    "rarity": "UR",
+    "set": "BS11"
+  },
+  "BS11-091@1": {
+    "id": "BS11-091@1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Avatar of Destiny",
+        "type": "Extra",
+        "cost": 0,
+        "color": null,
+        "image": "https://cookierunbraverse.com/data/en_storage/CBk8JJaIrdvUH9NScVqqoA.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "BS11-091@1-Avatar of Destiny",
     "type": "Extra",
     "cost": 0,
     "level": "3",
@@ -2327,6 +2852,27 @@
     "cost": 0,
     "level": "2",
     "color": "Black",
+    "rarity": "R",
+    "set": "BS11"
+  },
+  "BS11-111@1": {
+    "id": "BS11-111@1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mold Dough Cookie",
+        "type": "Cookie",
+        "cost": 0,
+        "color": null,
+        "image": "https://cookierunbraverse.com/data/en_storage/uU9hagkYjvITmN-hgCZHcQ.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "BS11-111@1-Mold Dough Cookie",
+    "type": "Cookie",
+    "cost": 0,
+    "level": "2",
+    "color": "Black",
     "rarity": "SEC",
     "set": "BS11"
   },
@@ -2344,6 +2890,27 @@
       }
     },
     "name": "BS11-112-Pom-pom Dough Cookie",
+    "type": "Cookie",
+    "cost": 0,
+    "level": "2",
+    "color": "Black",
+    "rarity": "R",
+    "set": "BS11"
+  },
+  "BS11-112@1": {
+    "id": "BS11-112@1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pom-pom Dough Cookie",
+        "type": "Cookie",
+        "cost": 0,
+        "color": null,
+        "image": "https://cookierunbraverse.com/data/en_storage/5PSt7bSC89lr0aUJ0aTXVA.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "BS11-112@1-Pom-pom Dough Cookie",
     "type": "Cookie",
     "cost": 0,
     "level": "2",
@@ -2369,6 +2936,27 @@
     "cost": 0,
     "level": "2",
     "color": "Black",
+    "rarity": "SR",
+    "set": "BS11"
+  },
+  "BS11-113@1": {
+    "id": "BS11-113@1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Venom Dough Cookie",
+        "type": "Cookie",
+        "cost": 0,
+        "color": null,
+        "image": "https://cookierunbraverse.com/data/en_storage/xhru3QIrmNlX_Ch-SBXVGA.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "BS11-113@1-Venom Dough Cookie",
+    "type": "Cookie",
+    "cost": 0,
+    "level": "2",
+    "color": "Black",
     "rarity": "SSR",
     "set": "BS11"
   },
@@ -2386,6 +2974,27 @@
       }
     },
     "name": "BS11-114-Pomegranate Cookie",
+    "type": "Cookie",
+    "cost": 0,
+    "level": "1",
+    "color": "Black",
+    "rarity": "SR",
+    "set": "BS11"
+  },
+  "BS11-114@1": {
+    "id": "BS11-114@1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pomegranate Cookie",
+        "type": "Cookie",
+        "cost": 0,
+        "color": null,
+        "image": "https://cookierunbraverse.com/data/en_storage/5DJaQKAwdFShW-0x2DSzsg.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "BS11-114@1-Pomegranate Cookie",
     "type": "Cookie",
     "cost": 0,
     "level": "1",
@@ -2411,6 +3020,69 @@
     "cost": 0,
     "level": "3",
     "color": "Black",
+    "rarity": "UR",
+    "set": "BS11"
+  },
+  "BS11-115@1": {
+    "id": "BS11-115@1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dark Enchantress Cookie",
+        "type": "Cookie",
+        "cost": 0,
+        "color": null,
+        "image": "https://cookierunbraverse.com/data/en_storage/SzpsCf5eVzgvjiTYqhYOXg.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "BS11-115@1-Dark Enchantress Cookie",
+    "type": "Cookie",
+    "cost": 0,
+    "level": "3",
+    "color": "Black",
+    "rarity": "SUR",
+    "set": "BS11"
+  },
+  "BS11-115@2": {
+    "id": "BS11-115@2",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dark Enchantress Cookie",
+        "type": "Cookie",
+        "cost": 0,
+        "color": null,
+        "image": "https://cookierunbraverse.com/data/en_storage/2VjqbtXhSxmEjqgoS5frrQ.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "BS11-115@2-Dark Enchantress Cookie",
+    "type": "Cookie",
+    "cost": 0,
+    "level": "3",
+    "color": "Black",
+    "rarity": "EXR",
+    "set": "BS11"
+  },
+  "BS11-115@3": {
+    "id": "BS11-115@3",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dark Enchantress Cookie",
+        "type": "Cookie",
+        "cost": 0,
+        "color": null,
+        "image": "https://cookierunbraverse.com/data/en_storage/IPhjMrsmavWvl_lf7SAYbg.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "BS11-115@3-Dark Enchantress Cookie",
+    "type": "Cookie",
+    "cost": 0,
+    "level": "3",
+    "color": "Black",
     "rarity": "GXR",
     "set": "BS11"
   },
@@ -2428,6 +3100,27 @@
       }
     },
     "name": "BS11-116-Dark Enchantress Cookie",
+    "type": "Extra",
+    "cost": 0,
+    "level": "5",
+    "color": "Black",
+    "rarity": "UR",
+    "set": "BS11"
+  },
+  "BS11-116@1": {
+    "id": "BS11-116@1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dark Enchantress Cookie",
+        "type": "Extra",
+        "cost": 0,
+        "color": null,
+        "image": "https://cookierunbraverse.com/data/en_storage/IUzr0Y-JCV0KtRE1nVACZA.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "BS11-116@1-Dark Enchantress Cookie",
     "type": "Extra",
     "cost": 0,
     "level": "5",
