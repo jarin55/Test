@@ -18958,7 +18958,7 @@
     "type": "Trap",
     "cost": 0,
     "level": "0",
-    "color": "Colorless",
+    "color": "Pure",
     "rarity": "SR",
     "set": "BS7"
   },
@@ -18979,7 +18979,7 @@
     "type": "Trap",
     "cost": 0,
     "level": "0",
-    "color": "Colorless",
+    "color": "Pure",
     "rarity": "EXR",
     "set": "BS7"
   },
@@ -24901,7 +24901,7 @@
     "type": "Item",
     "cost": 0,
     "level": "0",
-    "color": "Colorless",
+    "color": "Pure",
     "rarity": "UR",
     "set": "BS5"
   },
@@ -24922,7 +24922,7 @@
     "type": "Item",
     "cost": 0,
     "level": "0",
-    "color": "Colorless",
+    "color": "Pure",
     "rarity": "EXR",
     "set": "BS5"
   },
@@ -28345,7 +28345,7 @@
     "type": "Stage",
     "cost": 0,
     "level": "0",
-    "color": "Colorless",
+    "color": "Pure",
     "rarity": "UR",
     "set": "BS4"
   },
@@ -28366,7 +28366,7 @@
     "type": "Stage",
     "cost": 0,
     "level": "0",
-    "color": "Colorless",
+    "color": "Pure",
     "rarity": "EXR",
     "set": "BS4"
   },
@@ -31873,7 +31873,7 @@
     "type": "Stage",
     "cost": 0,
     "level": "0",
-    "color": "Colorless",
+    "color": "Pure",
     "rarity": "UR",
     "set": "BS3"
   },
@@ -31894,7 +31894,7 @@
     "type": "Stage",
     "cost": 0,
     "level": "0",
-    "color": "Colorless",
+    "color": "Pure",
     "rarity": "SUR",
     "set": "BS3"
   },
@@ -31915,7 +31915,7 @@
     "type": "Stage",
     "cost": 0,
     "level": "0",
-    "color": "Colorless",
+    "color": "Pure",
     "rarity": "EXR",
     "set": "BS3"
   },
@@ -31936,7 +31936,7 @@
     "type": "Stage",
     "cost": 0,
     "level": "0",
-    "color": "Colorless",
+    "color": "Pure",
     "rarity": "P",
     "set": "BS3"
   },
@@ -31957,7 +31957,7 @@
     "type": "Stage",
     "cost": 0,
     "level": "0",
-    "color": "Colorless",
+    "color": "Pure",
     "rarity": "P",
     "set": "BS3"
   },
@@ -31978,7 +31978,7 @@
     "type": "Stage",
     "cost": 0,
     "level": "0",
-    "color": "Colorless",
+    "color": "Pure",
     "rarity": "P",
     "set": "BS3"
   },
@@ -31999,7 +31999,7 @@
     "type": "Stage",
     "cost": 0,
     "level": "0",
-    "color": "Colorless",
+    "color": "Pure",
     "rarity": "P",
     "set": "BS3"
   },
@@ -37417,7 +37417,7 @@
     "type": "Stage",
     "cost": 0,
     "level": "0",
-    "color": "Colorless",
+    "color": "Pure",
     "rarity": "P",
     "set": "Promo"
   },
